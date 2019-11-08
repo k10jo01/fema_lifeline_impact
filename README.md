@@ -125,7 +125,9 @@ This shows the Lifelines in relation to current (November 2019) high risk of fir
 ![alt text](./03-Webapp-Images/Wildfire-potential-Lifeline-businesses.png)
 
 
+
 For a video demonstration of the full functionality of the ArcGIS map https://www.youtube.com/watch?v=Sl9ZTXYvWII&feature=youtu.be
+
 Additional visuals can be found at this link: https://public.tableau.com/profile/brenda.hali#!/vizhome/SanDigoCounty/Story1?publish=yes
 
 ---
