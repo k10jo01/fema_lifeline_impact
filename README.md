@@ -20,35 +20,29 @@ In recent years, the frequency and impact of wildfires in the United States has 
 
 ## Problem Statement
 
-In an effort to help FEMA in their challenges as an organization, we will analyze data to map businesses and organizations in the San Diego county area and denote which FEMA Lifeline they align to. Additionally, we will map out the area in San Diego County that has been historically impacted by wildfires. We hope to get an idea of the impact that a fire in the San Diego area can have to FEMA Lifelines. 
+The challenge that we set out to address was how we can help FEMA to identify businesses that may have been impacted in a disaster zone, and which Lifeline those businesses may align to. Utilizing this information, we aimed to create an interactive map for visualizing these Lifeline locations in relation to areas that have historically been affected by disasters and areas that are at risk to be affected in the future. We applied this technique to San Diego County, however the idea was to create a method and results that could be carried out for any other location in the United States.
 
 ---
 
 ## Table of Contents
 
-* Included in this repository (link to all in the repo)
-    * [Data]
-    * yelp data
-    * google data
-    * combined dataset
-    * [Code]
-    * yelp scrape notebook
-    * google scrape notebook
-    * EDA notebook
-    * visualizations notebook
-    * tableau file? 
-    * presentation pdf
-* [Tools](Tools)
-* [Data Description](Data_Description)
-* [Problem Approach](Problem_Approach)
-    * [Collecting Data](Collecting_Data)
-    * [Aligning the Lifelines](Aligning_the_Lifelines)
-    * [Mapping](Mapping)
-* [Conclusions](Conclusions)
-* [Improvements and Next Steps](Improvements_and_Next_Steps)
-* [Authors](Authors)
-* [Resources](Resources)
-* [Additional Resources for Wildfire Information](Additional_Resources_for_Wildfire_Information)
+* Included in this repository:
+    * [01-Code](./01-Code): scraping, cleaning, combining datasets 
+    * [02-Data](./02-Data): Yelp, Google, historical fire disaster perimeters, current high risk fire areas
+    * [03-Webapp-Images](./03-Webapp-Images): screenshots taken from ARCGIS webapp
+* Tools
+* Data Description
+* Problem Approach
+    * Collecting Data
+    * Aligning the Lifelines
+    * Mapping
+* Conclusions
+* Improvements and Next Steps
+* Authors
+* Resources
+* Additional Resources for Wildfire Information
+
+Additionally, we created a static site with this information: https://sites.google.com/view/fema-lifeline-business-lines/home
 
 ---
 
@@ -68,6 +62,7 @@ The following data sources are included in our analysis:
 * **Google Places:** Businesses and organizations, the category or type of business, latitude, longitude, and formatted address found using Google Places API. 
 * **Yelp:** Businesses and organizations, the category or type of business, latitude, longitude, and formatted address found using Yelp API. 
 * **San Diego County Disasters:** Historical data on type and dates of disasters that have occurred in San Diego County from FEMA's website. 
+* **Fire Perimeters:** Perimeters of areas affected by wildfire disasters.
 * **Wildfire Risk:** Current area in San Diego County at high risk of fire danger.
 * **Lifeline Information:** Lifelines descriptions and categories for classifying businesses and organizations, as defined by FEMA.
 
@@ -103,29 +98,29 @@ What kind of businesses or organizations align to each FEMA Lifeline? See below 
 ### Mapping
 Once our data was collected and aligned with a FEMA lifeline, we mapped those locations out along with the historical disaster-affected areas and the current high risk zones. We wanted to provide a map that was intuitive and provided the most value, so we tested a few different options before deciding on a final option.
 
-**NEED SOME INPUT FOR THIS SECTION**
 **Google Earth***
-was not very clear 
+While this was easy to map, the image was not very clear and was not very interactive. It was also not possible to map the Lifeline businesses and then add layers of fire perimeters or current fire risk zones.
+
+**BIOS**
+
 
 **ArcGIS**
-layers of each year of perimeters, current activity, businesses color-coded 
+Ultimately, we decided ArcGIS provided the best usability, interactiveness, and visuals. We could apply many layers to this map and update those layers simply and efficiently. We included layers of all businesses color-coded by Lifeline, the perimeters of historical wildfire disasters, and current high risk fire zones.
 
 ---
 
-## Conclusions - NEED FEEDBACK
-Using data from Google, Yelp, FEMA, and the USDA, we were able to create a map that shows the businesses in San Diego county, which FEMA Lifeline those businesses align to, and if they are in an area that was previously affected by a wildfire or are in a high risk area that could be affected in the future. 
+## Conclusions
+Using data from Google, Yelp, FEMA, and the USDA, we were able to create a map that shows the businesses in San Diego county and to which FEMA Lifeline those businesses align. Addtionally, we were able to add layers to the map of the perimeters of areas that were previously affected by a wildfire disaster or are in a high risk area that could be affected in the future. This information can help FEMA decision-makers to mobilize and anticipate resource needs during a disaster. 
 
 The map is a tool that can be used as a starting point to determine evacuation plans, or estimate potential or actual impact from a disaster. Knowing locations and which lifeline they map to can help disaster response teams more quickly help those locations or provide aid to those who need it during a disaster.
 
-[INSERT IMAGE OR LINKS]
-
 ---
 
-## Improvements and Next Steps - NEED FEEDBACK
+## Improvements and Next Steps
 
-There is currently an alert system and app in place to assist San Diego county, however those affected by the fires stretch beyond just this county. It would be beneficial to create an app and alert system that expands beyond San Diego county. Rural areas seem to be the ones that suffer from wildfire moreso than urban areas.
+We recommend to New Light Technologies and FEMA to invest in public and private technology partnerships. With the valuable tools we found to complete this analysis, we were able to paint a picture of how businesses and access to Lifelines could be impacted by a disaster. With less barriers (scrape limits/delays, software costs), our process could be reproduced in minimal time for any location in the United States. Technology partnerships would greatly increase the efficiency of identifying and mapping a disaster to assess its impact.
 
-FEMA should work directly with location search sites like Google and Yelp to add a field/category on their platforms that represent whether or not the business or organization aligns to a FEMA identified lifeline. Additionally, if these platforms also added a field that specifically states if a business is open or closed during and after a disaster affecting the area of that business, could help with further assessment or analysis of this type of problem.
+Additionally, if a partnership was established with platforms like Yelp or Google, they could add new features to better help FEMA in their response. Adding visible fields on their sites that note if the business is in an area affected by a disaster and whether or not that business is open as a result of the disaster could streamline our method even further.
 
 The ArcGIS map that was used to create our map was built through a free trial. For next steps, we recommend investing in this type of software to enhance this map and apply it to other areas affected by disasters. It has a software usage fee of $500 per year.
 
