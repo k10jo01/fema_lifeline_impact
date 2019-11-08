@@ -112,6 +112,9 @@ Ultimately, we decided ArcGIS provided the best usability, interactiveness, and 
 
 ![alt text](https://raw.githubusercontent.com/k10jo01/fema_lifeline_impact/blob/master/03-Webapp-Images/Starting-Map.png)
 
+![alt text](./03-Webapp-Images/Starting-Map.png)
+
+
 Additional visuals can be found at this link: https://public.tableau.com/profile/brenda.hali#!/vizhome/SanDigoCounty/Story1?publish=yes
 
 ---
