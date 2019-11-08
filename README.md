@@ -98,7 +98,7 @@ What kind of businesses or organizations align to each FEMA Lifeline? See below 
 ### Mapping
 Once our data was collected and aligned with a FEMA lifeline, we mapped those locations out along with the historical disaster-affected areas and the current high risk zones. We wanted to provide a map that was intuitive and provided the most value, so we tested a few different options before deciding on a final option.
 
-**Google Earth**
+**Google Earth Pro**
 
 While this was easy to map, the image was not very clear and was not very interactive. It was also not possible to map the Lifeline businesses and then add layers of fire perimeters or current fire risk zones.
 
