@@ -1,0 +1,296 @@
+,business,category,address,lat,long,lifeline
+0,Mona Lisa Italian Foods,grocery,"2061 India St', 'San Diego, CA 92101",32.72622,-117.16905,2
+1,The Marketplace,delis,"2601 5th Ave', 'San Diego, CA 92103",32.73268,-117.16,2
+2,Trader Joe's,grocery,"1072 Camino Del Rio N', 'San Diego, CA 92108",32.766165,-117.155166,2
+3,Pancho Villa's Farmer's Market,grocery,"3245 El Cajon Blvd', 'San Diego, CA 92104",32.7547799,-117.1236,2
+4,Zion Market,grocery,"7655 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.831369,-117.155172,2
+5,Siesel's Old Fashioned Meats,meats,"4131 Ashton St', 'San Diego, CA 92110",32.78139,-117.20649,2
+6,The Olive Tree Marketplace,grocery,"4805 Narragansett Ave', 'San Diego, CA 92107",32.74291,-117.24937,2
+7,Pure Water Health,waterstores,"8199 Clairemont Mesa Blvd', 'Ste K-1', 'San Diego, CA 92111",32.8322319,-117.1470856,2
+8,Royal Food Mart,grocery,"3403 1st Ave', 'San Diego, CA 92103",32.74089,-117.1640012,2
+9,99 Ranch Market,grocery,"7330 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.8333224123675,-117.160767883865,2
+10,Trader Joe's,grocery,"2401 Truxtun Rd', 'San Diego, CA 92106",32.7360397873886,-117.217380973907,2
+11,Windmill Farms,grocery,"6386 Del Cerro Blvd', 'San Diego, CA 92120",32.7837255698367,-117.059771364418,2
+12,Whole Foods Market,grocery,"711 University Ave', 'San Diego, CA 92103",32.7479508,-117.1580496,2
+13,Marukai Market,grocery,"8151 Balboa Ave', 'San Diego, CA 92111",32.8213,-117.14817,2
+14,The Water Lady Water Stores,waterstores,"2527 1/2 University Ave', 'San Diego, CA 92104",32.74822,-117.1371,2
+15,Fresh Alka Water,waterstores,"6628 Mission Gorge Rd', 'Ste A2', 'San Diego, CA 92120",32.793549,-117.0979351,2
+16,San Diego Humane Society,animalshelters,"5500 Gaines St', 'San Diego, CA 92110",32.7658,-117.19384,2
+17,Park Blvd Liquor and Deli,grocery,"4504 Park Blvd', 'San Diego, CA 92116",32.75927,-117.14647,2
+18,Trader Joe's,grocery,"1090 University Ave', 'San Diego, CA 92103",32.7498752,-117.1538189,2
+19,Tropical Star Restaurant & Specialty Market,grocery,"6163 Balboa Ave', 'San Diego, CA 92111",32.81959,-117.17469,2
+20,Jimbo's...Naturally!,grocery,"92 Horton Plz', 'San Diego, CA 92101",32.7133553531762,-117.16351389885,2
+21,Bristol Farms La Jolla,grocery,"8510 Genesee Ave', 'San Diego, CA 92122",32.867654,-117.215355,2
+22,Tokyo Central & Main,candy,"8111 Balboa Ave', 'San Diego, CA 92111",32.8210979575821,-117.148475041803,2
+23,Grocery Outlet Bargain Market,grocery,"1002 Market St', 'San Diego, CA 92101",32.711929,-117.155113,2
+24,"Barons Market, Point Loma",grocery,"4001 W Point Loma Blvd', 'San Diego, CA 92110",32.753437,-117.222305,2
+25,Grant's Marketplace,grocery,"2953 Beech St', 'San Diego, CA 92102",32.7211265563965,-117.130935668945,2
+26,99 Ranch Market,grocery,"5950 Balboa Ave', 'San Diego, CA 92111",32.82127,-117.17695,2
+27,The O.B. Water Store,waterstores,"3960 W Point Loma Blvd', 'Ste L', 'San Diego, CA 92110",32.7543889,-117.2221802,2
+28,North Park Produce,grocery,"3551 El Cajon Blvd', 'San Diego, CA 92104",32.7549209594727,-117.11653137207,2
+29,Northgate Market,grocery,"1410 S 43rd St', 'San Diego, CA 92113",32.6915825020938,-117.103818212308,2
+30,Harvest International Market,grocery,"4220 Balboa Ave', 'San Diego, CA 92117",32.812773,-117.200124,2
+31,P B Water Store,waterstores,"4450 Lamont St', 'San Diego, CA 92109",32.80028,-117.23541,2
+32,Wee Companions Small Animal Adoption,animalshelters,"3368 Governor Dr', 'Ste F', 'San Diego, CA 92122",32.85094,-117.2136394,2
+33,Sprouts Farmers Market,grocery,"4439 Genesse Ave', 'San Diego, CA 92117",32.824406,-117.183729708195,2
+34,Sprouts Farmers Market,grocery,"4175 Park Blvd', 'San Diego, CA 92103",32.7532642,-117.1458632,2
+35,Grocery Outlet Bargain Market,grocery,"3948 W Point Loma Blvd', 'San Diego, CA 92110",32.7555686804367,-117.221621739329,2
+36,Mid East Market,meats,"4595 El Cajon Blvd', 'San Diego, CA 92115",32.75526,-117.09563,2
+37,Farmers Outlet,markets,"10407 Friars Rd', 'San Diego, CA 92120",32.790231,-117.099292,2
+38,Carnival Supermarket,grocery,"3560 Ashford St', 'San Diego, CA 92111",32.80876,-117.16058,2
+39,The Rescued Dog,petadoption,"San Diego, CA 92106",32.723076,-117.230911,2
+40,Baron's Market,grocery,"3231 E University Ave', 'San Diego, CA 92104",32.7481882810583,-117.124271169305,2
+41,Northgate Market,grocery,"1950 Main St', 'San Diego, CA 92113",32.6987,-117.1452713,2
+42,Stadium Market,grocery,"2677 Mission Village Dr', 'San Diego, CA 92123",32.7943344116211,-117.123413085938,2
+43,Sprouts Farmers Market,grocery,"1260 Garnet Ave', 'San Diego, CA 92109",32.798696,-117.246953,2
+44,Miramar Cash & Carry,grocery,"9252 Miramar Rd', 'San Diego, CA 92126",32.8949915862198,-117.128612511989,2
+45,The Market By Buon Appetito,grocery,"1605 India St', 'San Diego, CA 92101",32.7221070975065,-117.16827146709,2
+46,Stehly Farms Market,markets,"4142 Adams Ave', 'San Diego, CA 92116",32.76353,-117.1058,2
+47,Trader Joe's,grocery,"5140 College Ave', 'San Diego, CA 92115",32.7719,-117.07028,2
+48,Ralphs,grocery,"101 G St', 'San Diego, CA 92101",32.71203,-117.16333,2
+49,Lazy Acres Market,grocery,"422 W Washington St', 'San Diego, CA 92103",32.75054,-117.16767,2
+50,Food Bowl Market,grocery,"3035 Cedar St', 'San Diego, CA 92102",32.72201,-117.12902,2
+51,Primo Foods,grocery,"5950 Santo Rd', 'San Diego, CA 92124",32.8377943941255,-117.098752949757,2
+52,San Diego House Rabbit Society,animalshelters,"4807 Mercury St', 'Ste A', 'San Diego, CA 92111",32.82956,-117.14837,2
+53,Keil's Fresh Food Store,grocery,"7403 Jackson Dr', 'San Diego, CA 92119",32.803738,-117.044476,2
+54,Trader Joe's,grocery,"1640 Garnet Ave', 'San Diego, CA 92109",32.8009035283188,-117.240766920956,2
+55,Thuan Phat Supermarket,grocery,"6935 Linda Vista Rd', 'San Diego, CA 92111",32.7844657897949,-117.169784545898,2
+56,Ralphs,grocery,"5680 Mission Center Rd', 'San Diego, CA 92108",32.7755951612053,-117.155252025154,2
+57,Sprouts Farmers Market,grocery,"3358 Governor Dr', 'San Diego, CA 92122",32.8517040438162,-117.214196938151,2
+58,H Mart San Diego - Balboa,grocery,"7725 Balboa Ave', 'San Diego, CA 92111",32.820731,-117.157479,2
+59,Sprouts Farmers Market,grocery,"3315 Rosecrans St', 'Ste B', 'San Diego, CA 92110",32.7475727034108,-117.206657230854,2
+60,Liquid Eden Water Store,venues,"3190 Adams Ave', 'San Diego, CA 92116",32.76361,-117.12513,2
+61,Parkside Market,grocery,"3209 Thorn St', 'San Diego, CA 92104",32.7391151,-117.1243546,2
+62,DeCA Commissary,grocery,"2525 Callagan Hwy', 'Bldg 3629', 'San Diego Naval Base', 'San Diego, CA 92136",32.690943,-117.130156,2
+63,Food 4 Less,grocery,"7730 Hazard Center Dr', 'San Diego, CA 92108",32.772065,-117.155617301584,2
+64,Food 4 Less,grocery,"4995 Shawline St', 'San Diego, CA 92111",32.83137,-117.16306,2
+65,Northgate Market,grocery,"5403 University Ave', 'San Diego, CA 92105",32.7469921526531,-117.078148290877,2
+66,Andres Latin Market,grocery,"1249 Morena Blvd', 'San Diego, CA 92110",32.7709121704102,-117.201553344727,2
+67,Crest Liquor,beer_and_wine,"3787 Ingraham St', 'San Diego, CA 92109",32.78855,-117.23714,2
+68,Gelson's,delis,"730 Turquoise St', 'San Diego, CA 92109",32.8087289,-117.2603632,2
+69,Vons,grocery,"2495 Truxton Rd', 'Bldg 28', 'San Diego, CA 92106",32.7419837920888,-117.210475449497,2
+70,Eurofood Depot Gourmet Market,cheese,"6640 Lusk Blvd', 'Ste A107', 'San Diego, CA 92121",32.90083,-117.20324,2
+71,Ralphs,drugstores,"4315 Mission Blvd', 'San Diego, CA 92109",32.7942418737861,-117.254286450663,2
+72,"California Labradors, Retrievers & More Rescue",animalshelters,"5425 Oberlin Dr', 'Ste 100', 'San Diego, CA 92121",32.891115,-117.200699,2
+73,Project Wildlife,animalshelters,"887 Sherman St', 'San Diego, CA 92110",32.763315,-117.200398,2
+74,Ralphs,grocery,"1030 University Ave', 'San Diego, CA 92103",32.74953,-117.154403,2
+75,Trader Joe's,grocery,"8657 Villa La Jolla Dr', 'La Jolla, CA 92037",32.865748,-117.231726,2
+76,The Salvation Army Kroc Center,nonprofit,"6845 University Ave', 'San Diego, CA 92115",32.754594,-117.049763,2
+77,Vinh Hao Drinking Water,waterstores,"7612 Linda Vista Rd', 'San Diego, CA 92111",32.801983781147,-117.158377824572,2
+78,Ralphs,grocery,"3345 Sports Arena Blvd', 'San Diego, CA 92110",32.751522,-117.211103,2
+79,Walmart,deptstores,"4840 Shawline St', 'San Diego, CA 92111",32.829706,-117.16502,2
+80,Local H2O,waterstores,"1380 Garnet Ave', 'San Diego, CA 92109",32.79921,-117.24481,2
+81,Vons,grocery,"1702 Garnet St', 'San Diego, CA 92109",32.8018042448593,-117.238955828732,2
+82,Ibis Market,grocery,"1112 Fort Stockton', 'San Diego, CA 92103",32.75098,-117.1735,2
+83,Vien Dong Supermarket 4,grocery,"5382 University Ave', 'San Diego, CA 92105",32.7491243,-117.0802952,2
+84,Jensen's Foods,grocery,"955 Catalina Blvd', 'Ste 101', 'San Diego, CA 92106",32.7217245,-117.2454952,2
+85,City Liquor House,beer_and_wine,"1801 5th Ave', 'San Diego, CA 92101",32.72459,-117.16001,2
+86,Vons,grocery,"515 W Washington St', 'San Diego, CA 92103",32.7496196311972,-117.16792338788,2
+87,First and Ivy Market,delis,"2170 1st Ave', 'San Diego, CA 92101",32.72805,-117.16412,2
+88,Stump's Family Marketplace,grocery,"3770 Voltaire St', 'San Diego, CA 92107",32.74121,-117.22919,2
+89,Bi-Rite Market,grocery,"2228 1st Ave', 'San Diego, CA 92101",32.72867,-117.1642,2
+90,Magic Market,grocery,"4825 Cass St', 'San Diego, CA 92109",32.80265,-117.25314,2
+91,Grocery Outlet Bargain Market,grocery,"5185 Waring Rd', 'San Diego, CA 92120",32.7919040014815,-117.08029742816,2
+92,County of  San Diego Animal Services,animalshelters,"5480 Gaines St', 'San Diego, CA 92110",32.7654885,-117.1933071,2
+93,Akshar Cash And Carry,grocery,"9520 Black Mountain Rd', 'Ste B', 'San Diego, CA 92126",32.89619,-117.1241,2
+94,Vons,grocery,"7788 Regents Rd', 'San Diego, CA 92122",32.862589,-117.22341,2
+95,Chris' Market,grocery,"3402 Myrtle Ave', 'San Diego, CA 92104",32.74186,-117.12059,2
+96,Whole Foods Market,grocery,"8825 Villa La Jolla Dr', 'La Jolla, CA 92037",32.8687404,-117.2306258,2
+97,Sprouts Farmers Market,grocery,"3015 Clairemont Dr', 'San Diego, CA 92117",32.794554,-117.1923348,2
+98,Krist Liquor,grocery,"7152 Linda Vista Rd', 'San Diego, CA 92111",32.7893697,-117.1681104,2
+99,Albertsons,grocery,"655 14th St', 'San Diego, CA 92101",32.7121422,-117.1514667,2
+100,Walmart,deptstores,"3382 Murphy Canyon Rd', 'San Diego, CA 92123",32.805204,-117.1163472,2
+101,Krisp Beverages + Natural Foods,grocery,"2511 C St', 'San Diego, CA 92102",32.7165985,-117.1398773,2
+102,International Market & Grill,grocery,"3211 Holiday Ct', 'Ste 100', 'La Jolla, CA 92037",32.870245,-117.233635,2
+103,MCAS Miramar Commissary,grocery,"Black Lion Ct And Moore Ave', 'Bldg 2661', 'San Diego, CA 92126",32.8915597,-117.1262161,2
+104,Sam's Club,wholesale_stores,"6336 College Grove Way', 'San Diego, CA 92115",32.739517,-117.055862,2
+105,Ralphs,grocery,"1666 Rosecrans', 'San Diego, CA 92106",32.72848,-117.22653,2
+106,World Food Supermarket,grocery,"5245 El Cajon Blvd', 'San Diego, CA 92115",32.7571971,-117.0827522,2
+107,Smart & Final Extra!,grocery,"2235 University Ave', 'San Diego, CA 92104",32.74797,-117.14058,2
+108,K & L Liquor and Market,grocery,"1413 Morena Blvd', 'San Diego, CA 92110",32.77365,-117.20393,2
+109,Samba Smoothie & Market,juicebars,"5665 Lindo Paseo', 'San Diego, CA 92115",32.7714092,-117.073662,2
+110,Baja Dog Rescue,animalshelters,"3495 Sports Arena Blvd', 'San Diego, CA 92110",32.7536124,-117.2117969,2
+111,Smart & Final,grocery,"5195 Clairemont Mesa Blvd', 'San Diego, CA 92117",32.83371,-117.1794,2
+112,Monroe Market,grocery,"4127 Monroe Ave Rear', 'San Diego, CA 92116",32.758689,-117.106529,2
+113,Sawaya Brothers,grocery,"425 S 30th St', 'San Diego, CA 92113",32.701473236084,-117.129272460938,2
+114,Vons,grocery,"4145 30th St', 'San Diego, CA 92104",32.75341,-117.12954,2
+115,Vons,grocery,"3550 Murphy Canyon Rd', 'San Diego, CA 92123",32.807302,-117.116562,2
+116,Neighborhood Farms Market,grocery,"3501 National Ave', 'San Diego, CA 92113",32.6959555596113,-117.118727043271,2
+117,Smart & Final,grocery,"720 15th St', 'San Diego, CA 92101",32.712886,-117.150783,2
+118,Ralphs,grocery,"6670 Montezuma Rd', 'San Diego, CA 92115",32.76923,-117.05434,2
+119,Vons,grocery,"5555 Balboa Ave', 'San Diego, CA 92111",32.8175823680792,-117.180703375,2
+120,San Diego Food Bank,foodbanks,"9850 Distribution Ave', 'San Diego, CA 92121",32.8869743347168,-117.164268493652,2
+121,Clairemont Water Store,waterstores,"3077 Clairemont Dr', 'Ste 105', 'San Diego, CA 92117",32.7964909,-117.1930401,2
+122,Vons,grocery,"3610 Adams Ave', 'San Diego, CA 92116",32.7641435255769,-117.114626091146,2
+123,Grocery Outlet Bargain Market,grocery,"4360 54th St', 'San Diego, CA 92115",32.756756,-117.080238,2
+124,My Market,grocery,"4111 Home Ave', 'San Diego, CA 92105",32.7230079,-117.1068229,2
+125,Vons,grocery,"4725 Clairemont Dr', 'San Diego, CA 92117",32.8302250188485,-117.204749267051,2
+126,Walmart Supercenter,deptstores,"3412 College Ave', 'San Diego, CA 92115",32.741507,-117.053133,2
+127,Comstock Market,grocery,"2145 Comstock St', 'San Diego, CA 92111",32.7833098,-117.1705148,2
+128,Sin Lee Food Whole Sale,grocery,"4665 El Cajon Blvd', 'San Diego, CA 92115",32.75523,-117.09406,2
+129,Boney's Bayside Market,grocery,"155 Orange Ave', 'Coronado, CA 92118",32.6976,-117.17247,2
+130,Appletree Supermarket,grocery,"4976 Newport Ave', 'San Diego, CA 92107",32.7466492444254,-117.250512574792,2
+131,Vons,grocery,"6555 Mission Gorge Rd', 'San Diego, CA 92120",32.792383,-117.096455,2
+132,Rainbow Supermarket,grocery,"4727 Federal Blvd', 'San Diego, CA 92102",32.7213051,-117.0932032,2
+133,Smart & Final,grocery,"2804 Midway Dr', 'San Diego, CA 92110",32.74879,-117.20363,2
+134,Servall Liquor - Craft City,beer_and_wine,"1279 University Ave', 'San Diego, CA 92103",32.7482951,-117.1518505,2
+135,Mission Market,grocery,"2885 Mission Blvd', 'San Diego, CA 92109",32.765411,-117.251014,2
+136,Vons,grocery,"3645 Midway Dr', 'San Diego, CA 92110",32.7513394021822,-117.217531896868,2
+137,The Corner Mercantile & Eatery,coffee,"8080 La Jolla Shores Dr', 'San Diego, CA 92037",32.85362,-117.25417,2
+138,Vons,grocery,"6155 El Cajon Blvd', 'San Diego, CA 92115",32.7608209374908,-117.064995383332,2
+139,El Paisano Victor's Market,grocery,"3820 University Ave', 'San Diego, CA 92105",32.749914355136,-117.111624452713,2
+140,Rancho Fresco Market,markets,"1852 National Ave', 'San Diego, CA 92113",32.70144,-117.14562,2
+141,Walmart Neighborhood Market,grocery,"2121 Imperial Ave', 'San Diego, CA 92102",32.7057424,-117.1444147,2
+142,Lizy Gidy African Market,grocery,"3727 University Ave', 'San Diego, CA 92105",32.7494732,-117.1121243,2
+143,Food 4 Less,grocery,"5975 University Ave', 'San Diego, CA 92115",32.7509714347798,-117.067776958861,2
+144,Smart & Final Extra!,grocery,"6235 El Cajon Blvd', 'San Diego, CA 92115",32.762204,-117.063717,2
+145,Supermercado Murphy's,grocery,"4580 University Ave', 'San Diego, CA 92105",32.74988,-117.0958,2
+146,Abbott Street Market,grocery,"2074 Abbott St', 'San Diego, CA 92107",32.75103,-117.25035,2
+147,Labradors and Friends Dog Rescue Group,petservices,"2307 Fenton Pkwy', 'Ste 107-160', 'San Diego, CA 92108",32.78042,-117.12998,2
+148,Ralphs,grocery,"8657 Villa La Jolla Dr', 'La Jolla, CA 92037",32.8661614878888,-117.232199333665,2
+149,Louie's Market Place,grocery,"5409 Redwood St', 'San Diego, CA 92105",32.737485,-117.078967,2
+150,Vons,grocery,"10460 Clairemont Mesa Blvd', 'San Diego, CA 92124",32.830404692015,-117.104115352667,2
+151,M & M Market,grocery,"8555 Station Village Ln', 'San Diego, CA 92108",32.7739618020641,-117.142050744216,2
+152,Glenn's Market,grocery,"2835 University Ave', 'San Diego, CA 92104",32.7482517783918,-117.132089098538,2
+153,Muang Lao Market #1,grocery,"110 47th St', 'San Diego, CA 92102",32.70462,-117.094063,2
+154,Harbor Island Liquor & Deli,beer_and_wine,"2040 Harbor Island Dr', 'San Diego, CA 92101",32.7251821415417,-117.210619998431,2
+155,Village Market,grocery,"6555 Ambrosia Dr', 'Ste 1131', 'San Diego, CA 92124",32.7947439,-117.1072843,2
+156,Families Market,grocery,"3304 41st St', 'San Diego, CA 92105",32.7404609,-117.1071689,2
+157,Cortez Hill Market & Deli,grocery,"1301 9th Ave', 'San Diego, CA 92101",32.719080853685,-117.156446017985,2
+158,La Central Market,mexican,"2001 National Ave', 'San Diego, CA 92113",32.69919,-117.14344,2
+159,Animal Rescuers Without Borders,animalshelters,"San Diego, CA 92171",32.7831726074219,-117.170974731445,2
+160,El Super,grocery,"4421 University Ave', 'San Diego, CA 92105",32.74868029299,-117.099279241992,2
+161,Lucky Pup Dog Rescue,animalshelters,"San Diego, CA 92163",32.74962,-117.1508,2
+162,Minh Huong Supermarket,grocery,"4029 Euclid Ave', 'San Diego, CA 92105",32.74978,-117.091505,2
+163,SF Supermarket,grocery,"6935 Linda Vista Rd', 'San Diego, CA 92111",32.7845,-117.16978,2
+164,Santos' Market,farmersmarket,"6619 Linda Vista Rd', 'Ste 100', 'San Diego, CA 92111",32.7738571166992,-117.174652099609,2
+165,Minit Mart Market,grocery,"2351 Ulric St', 'San Diego, CA 92111",32.78661,-117.16911,2
+166,Pacific Beach Certified Farmers' Market - Saturday,grocery,"4150 Mission Blvd', 'San Diego, CA 92109",32.7916526,-117.2541479,2
+167,Clown Market & Liquor,beer_and_wine,"8690 Aero Dr', 'Ste 130', 'San Diego, CA 92123",32.8098349,-117.1410549,2
+168,I.B. ClearWater,waterstores,"238 Palm Ave', 'Imperial Beach, CA 91932",32.5840649,-117.1285802,2
+169,Smart & Final Extra!,grocery,"10633 Tierrasanta Blvd', 'San Diego, CA 92124",32.8227512,-117.1006427,2
+170,Hing Long Oriental Food Market,grocery,"4644 El Cajon Blvd', 'Ste 104', 'San Diego, CA 92115",32.75614,-117.09471,2
+171,Tomboy Market,beer_and_wine,"1705 S 39th St', 'San Diego, CA 92113",32.6884499,-117.1100616,2
+172,Big Value Market,grocery,"623 69th St', 'San Diego, CA 92114",32.7115369,-117.0492939,2
+173,Beach Market,grocery,"3419 Mission Blvd', 'San Diego, CA 92109",32.77664,-117.25219,2
+174,Food 4 Less No 763 Market Creek Plaza,grocery,"312 Euclid Ave', 'San Diego, CA 92114",32.7081876,-117.0851749,2
+175,Vons,grocery,"3993 Governor Dr', 'San Diego, CA 92122",32.8534736633301,-117.203178405762,2
+176,Carnival Supermarket,grocery,"1750 E 8th St', 'National City, CA 91950",32.6804656982422,-117.088752746582,2
+177,Harry's Market,grocery,"750 Ventura Pl', 'San Diego, CA 92109",32.7722,-117.25162,2
+178,Division Market,grocery,"5402 Division St', 'San Diego, CA 92114",32.6918830871582,-117.077659606934,2
+179,Big K Market,grocery,"6196 Federal Blvd', 'San Diego, CA 92114",32.7291002,-117.0636505,2
+180,Express Market,grocery,"2543 University Ave', 'San Diego, CA 92104",32.74822,-117.1371,2
+181,Holiday Market,beer_and_wine,"3206 Thorn St', 'San Diego, CA 92104",32.73939,-117.12483,2
+182,Murphy's Market,grocery,"3596 Fairmount Ave', 'San Diego, CA 92105",32.7435199,-117.10129,2
+183,David's Friendly Market,grocery,"543 32nd St', 'San Diego, CA 92102",32.7114199,-117.12508,2
+184,Costa Verde Center,shoppingcenters,"8410 8750 Genesee Ave', 'San Diego, CA 92122",32.8677703,-117.2152368,2
+185,Rachel's Women's Center,homelessshelters,"759 8th Ave', 'San Diego, CA 92101",32.7131726,-117.1572751,2
+186,Hoa Hing Market,grocery,"4149 University Ave', 'San Diego, CA 92105",32.748714,-117.106184,2
+187,West Cedar Market,grocery,"412 W Cedar St', 'San Diego, CA 92101",32.7221260070801,-117.166778564453,2
+188,Presidio Market,grocery,"5201 Linda Vista Rd', 'San Diego, CA 92110",32.765321,-117.196367,2
+189,Avian Fresh Drinking Water,waterstores,"4034 43rd St', 'Ste D', 'San Diego, CA 92105",32.7503509521484,-117.102333068848,2
+190,Mekong Village & Restaurant,grocery,"110 47th St', 'San Diego, CA 92101",32.7046241760254,-117.094062805176,2
+191,Albertsons,grocery,"7090 Broadway', 'Lemon Grove, CA 91945",32.7437921,-117.0453207,2
+192,Imperial Food Supermarket,grocery,"6503 Imperial Ave', 'San Diego, CA 92114",32.7100643576473,-117.057733610272,2
+193,World Famous Smoked Fish,grocery,"3131 University Ave', 'San Diego, CA 92104",32.74824,-117.1265,2
+194,India Food & Grocery,grocery,"9474 Black Mountain Rd', 'Ste D', 'San Diego, CA 92126",32.89534,-117.1241302,2
+195,Party Time Liquor,beer_and_wine,"1059 Garnet Ave', 'San Diego, CA 92109",32.797394,-117.250438,2
+196,Big Time Market & Liquor,grocery,"2101 Saipan Dr', 'San Diego, CA 92139",32.6821054551286,-117.056636751434,2
+197,Wagging Tails,animalshelters,"3495 Sports Arena Blvd', 'San Diego, CA 92110",32.7535068,-117.2119337,2
+198,UCSD General Store Co-op,grocery,"9500 Gilman Dr', 'Ste 0323-F', 'La Jolla, CA 92037",32.8753618,-117.2358622,2
+199,Vons,grocery,"868 Orange St', 'Coronado, CA 92118",32.68785,-117.17924,2
+200,Savers 98 Cent Market,grocery,"2901 National Ave', 'San Diego, CA 92113",32.69564,-117.131515,2
+201,African Caribbean Food,grocery,"4811 El Cajon Blvd', 'San Diego, CA 92115",32.75596,-117.0909,2
+202,Foodland Mercado,grocery,"5075 Federal Blvd', 'San Diego, CA 92102",32.7207281,-117.0856926,2
+203,Triton Food Pantry,foodbanks,"Fl 1', 'San Diego, CA 92093",32.8813209533691,-117.233917236328,2
+204,J & J Discount Food Market,grocery,"5036 Imperial Ave', 'San Diego, CA 92113",32.70467,-117.08579,2
+205,Lew's Market,grocery,"3302 Imperial Ave', 'San Diego, CA 92102",32.70703,-117.12237,2
+206,Fresh Garden Market,grocery,"4291 Market St', 'San Diego, CA 92102",32.7112,-117.10257,2
+207,Tu Mercado,grocery,"University Of San Diego', '5998 Alcala Park', 'San Diego, CA 92110",32.7723816984365,-117.187334421625,2
+208,Coast Market,grocery,"3206 Mission Blvd', 'San Diego, CA 92109",32.77223,-117.25141,2
+209,El General Market,grocery,"4232 Poplar St', 'San Diego, CA 92105",32.73583,-117.10453,2
+210,The Hub Hillcrest Market,shoppingcenters,"940-1092 University Ave', 'San Diego, CA 92103",32.749331,-117.154235,2
+211,Nex Autoport - Sub Base,servicestations,"Kerrick Rd', 'San Diego, CA 92106",32.6839604489495,-117.237253872909,2
+212,Brunos Market,grocery,"2988 Imperial Ave', 'San Diego, CA 92102",32.706697,-117.129717,2
+213,Kearny Mesa Market,grocery,"7631 Linda Vista Rd', 'San Diego, CA 92111",32.8019371032715,-117.157005310059,2
+214,Kentstop Water Store & More,waterstores,"3530 E 8th St', 'National City, CA 91950",32.6856099,-117.07111,2
+215,Middle of Muir,grocery,"9500 Gilman Dr', 'La Jolla, CA 92092",32.8771649662756,-117.237356698791,2
+216,Square Deal Market,grocery,"301 20th St', 'San Diego, CA 92102",32.7085380554199,-117.14559173584,2
+217,Sunshine Liquor,grocery,"3435 Euclid Ave', 'San Diego, CA 92105",32.7418327331543,-117.092041015625,2
+218,Foodland Mercado,grocery,"3550 National Ave', 'San Diego, CA 92113",32.6961349,-117.1176338,2
+219,Mother's Nutritional Centers,healthmarkets,"4502 University Ave', 'Units 101&102', 'Ste 101/102', 'San Diego, CA 92105",32.74983,-117.09742,2
+220,United Liquor & Market,grocery,"1960 54th St', 'San Diego, CA 92105",32.72571,-117.08406,2
+221,Wrigley's Supermarket,grocery,"34 N Euclid Ave', 'National City, CA 91950",32.690277,-117.085962,2
+222,Mother's Nutritional Centers,healthmarkets,"1793 National Ave', 'San Diego, CA 92113",32.7017097,-117.1470795,2
+223,United Food & Commercial Workers Union Local 135,grocery,"2001 Camino Del Rio S', 'San Diego, CA 92108",32.76786,-117.14335,2
+224,North Island Commissary,grocery,"2017 Colorado St', 'Coronado, CA 92118",32.7020617613984,-117.184413671494,2
+225,Little Sam's Mkt,grocery,"3756 Mission Blvd', 'San Diego, CA 92109",32.7837448120117,-117.252906799316,2
+226,Smart & Final Extra!,grocery,"150 B Ave', 'Coronado, CA 92118",32.697348,-117.171196,2
+227,Savers 98 Cents Store,grocery,"4129 University Ave', 'San Diego, CA 92105",32.74912,-117.10605,2
+228,San Diego Animal Support Foundation,animalshelters,"San Diego, CA 92168",32.7685508728027,-117.148399353027,2
+229,Rancho Market & Liquor,beer_and_wine,"2970 Imperial Ave', 'San Diego, CA 92102",32.70669,-117.13015,2
+230,4 J's Mini Mart,grocery,"4090 El Cajon Blvd', 'San Diego, CA 92105",32.7555503845215,-117.107482910156,2
+231,SD Fresh Drinking Water,waterstores,"4448 University Ave', 'San Diego, CA 92105",32.7499349,-117.0990131,2
+232,Lucky's Market,grocery,"2259 Logan Ave', 'San Diego, CA 92113",32.69712,-117.13852,2
+233,Aqua Cafe Water Store,waterstores,"3077 Clairemont Dr', 'Ste 105', 'San Diego, CA 92117",32.796566,-117.1930245,2
+234,Pug Rescue,animalshelters,"San Diego, CA 92101",32.7211,-117.16431,2
+235,Uptown Faith Community Service Center,homelessshelters,"3725 30th St', 'San Diego, CA 92104",32.7459599,-117.12977,2
+236,PAWS of Coronado,animalshelters,"1395 1st St', 'Coronado, CA 92118",32.6974549,-117.1688768,2
+237,The Kind Co-Op,grocery,"3910B W Point Loma Blvd', 'San Diego, CA 92110",32.7548699,-117.22021,2
+238,Eduardo's Mercado,grocery,"3175 National Ave', 'San Diego, CA 92113",32.6957321886159,-117.12567396462,2
+239,Rover's Retreat,animalshelters,"3639 Midway Dr', 'Ste B358', 'San Diego, CA 92110",32.7525452,-117.2161435,2
+240,La Salsa Market,grocery,"3702 Euclid Ave', 'San Diego, CA 92105",32.746,-117.09254,2
+241,E B M Jr Market,grocery,"3638 El Cajon Blvd', 'San Diego, CA 92104",32.7555198669434,-117.11498260498,2
+242,Pancho's Market,grocery,"2808 B St', 'San Diego, CA 92102",32.7179892361164,-117.133538201451,2
+243,Town Liquor,grocery,"2289 Imperial Ave', 'San Diego, CA 92102",32.7064959400883,-117.143974902812,2
+244,Mike's Market,grocery,"3676 Ocean View Blvd', 'San Diego, CA 92113",32.70144,-117.11516,2
+245,Mountain View Community Center,communitycenters,"641 S Boundary St', 'San Diego, CA 92113",32.69911,-117.1056,2
+246,Hometown Iga,grocery,"5075 Federal Blvd', 'San Diego, CA 92102",32.7209281921387,-117.085639953613,2
+247,Starlight Market,grocery,"7020 El Cajon Blvd', 'San Diego, CA 92115",32.76906,-117.04629,2
+248,Anderson's Market Liquor & Deli,grocery,"4131 Home Ave', 'San Diego, CA 92105",32.723606,-117.106246,2
+249,Valencia Park Market & Deli,grocery,"5061 Brooks Huffman Plz', 'San Diego, CA 92113",32.70382,-117.08554,2
+250,Dai Tan Supermarket & Cafe,grocery,"6959 Linda Vista Rd', 'San Diego, CA 92111",32.78679,-117.16967,2
+251,Mother's Nutritional Centers,grocery,"220 Euclid Ave', '#140', 'San Diego, CA 92114",32.7061895061265,-117.085828912323,2
+252,Watermill Express,waterstores,"6137 Balboa Ave', 'San Diego, CA 92111",32.820084,-117.1742782,2
+253,Super Jr Market,grocery,"1036 7th Ave', 'San Diego, CA 92101",32.7161636352539,-117.158630371094,2
+254,38th Street Market,grocery,"3805 University Ave', 'San Diego, CA 92105",32.7495231628418,-117.111633300781,2
+255,Food Center - Quality Food,grocery,"4663 El Cajon Blvd', 'San Diego, CA 92115",32.75552,-117.09405,2
+256,Popular Market,grocery,"951 Park Blvd', 'San Diego, CA 92101",32.7155,-117.15332,2
+257,Fastbreak Food & More,grocery,"5171 Zion Ave', 'San Diego, CA 92120",32.7928148210049,-117.081599235535,2
+258,Roger's Place and Market,convenience,"9500 Gilman Dr', 'La Jolla, CA 92093",32.8745059735626,-117.242299843964,2
+259,Ya Ya 99 Cent & Up,grocery,"4725 Federal Blvd', 'San Diego, CA 92102",32.72097,-117.09282,2
+260,Al's Food Market,grocery,"2955 K St', 'San Diego, CA 92102",32.7084365487099,-117.130471095443,2
+261,A P R  L,animalshelters,"4919A Newport Ave', 'San Diego, CA 92107",32.7454794819963,-117.250082530081,2
+262,Barrio Station,communitycenters,"2175 Newton Ave', 'San Diego, CA 92113",32.6965915,-117.1414122,2
+263,Minute Mart,grocery,"5006 El Cajon Blvd', 'Ste B', 'San Diego, CA 92115",32.7571487426758,-117.086532592773,2
+264,Eagle Market,grocery,"4651 University Ave', 'San Diego, CA 92105",32.7493095397949,-117.094123840332,2
+265,Rainbow Grocery,grocery,"4727 Federal Blvd', 'San Diego, CA 92102",32.7213051,-117.0932032,2
+266,A-Mart,grocery,"1255 Imperial Ave', 'San Diego, CA 92101",32.70576,-117.1534,2
+267,Aaron's Eatzz,grocery,"4488 Convoy St', 'San Diego, CA 92111",32.8213882,-117.1555023,2
+268,S & N Market,grocery,"2936 Monroe Ave', 'San Diego, CA 92116",32.75933,-117.13058,2
+269,San Diego Bird Rescue,animalshelters,"3069 El Cajon Blvd', 'San Diego, CA 92104",32.75494,-117.12838,2
+270,City Halal Food Market,grocery,"4202 El Cajon Blvd', 'San Diego, CA 92105",32.7553787231445,-117.104721069336,2
+271,Debbie Cole Cat Rescue,animalshelters,"San Diego, CA 92101",32.7211,-117.16431,2
+272,Ucsd Plaza On the Side,coffee,"9450 Gilman Dr', 'San Diego, CA 92037",32.8724823040291,-117.235209361763,2
+273,El Super,grocery,"3830-3998 44th St', 'San Diego, CA 92105",32.7487093869712,-117.09932543366,2
+274,Diamond Dot Market,grocery,"1740 S 43rd St', 'San Diego, CA 92113",32.6880378723145,-117.102714538574,2
+275,Food Bargain Market,grocery,"6261 Imperial Ave', 'San Diego, CA 92114",32.70949,-117.06352,2
+276,Landis St. Market,beer_and_wine,"4069 Landis St', 'San Diego, CA 92105",32.7458345125055,-117.107934504747,2
+277,Don John Market,grocery,"431 N Highland Ave', 'Ste A', 'National City, CA 91950",32.6887817382812,-117.102104187012,2
+278,ReadyRefresh by Nestlé®,waterdelivery,"8025 Engineer Rd', 'San Diego, CA 92111",32.82501,-117.15128,2
+279,Health and Human Services Agency,communitycenters,"4588 Market St', 'San Diego, CA 92102",32.7115676,-117.0960156,2
+280,V-D Market,grocery,"2193 Ocean View Blvd', 'San Diego, CA 92113",32.7022299170494,-117.135578691959,2
+281,Minnehaha Food Market,grocery,"4990 University Ave', 'San Diego, CA 92105",32.74976,-117.08726,2
+282,Global Health and Wellness,nutritionists,"5663 Balboa Ave', 'Ste 367', 'San Diego, CA 92111",32.8194299,-117.17978,2
+283,Crosby Food Store,grocery,"1879 Logan Ave', 'Ste A', 'San Diego, CA 92113",32.7014503479004,-117.144821166992,2
+284,Bel Air Market,grocery,"4473 Logan Ave', 'San Diego, CA 92113",32.6966851,-117.0982174,2
+285,Ariana Market & Restaurant,grocery,"3270 Greyling Dr', 'San Diego, CA 92123",32.80249,-117.14,2
+286,La Posta Market,grocery,"2796 K St', 'San Diego, CA 92102",32.70867,-117.13398,2
+287,Pure & Clear Water Store,waterstores,"2433 E Plaza Blvd', 'National City, CA 91950",32.679506,-117.0809314,2
+288,Pinoy Ranch,grocery,"3403 E Plaza Blvd', 'Ste D', 'National City, CA 91950",32.684619,-117.07135,2
+289,Alkalicious Purified and Alkaline WaterStore,waterstores,"1610 E 8th St', 'National City, CA 91950",32.68024,-117.09016,2
+290,Focas-Friends of County Animal Shelters,animalshelters,"San Diego, CA 92101",32.7211,-117.16431,2
+291,Oscars Market,grocery,"4210 Market St', 'San Diego, CA 92102",32.7113115575222,-117.10447735141,2
+292,Jerry's Mkt,grocery,"841 S 45th St', 'San Diego, CA 92113",32.6971206665039,-117.097724914551,2
+293,Discount Depot,grocery,"3403 E Plaza Blvd', 'National City, CA 91950",32.68463,-117.07134,2
+294,Sixth College Place and Market,grocery,"9500 Gilman Dr', 'La Jolla, CA 92093",32.8771649662756,-117.237356698791,2

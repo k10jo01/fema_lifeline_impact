@@ -1,0 +1,330 @@
+,business,category,address,lat,long,lifeline
+0,Sharp Rees-Stealy Downtown,medcenters,"300 Fir St', 'San Diego, CA 92101",32.7253312273891,-117.1616766,3
+1,Marque Urgent Care,urgent_care,"4490 Fanuel St', 'San Diego, CA 92109",32.79831,-117.24644,3
+2,Sharp Mary Birch Hospital for Women & Newborns,hospitals,"3003 Health Center Dr', 'San Diego, CA 92123",32.79862,-117.155051,3
+3,PlushCare Urgent Care,urgent_care,"San Diego, CA 92109",32.79522,-117.23766,3
+4,AFC Urgent Care,urgent_care,"5671 Balboa Ave', 'Ste 100', 'San Diego, CA 92111",32.8200861,-117.1790355,3
+5,San Diego Sports Medicine & Family Health Center - Urgent Care,familydr,"1945 Garnet Ave', 'San Diego, CA 92109",32.80103,-117.23404,3
+6,Perlman Clinic San Diego,familydr,"3900 5th Ave', 'Ste 110', 'San Diego, CA 92103",32.7485686,-117.1607796,3
+7,Heal,familydr,"San Diego, CA 92102",32.71385,-117.1393,3
+8,Perlman Clinic - Kensington,urgent_care,"4142 Adams Ave', 'Ste 102', 'San Diego, CA 92116",32.7635419,-117.105841,3
+9,Insight Dermatology,dermatology,"9878 Hibert St', 'Ste 100', 'San Diego, CA 92131",32.9157943725586,-117.114128112793,3
+10,"UC San Diego Health - Express Care, Downtown",walkinclinics,"203 West F Street', 'San Diego, CA 92101",32.7134151,-117.164874,3
+11,Sharp Memorial Outpatient Pavilion,hospitals,"3075 Health Center Dr', 'San Diego, CA 92123",32.7987843,-117.1555035,3
+12,Sharp Memorial Hospital,hospitals,"7901 Frost St', 'San Diego, CA 92123",32.79937,-117.154416,3
+13,Pacific Urgent Care and Wellness Center,urgent_care,"975 Garnet Ave', 'San Diego, CA 92109",32.7971012,-117.2520147,3
+14,AFC Urgent Care,urgent_care,"8590 Rio San Diego Dr', 'Ste 111', 'San Diego, CA 92108",32.7762461896238,-117.14455748941,3
+15,Eti Domb,acupuncture,"4054 Centre St', 'Ste 1', 'San Diego, CA 92103",32.75169,-117.14714,3
+16,Scripps Memorial Hospital La Jolla,hospitals,"9888 Genesee Ave', 'San Diego, CA 92037",32.8847034972632,-117.225496917964,3
+17,LEI Medical Group,medcenters,"9620 Chesapeake Dr', 'Ste 104', 'San Diego, CA 92123",32.8340302,-117.1233215,3
+18,Pediatric Specialty Partners,medcenters,"8929 University Center Ln', 'Ste 208', 'San Diego, CA 92122",32.86984,-117.22652,3
+19,Naval Medical Center San Diego,medcenters,"34800 Bob Wilson Dr', 'San Diego, CA 92134",32.727359,-117.145904,3
+20,Rady Children's Hospital,hospitals,"3020 Children's Way"", 'San Diego, CA 92123",32.79843,-117.15198,3
+21,Scripps Green Hospital,hospitals,"10666 N Torrey Pines Rd', 'San Diego, CA 92037",32.898705,-117.242814,3
+22,Scripps Mercy Hospital San Diego,hospitals,"4077 5th Ave', 'San Diego, CA 92103",32.751376,-117.160023,3
+23,Scripps Coastal Medical Center Hillcrest,medcenters,"501 Washington St', 'Stes 525 & 600', 'San Diego, CA 92103",32.7493362426758,-117.15991973877,3
+24,Marque Urgent Care,urgent_care,"4085 Governor Dr', 'San Diego, CA 92122",32.85434,-117.2022,3
+25,"IGO Medical Group, AMC",obgyn,"9339 Genesee Ave', 'Ste 220', 'San Diego, CA 92121",32.8759,-117.21324,3
+26,Perlman Clinic Clairemont,familydr,"3737 Moraga Ave', 'Ste B-103', 'San Diego, CA 92117",32.8092584,-117.2106773,3
+27,Basha Health,medcenters,"2667 Camino Del Rio S', 'Ste 302', 'San Diego, CA 92108",32.76904,-117.13537,3
+28,Integrative Wellness Center of San Diego,chiropractors,"7094 Miramar Rd', 'Ste 109', 'San Diego, CA 92121",32.87994,-117.16208,3
+29,Kaiser Permanente Zion Medical Center,hospitals,"4647 Zion Ave', 'San Diego, CA 92120",32.7919312245365,-117.095254696295,3
+30,"UC San Diego Medical Center, Hillcrest",hospitals,"200 West Arbor Dr', 'San Diego, CA 92103",32.754401,-117.165833,3
+31,Kaiser Permanente Garfield Specialty Center,medcenters,"5893 Copley Dr', 'San Diego, CA 92111",32.84501,-117.17345,3
+32,Scripps Polster Breast Care Center,medcenters,"9850 Genesee Ave', 'Ste 170', 'San Diego, CA 92037",32.8829078674316,-117.226341247559,3
+33,San Diego VA Medical Center,medcenters,"3350 La Jolla Village Dr', 'San Diego, CA 92161",32.875605873543,-117.23228293368,3
+34,Kaiser Permanente Vandever Medical Offices,medcenters,"4405 Vandever Ave', 'San Diego, CA 92120",32.7872657775879,-117.099678039551,3
+35,Beach Area Family Health Center,medcenters,"3705 Mission Blvd', 'San Diego, CA 92109",32.78272,-117.25221,3
+36,Planned Parenthood - Kearny Mesa Center,medcenters,"7526 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.83336,-117.15719,3
+37,HarborView Senior Assisted Living,hospice,"2360 Albatross St', 'San Diego, CA 92101",32.73004,-117.16603,3
+38,"Kenneth L Anderson, DO",sportsmed,"1945 Garnet Ave', 'San Diego, CA 92109",32.8010025024414,-117.234039306641,3
+39,Target Clinic Care by Kaiser Permanente,walkinclinics,"1288 Camino Del Rio N', 'San Diego, CA 92108",32.767561,-117.150905,3
+40,Linebarger Eric MD,physicians,"3075 Health Center Dr', 'San Diego, CA 92123",32.79858,-117.15461,3
+41,San Diego Perinatal Center,obgyn,"7910 Frost St', 'Ste 140', 'San Diego, CA 92123",32.8007621765137,-117.154205322266,3
+42,Sharp Rees-Stealy Mira Mesa,medcenters,"8933 Activity Rd', 'San Diego, CA 92126",32.89606,-117.13352,3
+43,Gorton Nicole MD,physicians,"501 Washington St', 'Ste 600', 'San Diego, CA 92103",32.74933,-117.15991,3
+44,Kaiser Permanente San Diego Medical Center,emergencyrooms,"9455 Clairemont Mesa Blvd', 'San Diego, CA 92123",32.8307940638553,-117.125158051559,3
+45,Scripps Clinic Mission Valley - Building 7425,medcenters,"7425 Mission Valley Rd', 'San Diego, CA 92108",32.7790212175233,-117.159072160721,3
+46,North Park Family Health Center,medcenters,"3544 30th St', 'San Diego, CA 92104",32.74285,-117.13035,3
+47,Kaiser Permanente Clairemont Medical Offices,medcenters,"7060 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.8335,-117.16468,3
+48,Mission Valley Rehabilitation Center,chiropractors,"7801 Mission Center Ct', 'Ste 320', 'San Diego, CA 92108",32.772922,-117.156187,3
+49,Planned Parenthood - First Avenue Family Planning,medcenters,"2017 First Ave', '#301', 'San Diego, CA 92101",32.7246630211684,-117.164156637109,3
+50,Perlman Clinic Downtown San Diego,urgent_care,"555 W C St', 'Ste 102', 'San Diego, CA 92101",32.716503,-117.167927,3
+51,Prebys Cardiovascular Institute,hospitals,"9888 Genesee', 'San Diego, CA 92037",32.8851,-117.22368,3
+52,San Diego Endoscopy Center,medcenters,"4033 3rd Ave', 'Ste 106', 'San Diego, CA 92103",32.7505340576172,-117.162437438965,3
+53,Kaiser Permanente Point Loma Medical Offices,medcenters,"3250 Fordham St', 'San Diego, CA 92110",32.75004,-117.21378,3
+54,Alvarado Hospital Medical Center,hospitals,"6655 Alvarado Rd', 'San Diego, CA 92120",32.7765081,-117.0572965,3
+55,Sharp Mesa Vista Hospital,hospitals,"7850 Vista Hill Ave', 'San Diego, CA 92123",32.7957420349121,-117.155288696289,3
+56,Urgent Care & More San Diego,familydr,"3434 Midway Dr', 'Ste 1002', 'San Diego, CA 92110",32.75099,-117.21242,3
+57,San Diego American Indian Health Center,hospitals,"2630 1st Ave', 'San Diego, CA 92103",32.732859,-117.1640946,3
+58,Surgical Center of San Diego,medcenters,"4910 Directors Pl', 'Ste 100', 'San Diego, CA 92121",32.894362,-117.211893,3
+59,Hillcrest Family Health Center,medcenters,"4094 4th Ave', 'San Diego, CA 92103",32.75163,-117.16196,3
+60,O'Toole Breast Care Center,oncologist,"550 Washington St', 'Ste 200', 'San Diego, CA 92013",32.750107,-117.160533,3
+61,Scripps Shiley Pavilion,medcenters,"10820 N Torrey Pines Rd', 'San Diego, CA 92037",32.9000663757324,-117.243370056152,3
+62,LabCorp,medcenters,"3737 Moraga Ave', 'Ste A102', 'San Diego, CA 92117",32.809378,-117.210147,3
+63,City Heights Family Health Center,medcenters,"5454 El Cajon Blvd', 'San Diego, CA 92115",32.75839,-117.0778,3
+64,Kearny Mesa Nursing Center and Convalescent Hospital,rehabilitation_center,"7675 Family Cir', 'San Diego, CA 92111",32.79889,-117.15736,3
+65,Sharp Memorial Rehabilitation Center,hospitals,"2999 Health Center Dr', 'San Diego, CA 92123",32.7983865,-117.1561499,3
+66,Perlman Clinic - La Jolla,internalmed,"9850 Genesee Ave', 'Ste 320', 'La Jolla, CA 92037",32.877927,-117.227468,3
+67,Children's Primary Care Medical Group,medcenters,"6699 Alvarado Rd', '#2200', 'San Diego, CA 92120",32.7763938903809,-117.055305480957,3
+68,Sharp Rees-Stealy San Diego,medcenters,"2929 Health Center Dr', 'San Diego, CA 92123",32.7966974,-117.1562996,3
+69,Planned Parenthood - City Heights,medcenters,"4305 University Ave', '#350', 'San Diego, CA 92105",32.74916,-117.10142,3
+70,Planned Parenthood - Mission Bay,medcenters,"4501 Mission Bay Dr', '#1C & D', 'San Diego, CA 92109",32.8027212021144,-117.215311727441,3
+71,San Diego Hyperbaric,medcenters,"5038 Ruffner St', 'Ste C', 'San Diego, CA 92111",32.8337999,-117.15978,3
+72,Sharp Rees-Stealy Genesee,physicians,"2020 Genesee Ave', 'San Diego, CA 92123",32.7916863,-117.1569457,3
+73,University Foot and Ankle Specialists,medcenters,"4475 University Ave', 'San Diego, CA 92105",32.74935,-117.09806,3
+74,Scripps Clinic OB-GYN La Jolla Campus,obgyn,"9850 Genesee Ave', 'Ste. 600', 'San Diego, CA 92121",32.882907,-117.226339,3
+75,Spine Institute of San Diego,medcenters,"6719 Alvarado Rd', 'Ste 308', 'San Diego, CA 92120",32.776124,-117.05425,3
+76,Scripps Clinic La Jolla - Genesee Executive Plaza,obgyn,"9333 Genesee Ave', 'Ste 170', 'San Diego, CA 92121",32.8759,-117.21324,3
+77,MinuteClinic,urgent_care,"1792 Garnet Ave', 'CVS Pharmacy', 'San Diego, CA 92109",32.801136,-117.237748,3
+78,Reproductive Partners Fertility Center,medcenters,"9850 Genesee Ave', 'Ste 800', 'La Jolla, CA 92037",32.8829239,-117.22632,3
+79,Kaiser Permanente Kearny Mesa Rehabilitation Center,medcenters,"4510 Viewridge Ave', 'San Diego, CA 92123",32.82284,-117.12577,3
+80,Elder Answers,assistedliving,"3268 Governor Dr', 'Ste 213', 'San Diego, CA 92122",32.852375,-117.2151793,3
+81,Gaslamp Medical Center,urgent_care,"250 Market St', 'San Diego, CA 92101",32.7116349,-117.1626108,3
+82,"Scripps MD Anderson Cancer Center, Fifth Avenue",medcenters,"4020 Fifth Ave', 'Ste 401 & 402', 'San Diego, CA 92103",32.750403,-117.161329,3
+83,Mission Valley Heights Surgery Center,medcenters,"7485 Mission Valley Rd', 'Ste 106', 'San Diego, CA 92108",32.7792895748738,-117.160319387913,3
+84,MinuteClinic,urgent_care,"3327 Rosecrans St', 'Rosecrans And Midway Drive', 'San Diego, CA 92110",32.7471,-117.206,3
+85,BayView Senior Assisted Living,hospice,"3219 Canon St', 'San Diego, CA 92106",32.723025,-117.234525,3
+86,Children's Campus,pediatricians,"7910 Frost St', 'Ste 400', 'San Diego, CA 92123",32.8007721092295,-117.154557305032,3
+87,American Sleep Medicine,laboratorytesting,"5050 Murphy Canyon Rd', 'Ste 100', 'San Diego, CA 92123",32.83026,-117.12065,3
+88,Scripps HealthExpress La Jolla,walkinclinics,"4350 La Jolla Village Dr', 'Ste 130', 'San Diego, CA 92122",32.87408,-117.21259,3
+89,U.S. HealthWorks Medical Group,urgent_care,"5575 Ruffin Rd', 'Ste 100', 'San Diego, CA 92123",32.836025,-117.126027,3
+90,Tricare Outpatient Clinic,medcenters,"8808 Balboa Ave', 'San Diego, CA 92123",32.821412,-117.1375973,3
+91,Kindred Hospital San Diego,hospitals,"1940 El Cajon Blvd', 'San Diego, CA 92104",32.756133,-117.144357,3
+92,San Diego Fertility Center,medcenters,"591 Camino De La Reina', 'Ste 1250', 'San Diego, CA 92108",32.76567,-117.16143,3
+93,Planned Parenthood - Euclid Avenue Parker Health Center,medcenters,"220 Euclid Ave', 'Ste 30', 'San Diego, CA 92114",32.70635,-117.08571,3
+94,Sharp Coronado Hospital,hospitals,"250 Prospect Pl', 'Coronado, CA 92118",32.6941075428066,-117.168245315552,3
+95,Lodhi Saima MD,physicians,"501 Washington St', 'San Diego, CA 92103",32.7493362426758,-117.15991973877,3
+96,Sam and Rose Stein Emergency Care Center,emergencyrooms,"3020 Children's Way"", ""Rady Children's Hosp"", 'San Diego, CA 92123",32.798175,-117.151247,3
+97,Spider and Varicose Vein Treatment Center,vascularmedicine,"5330 Carroll Canyon Rd', 'Ste 140', 'San Diego, CA 92121",32.8920976,-117.1929667,3
+98,Cloisters of the Valley,assistedliving,"4171 Camino Del Rio S', 'San Diego, CA 92108",32.77752,-117.10457,3
+99,Coast Surgery Center,hospitals,"3444 Kearny Villa Rd', 'Ste 100', 'San Diego, CA 92123",32.8056399,-117.15037,3
+100,Sharp Rees-Stealy Downtown Urgent Care,urgent_care,"300 Fir St', 'San Diego, CA 92101",32.72563,-117.16161,3
+101,Kaiser Permanente Positive Choice Wellness Center,medcenters,"5893 Copley Dr', '6th Flr', 'Garfield Specialty Center', 'San Diego, CA 92111",32.845283,-117.173856,3
+102,Jacobs Medical Center at UC San Diego Health,hospitals,"9300 Campus Point Dr', 'La Jolla, CA 92037",32.877896376534,-117.22536413668,3
+103,Rady Childrens Urgent Care,urgent_care,"4305 University Ave', 'Ste 150', 'San Diego, CA 92105",32.749165,-117.101425,3
+104,Goodwin Jane OD,optometrists,"2001 4th Ave', 'San Diego, CA 92101",32.7266883850098,-117.160713195801,3
+105,"Alfredo Quinonez, MD",urgent_care,"250 Market St', 'San Diego, CA 92101",32.7116349,-117.1626108,3
+106,St. Paul's Manor,retirement_homes,"2635 2nd Ave', 'San Diego, CA 92103",32.73306,-117.16259,3
+107,Scripps Mercy Surgery Pavilion,surgeons,"550 Washington St', 'Ste 101', 'San Diego, CA 92103",32.75025,-117.16038,3
+108,Planned Parenthood - Sarah Weddington Center,medcenters,"4575 College Ave', 'San Diego, CA 92115",32.76033,-117.06659,3
+109,Mission Hills Post Acute Care,medcenters,"3680 Reynard Way', 'San Diego, CA 92103",32.7449299,-117.17222,3
+110,Mid-City Community Clinic,medcenters,"4290 Polk Ave', 'San Diego, CA 92105",32.7517013549805,-117.102325439453,3
+111,FamilyHealth at City College,medcenters,"1550 Broadway', 'San Diego, CA 92101",32.716077,-117.149929,3
+112,"UC San Diego Health - Urgent Care, La Jolla",urgent_care,"8910 Villa La Jolla Dr', 'La Jolla, CA 92037",32.8704935757967,-117.234172609589,3
+113,Merrill Gardens at Bankers Hill,retirement_homes,"2567 2nd Ave', 'San Diego, CA 92103",32.73164,-117.16274,3
+114,Logan Heights Family Health Center,medcenters,"1809 National Ave', 'San Diego, CA 92113",32.70123,-117.14686,3
+115,Oak Park Family Health Center,medcenters,"5160 Federal Blvd', 'San Diego, CA 92105",32.72192,-117.08357,3
+116,Illumina - Headquarters,medcenters,"5200 Illumina Way', 'San Diego, CA 92122",32.8698375794141,-117.198307514191,3
+117,Children's Primary Care Medical Group,pediatricians,"292 Euclid Ave', 'Ste 220', 'San Diego, CA 92114",32.707177,-117.086083,3
+118,Scripps Clinic Hillcrest - Scripps Clinic OB-GYN Fifth Avenue,obgyn,"2918 Fifth Ave', 'Ste 100', 'San Diego, CA 92103",32.7358199,-117.16061,3
+119,Vibra Hospital,hospitals,"555 Washington St', 'San Diego, CA 92103",32.7512512207031,-117.161628723145,3
+120,Scripps Clinic John R. Anderson V Medical Pavilion,laboratorytesting,"9898 Genesee Ave', 'San Diego, CA 92037",32.8864543,-117.2249371,3
+121,US HealthWorks Medical Group,medcenters,"3930 4th Ave', 'Ste 200', 'San Diego, CA 92103",32.748913,-117.16194,3
+122,Kaiser Permanente Viewridge Medical Offices,medcenters,"5251 Viewridge Ct', 'San Diego, CA 92123",32.8300399,-117.1216,3
+123,Oasis Surgery Center,medcenters,"5471 Kearny Villa Rd', 'Ste 100', 'San Diego, CA 92123",32.8335133,-117.1389529,3
+124,Ibarra Family Health Center,medcenters,"4874 Polk Ave', 'San Diego, CA 92105",32.7514649,-117.0895453,3
+125,St. Paul's Senior Services,skillednursing,"328 Maple St', 'San Diego, CA 92103",32.73284,-117.16167,3
+126,NTC Medical Clinic,medcenters,"2051 Cushing Rd', 'San Diego, CA 92106",32.7307398145973,-117.217919826508,3
+127,Diamond Neighborhoods Family Health Center,medcenters,"4725 Market St', 'San Diego, CA 92102",32.7112709,-117.0929287,3
+128,Nguyen Doug MD,drugstores,"8901 Activity Rd', 'San Diego, CA 92126",32.89572,-117.1342,3
+129,Sharp McDonald Center,hospitals,"7989 Linda Vista Rd', 'San Diego, CA 92111",32.80601,-117.15462,3
+130,Navy Exchange Balboa Hospital,hospitals,"34800 Bob Wilson Dr', 'San Diego, CA 92134",32.725628,-117.146581,3
+131,US Healthworks Medical Group,urgent_care,"10350 Barnes Canyon Rd', 'Ste 200', 'San Diego, CA 92121",32.9010355,-117.1949397,3
+132,Vibrant Living,retirement_homes,"5723 Bounty St', 'San Diego, CA 92120",32.7911,-117.07299,3
+133,Advanced Lung and Sleep Clinic,medcenters,"5507 El Cajon Blvd', 'San Diego, CA 92115",32.7579917907715,-117.076263427734,3
+134,Sharp HealthCare,hospitals,"8695 Spectrum Center Blvd', 'San Diego, CA 92123",32.825614,-117.140357,3
+135,ActivCare at Mission Bay,assistedliving,"2440 Grand Ave', 'San Diego, CA 92109",32.80171,-117.22545,3
+136,San Diego Medical Group,medcenters,"4060 4th Ave', 'Ste 100', 'San Diego, CA 92103",32.75109,-117.16196,3
+137,Sharp Rees-Stealy Point Loma,physicians,"3555 Kenyon St', 'Suites 200 and 201', 'San Diego, CA 92110",32.74998,-117.21622,3
+138,U.S. HealthWorks Medical Group,medcenters,"7590 Miramar Rd', 'Ste C', 'San Diego, CA 92126",32.8847011,-117.1522858,3
+139,MinuteClinic,walkinclinics,"5644 Mission Center Rd', 'Mission Center Shopping Center', 'Mission Center Shopping Center', 'San Diego, CA 92108",32.7745,-117.1569999,3
+140,La Maestra Community Health Centers,medcenters,"4060 Fairmount Ave', 'San Diego, CA 92105",32.75053,-117.10134,3
+141,Mammography Screening Center,medcenters,"319 Laurel St', 'San Diego, CA 92101",32.73114,-117.16182,3
+142,REM Sleep Labs,medcenters,"4909 Murphy Canyon Rd', 'Ste 410', 'San Diego, CA 92123",32.828829,-117.119231,3
+143,St. Paul's PACE - San Diego,medcenters,"111 Elm St', 'San Diego, CA 92101",32.7238667683132,-117.163449525833,3
+144,San Diego Clinic of Integrative Medicine,medcenters,"8950 Villa La Jolla Dr', 'Suite B 112', 'La Jolla, CA 92037",32.870908,-117.235456,3
+145,Veterans Affairs Department,medcenters,"3350 La Jolla Village Dr', 'San Diego, CA 92161",32.8719346,-117.2313323,3
+146,WorkPartners Occupational Health Specialists,medcenters,"7485 Mission Valley Rd', 'Ste 100', 'San Diego, CA 92108",32.77921,-117.16015,3
+147,The Performance Center,fertility,"2878 Camino Del Rio S', 'Ste 220', 'San Diego, CA 92108",32.771898,-117.128799,3
+148,Golden Hill Subacute and Rehabilitation Center,physicaltherapy,"1201 34th St', 'San Diego, CA 92102",32.7181593,-117.120728,3
+149,Concentra,urgent_care,"5333 Mission Center Rd', 'Ste 100', 'San Diego, CA 92108",32.77145,-117.1547251,3
+150,"Scripps MD Anderson Cancer Center, John J. Hopkins Drive",medcenters,"10670 John Jay Hopkins Dr', 'San Diego, CA 92121",32.8974055,-117.2397638,3
+151,Downtown Family Health Center at Connections,medcenters,"1250 6th Ave', 'Ste 100', 'San Diego, CA 92101",32.7185372,-117.1595677,3
+152,San Diego Outpatient Ambulatory Surgical Center,hospitals,"770 Washington St', 'Ste 101', 'San Diego, CA 92103",32.75052,-117.15785,3
+153,Genesis Healthcare - Hillcrest Urology - San Diego,urologists,"4060 4th Ave', 'Ste 310', 'San Diego, CA 92103",32.7510608488626,-117.161912368717,3
+154,MinuteClinic,walkinclinics,"4829 Clairemont Dr', 'CVS Pharmacy', 'San Diego, CA 92117",32.8315,-117.205,3
+155,Scripps Clinic Mission Valley - Building 7565,internalmed,"7565 Mission Valley Rd', 'San Diego, CA 92108",32.77898,-117.15881,3
+156,Calpulli Health Center,medcenters,"5500 Campanile Dr', 'San Diego, CA 92115",32.772258,-117.072686,3
+157,San Diego Men's Clinic,medcenters,"7220 Trade St', 'Ste 103', 'San Diego, CA 92121",32.8891427,-117.1667877,3
+158,Always Best Care Senior Services,homehealthcare,"3665 Ruffin Rd', 'Ste 100', 'San Diego, CA 92123",32.81078,-117.119226,3
+159,Sundaram Shankar MD,physicians,"2929 Health Center Dr', 'San Diego, CA 92123",32.7984,-117.15493,3
+160,Woori Medical Group,hospitals,"7825 Engineer Rd', 'Ste 101', 'San Diego, CA 92111",32.8261139879274,-117.153376154602,3
+161,Seagate Medical Group - QTC Medical Group,medcenters,"1835 El Cajon Blvd', 'Ste B', 'San Diego, CA 92103",32.7548445,-117.1452985,3
+162,Logan Heights Family Health Center Urgent Care,urgent_care,"1809 National Ave', 'Fl 2', 'San Diego, CA 92113",32.70145,-117.1467,3
+163,King Chavez Health Center,medcenters,"950 S Euclid Ave', 'San Diego, CA 92114",32.6960372924805,-117.085609436035,3
+164,Radys Children's Hospital - Warren Surgical Center,medcenters,"3010 Childrens Way', 'San Diego, CA 92123",32.79778899903,-117.151501409934,3
+165,La Jolla Vein Care,medcenters,"9850 Genesee Ave', 'Ste 410', 'La Jolla, CA 92037",32.882907,-117.226339,3
+166,Owen Clinic,medcenters,"4168 Front St', 'San Diego, CA 92103",32.7531371,-117.1652264,3
+167,FamilyHealth on Commercial,medcenters,"2325 Commercial St', 'Ste 1400', 'San Diego, CA 92113",32.7050651,-117.1430194,3
+168,Gastric Banding Medical Group,medcenters,"8705 Complex Dr', 'San Diego, CA 92123",32.8298377990723,-117.139762878418,3
+169,Scripps Ambulatory Surgery Center - Ximed Building,surgeons,"9850 Genesee Ave Ste 900', 'Ste 100', 'San Diego, CA 92037",32.883266,-117.226499,3
+170,Point Loma Convalescent Hospital,medcenters,"3202 Duke St', 'San Diego, CA 92110",32.7528458598689,-117.21873357309,3
+171,Concentra Urgent Care,urgent_care,"5575 Ruffin Rd', 'Ste 100', 'San Diego, CA 92123",32.83611,-117.12616,3
+172,25th Street Family Medicine,medcenters,"316 25th St', 'San Diego, CA 92102",32.7087364,-117.1403427,3
+173,San Diego Blood Mobile,medcenters,"440 Upas St', 'San Diego Blood Bank', 'San Diego, CA 92103",32.74102,-117.16081,3
+174,Price Naturopathic,medcenters,"5752 Oberlin Dr', 'Ste 226', 'San Diego, CA 92121",32.8933181,-117.1951491,3
+175,Artemis Institute for Clinical Research,medcenters,"770 Washington St', 'San Diego, CA 92103",32.7429158178839,-117.169195,3
+176,San Diego County Medical Examiner's Office,medcenters,"5570 Overland Ave', 'Ste 101', 'San Diego, CA 92123",32.834735,-117.131461,3
+177,Scripps Clinic - Anderson Outpatient Pavilion,medcenters,"10666 N Torrey Pines Rd', 'La Jolla, CA 92037",32.8963236238572,-117.242535800599,3
+178,Sharp Senior Health Center,hospitals,"4320 Genesee Ave', 'Ste 104', 'San Diego, CA 92117",32.8213123,-117.18423,3
+179,Paradise Valley Manor & Health Care Center,skillednursing,"2575 E 8th St', 'National City, CA 91950",32.68453,-117.07999,3
+180,Scripps Clinic Torrey Pines,urgent_care,"10710 N Torrey Pines Rd', 'La Jolla, CA 92037",32.89879,-117.24292,3
+181,California Protons Cancer Therapy Center,medcenters,"9730 Summers Ridge Rd', 'San Diego, CA 92121",32.89327,-117.17038,3
+182,Children's Primary Care Medical Group,pediatricians,"4150 Regents Park Row', '#355', 'La Jolla, CA 92037",32.8731689,-117.2175827,3
+183,San Diego Stem Cell Treatment Center,medcenters,"4910 Directors Pl', 'San Diego, CA 92121",32.89486,-117.21195,3
+184,"Tess Maloney, FNP",nursepractitioner,"1945 Garnet Ave', 'San Diego Sports Medicine & Family Health Center - Urgent Care', 'San Diego, CA 92109",32.80103,-117.23404,3
+185,Rady Children's Occupational and Physical Therapy,physicaltherapy,"8010 Frost St', 'Ste 100', 'San Diego, CA 92123",32.8015559039618,-117.152093052864,3
+186,American Indian Health Center,medcenters,"2630 1st Ave', 'San Diego, CA 92103",32.732869,-117.1642269,3
+187,Scripps HealthExpress Mission Valley,walkinclinics,"7565 Mission Valley Rd', 'San Diego, CA 92108",32.77916,-117.158566,3
+188,Pacifica Medical,homehealthcare,"2650 Camino Del Rio N', 'Ste 212', 'San Diego, CA 92108",32.7737808,-117.134903,3
+189,A Place for Mom,retirement_homes,"San Diego, CA 92101",32.71931,-117.16342,3
+190,Children's Specialists of San Diego,hospitals,"8110 Birmingham Way', 'San Diego, CA 92123",32.7967852,-117.1525903,3
+191,LabCorp,medcenters,"550 Washington St', 'Ste 331', 'San Diego, CA 92103",32.75025,-117.16038,3
+192,Sharp Rees-Stealy Surgical Eye Consultants,optometrists,"3075 Health Center Dr', 'Fourth Floor', 'San Diego, CA 92123",32.798836,-117.15506,3
+193,Jockin Yvette M MD,optometrists,"3030 Childrens Way', 'San Diego, CA 92123",32.79894,-117.15108,3
+194,Schrimmer David B MD Perinatal Associats of Clfrna,hospitals,"8010 Frost St', 'San Diego, CA 92123",32.8016099,-117.15194,3
+195,UCSD Airway Research & Clinical Trials Center,medcenters,"210 Dickinson St', 'CTF-A102', 'San Diego, CA 92103",32.7563860838847,-117.165455818176,3
+196,Boston Medical Group,medcenters,"2810 Camino Del Rio St', 'Ste 116', 'San Diego, CA 92108",32.77021,-117.135993,3
+197,Euclid Endoscopy,medcenters,"286 Euclid Ave', 'San Diego, CA 92114",32.7078301,-117.0851849,3
+198,UCSD Antiviral Research Center,medcenters,"220 Dickinson St', 'Ste A', 'San Diego, CA 92103",32.7553249,-117.1654058,3
+199,Dobke Marek MD,hospitals,"200 W Arbor Dr', 'San Diego, CA 92103",32.7539248202902,-117.162694148719,3
+200,ROC Rehabilitation And Orthopedic Center,medcenters,"9040 Friars Rd', 'Ste 400', 'San Diego, CA 92108",32.7797927856445,-117.135734558105,3
+201,Clark Richard MD,physicians,"200 W Arbor Dr', 'San Diego, CA 92103",32.75388,-117.16555,3
+202,Finding Home for Older Adults,assistedliving,"San Diego, CA 92120",32.79276,-117.09107,3
+203,Scripps Clinic Bariatric and General Surgery Fourth Avenue,physicians,"4060 4th Ave', 'Ste 330', 'San Diego, CA 92103",32.75054,-117.16195,3
+204,AHF Healthcare Center - San Diego,medcenters,"3940 4th Ave', 'Ste 140', 'San Diego, CA 92103",32.74912,-117.16194,3
+205,Casa del Cielo,assistedliving,"6173 Adelaide Ave', 'San Diego, CA 92115",32.75722,-117.06444,3
+206,Sharp Rees-Stealy Murphy Canyon,physicians,"9610 Granite Ridge Dr', 'Ste C', 'San Diego, CA 92123",32.8051816,-117.1212643,3
+207,"UC San Diego Health - Emergency Services, La Jolla",emergencyrooms,"9434 Medical Center Drive', 'La Jolla, CA 92037",32.8795036163647,-117.225314058474,3
+208,Paradigm Clinical Research Center,medcenters,"3737 Moraga Ave', 'Ste A1', 'San Diego, CA 92117",32.8092635,-117.2105674,3
+209,The Shores,skillednursing,"2828 Meadow Lark Dr', 'San Diego, CA 92123",32.79413,-117.15497,3
+210,Kaiser Permanente,medcenters,"3840 Murphy Canyon Rd', 'San Diego, CA 92123",32.8122929,-117.117469,3
+211,Comprehensive Health Center,medcenters,"3177 Ocean View Blvd', 'San Diego, CA 92113",32.7010040283203,-117.125831604004,3
+212,Student Health Services,medcenters,"5700 Hardy Ave', 'San Diego, CA 92115",32.7726961,-117.0733089,3
+213,Molina Healthcare Regional Office,medcenters,"9275 Sky Park Ct', 'Ste 400', 'San Diego, CA 92123",32.81564,-117.12494,3
+214,Infuse Up,medcenters,"611 K St', 'B-336', 'San Diego, CA 92101",32.7081833,-117.1589737,3
+215,Kaiser Permanente San Diego Mission Road Administrative Building,medcenters,"10990 San Diego Mission Rd', 'San Diego, CA 92108",32.78512,-117.1031,3
+216,Open-Air Mri of San Diego-Kearny Mesa,medcenters,"7625 Mesa College Dr', 'San Diego, CA 92111",32.8005218505859,-117.157295227051,3
+217,Paradise Village,retirement_homes,"2700 E 4th St', 'National City, CA 91950",32.6869079942902,-117.079410658722,3
+218,Wenger Dennis R MD,hospitals,"3030 Childrens Way', 'San Diego, CA 92123",32.79894,-117.15108,3
+219,Juvenile Diabetes Research Foundation,medcenters,"5677 Oberlin Dr', 'Ste 106', 'San Diego, CA 92121",32.89188,-117.19574,3
+220,Physicians Medical Center,medcenters,"7910 Frost St', 'San Diego, CA 92123",32.8007621765137,-117.154205322266,3
+221,XiMED Wound Care,medcenters,"9850 Genesee Ave', 'Ste 360', 'San Diego, CA 92037",32.882907,-117.226339,3
+222,Sherman Heights Family Health Center,medcenters,"2391 Island Ave', 'San Diego, CA 92102",32.7103551,-117.1426408,3
+223,DeYarman Medical Group,cosmeticsurgeons,"3252 Holiday Ct', 'Ste 204', 'La Jolla, CA 92037",32.87089,-117.2326,3
+224,Sharp Rees-Stealy Frost Street,orthopedists,"8008 Frost St', 'Ste 106', 'San Diego, CA 92123",32.80099,-117.15255,3
+225,Scripps Clinic Coronado,dermatology,"1317A Ynez Place', 'Coronado, CA 92118",32.6840009540319,-117.177746370435,3
+226,Emily Fenton Hunte Breast Care Center,oncologist,"10666 N Torrey Pines Rd', 'San Diego, CA 92037",32.8969413509772,-117.242464334918,3
+227,Mohler L Randall MD Sharp Rees-Stealy Medical Ctrs,medcenters,"2929 Health Center Dr', 'San Diego, CA 92123",32.7984,-117.15493,3
+228,Ambulatory Care Surgery Center,medcenters,"8705 Complex Dr', 'San Diego, CA 92123",32.8298377990723,-117.139762878418,3
+229,San Diego First Medical Clinic,medcenters,"4539 College Ave', 'San Diego, CA 92115",32.75936,-117.06602,3
+230,UCSD Student Health Services,medcenters,"9500 Gilman Dr', 'MC 0039', 'La Jolla, CA 92093",32.879437,-117.238034,3
+231,Paradise Valley Hospital,hospitals,"2400 East Fourth St', 'National City, CA 91950",32.68562,-117.08221,3
+232,The San Diego Vasectomy Center,medcenters,"6699 Alvarado Rd', 'Ste 2208', 'San Diego, CA 92120",32.7766327,-117.0550161,3
+233,"Sharecare Health Data Services, LLC",medcenters,"8344 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.8330549,-117.1443671,3
+234,Hawkins Randall S MD,physicians,"2001 4th Ave', 'San Diego, CA 92101",32.7266883850098,-117.160713195801,3
+235,Olivenhain Guest Home,hospice,"350 Cole Ranch Rd', 'Encinitas, CA 92024",33.04259,-117.23487,3
+236,Mary Birch Hospital For Women,hospitals,"Health Center Dr', 'San Diego, CA 92101",32.79749,-117.15652,3
+237,Sunrise of La Jolla,assistedliving,"810 Turquoise Street', 'San Diego, CA 92109",32.809,-117.25904,3
+238,Advanta Senior Care,assistedliving,"4225 Executive Sq', 'Ste 600', 'La Jolla, CA 92037",32.87376667,-117.215665,3
+239,Accelovance,medcenters,"5920 Friars Rd', 'San Diego, CA 92108",32.7662696838379,-117.186462402344,3
+240,Sharp Rees-Stealy Frost Street North,medcenters,"8010 Frost St', 'Fl 2&3', 'San Diego, CA 92123",32.8015378676744,-117.151921391487,3
+241,Children's Medical Center Pharmacy,pediatricians,"3030 Childrens Way', 'Ste 108', 'San Diego, CA 92123",32.7989388,-117.1510773,3
+242,MacIntyre Ronald C MD,physicians,"2929 Health Center Dr', 'San Diego, CA 92123",32.7984,-117.15493,3
+243,St. Paul's Villa,assistedliving,"2340 Fourth Ave', 'San Diego, CA 92101",32.72996,-117.16165,3
+244,UCSD Clinical Research Center,medcenters,"9444 Medical Center Dr', 'La Jolla, CA 92093",32.8766678,-117.2273397,3
+245,La Jolla Endoscopy Center,medcenters,"9850 Genesee Ave', 'Ste 980', 'La Jolla, CA 92037",32.8828991177349,-117.226434946115,3
+246,Lifehouse,hospitals,"2828 Meadow Lark Dr', 'San Diego, CA 92123",32.79413,-117.15497,3
+247,Wic Program Mercy Hospital,medcenters,"4440 Wightman St', 'San Diego, CA 92105",32.7479977,-117.0989933,3
+248,Ethridge Recovery Center,medcenters,"409 63rd St', 'San Diego, CA 92114",32.70918,-117.0622151,3
+249,Genesis Healthcare Partners,assistedliving,"9333 Genesee Ave Suite', 'Ste 300', 'San Diego, CA 92121",32.8759,-117.21324,3
+250,Sharp Rees-Stealy Downtown,medcenters,"300 Fir St', 'San Diego, CA 92101",32.7253312273891,-117.1616766,3
+251,Marque Urgent Care,urgent_care,"4490 Fanuel St', 'San Diego, CA 92109",32.79831,-117.24644,3
+252,Sharp Mary Birch Hospital for Women & Newborns,hospitals,"3003 Health Center Dr', 'San Diego, CA 92123",32.79862,-117.155051,3
+253,PlushCare Urgent Care,urgent_care,"San Diego, CA 92109",32.79522,-117.23766,3
+254,AFC Urgent Care,urgent_care,"5671 Balboa Ave', 'Ste 100', 'San Diego, CA 92111",32.8200861,-117.1790355,3
+255,San Diego Sports Medicine & Family Health Center - Urgent Care,familydr,"1945 Garnet Ave', 'San Diego, CA 92109",32.80103,-117.23404,3
+256,Perlman Clinic San Diego,familydr,"3900 5th Ave', 'Ste 110', 'San Diego, CA 92103",32.7485686,-117.1607796,3
+257,Heal,familydr,"San Diego, CA 92102",32.71385,-117.1393,3
+258,Perlman Clinic - Kensington,urgent_care,"4142 Adams Ave', 'Ste 102', 'San Diego, CA 92116",32.7635419,-117.105841,3
+259,Insight Dermatology,dermatology,"9878 Hibert St', 'Ste 100', 'San Diego, CA 92131",32.9157943725586,-117.114128112793,3
+260,"UC San Diego Health - Express Care, Downtown",walkinclinics,"203 West F Street', 'San Diego, CA 92101",32.7134151,-117.164874,3
+261,Sharp Memorial Outpatient Pavilion,hospitals,"3075 Health Center Dr', 'San Diego, CA 92123",32.7987843,-117.1555035,3
+262,Sharp Memorial Hospital,hospitals,"7901 Frost St', 'San Diego, CA 92123",32.79937,-117.154416,3
+263,Pacific Urgent Care and Wellness Center,urgent_care,"975 Garnet Ave', 'San Diego, CA 92109",32.7971012,-117.2520147,3
+264,AFC Urgent Care,urgent_care,"8590 Rio San Diego Dr', 'Ste 111', 'San Diego, CA 92108",32.7762461896238,-117.14455748941,3
+265,Eti Domb,acupuncture,"4054 Centre St', 'Ste 1', 'San Diego, CA 92103",32.75169,-117.14714,3
+266,Scripps Memorial Hospital La Jolla,hospitals,"9888 Genesee Ave', 'San Diego, CA 92037",32.8847034972632,-117.225496917964,3
+267,LEI Medical Group,medcenters,"9620 Chesapeake Dr', 'Ste 104', 'San Diego, CA 92123",32.8340302,-117.1233215,3
+268,Pediatric Specialty Partners,medcenters,"8929 University Center Ln', 'Ste 208', 'San Diego, CA 92122",32.86984,-117.22652,3
+269,Naval Medical Center San Diego,medcenters,"34800 Bob Wilson Dr', 'San Diego, CA 92134",32.727359,-117.145904,3
+270,Rady Children's Hospital,hospitals,"3020 Children's Way"", 'San Diego, CA 92123",32.79843,-117.15198,3
+271,Scripps Green Hospital,hospitals,"10666 N Torrey Pines Rd', 'San Diego, CA 92037",32.898705,-117.242814,3
+272,Scripps Mercy Hospital San Diego,hospitals,"4077 5th Ave', 'San Diego, CA 92103",32.751376,-117.160023,3
+273,Scripps Coastal Medical Center Hillcrest,medcenters,"501 Washington St', 'Stes 525 & 600', 'San Diego, CA 92103",32.7493362426758,-117.15991973877,3
+274,Marque Urgent Care,urgent_care,"4085 Governor Dr', 'San Diego, CA 92122",32.85434,-117.2022,3
+275,"IGO Medical Group, AMC",obgyn,"9339 Genesee Ave', 'Ste 220', 'San Diego, CA 92121",32.8759,-117.21324,3
+276,Perlman Clinic Clairemont,familydr,"3737 Moraga Ave', 'Ste B-103', 'San Diego, CA 92117",32.8092584,-117.2106773,3
+277,Basha Health,medcenters,"2667 Camino Del Rio S', 'Ste 302', 'San Diego, CA 92108",32.76904,-117.13537,3
+278,Integrative Wellness Center of San Diego,chiropractors,"7094 Miramar Rd', 'Ste 109', 'San Diego, CA 92121",32.87994,-117.16208,3
+279,Kaiser Permanente Zion Medical Center,hospitals,"4647 Zion Ave', 'San Diego, CA 92120",32.7919312245365,-117.095254696295,3
+280,"UC San Diego Medical Center, Hillcrest",hospitals,"200 West Arbor Dr', 'San Diego, CA 92103",32.754401,-117.165833,3
+281,Kaiser Permanente Garfield Specialty Center,medcenters,"5893 Copley Dr', 'San Diego, CA 92111",32.84501,-117.17345,3
+282,Scripps Polster Breast Care Center,medcenters,"9850 Genesee Ave', 'Ste 170', 'San Diego, CA 92037",32.8829078674316,-117.226341247559,3
+283,San Diego VA Medical Center,medcenters,"3350 La Jolla Village Dr', 'San Diego, CA 92161",32.875605873543,-117.23228293368,3
+284,Kaiser Permanente Vandever Medical Offices,medcenters,"4405 Vandever Ave', 'San Diego, CA 92120",32.7872657775879,-117.099678039551,3
+285,Beach Area Family Health Center,medcenters,"3705 Mission Blvd', 'San Diego, CA 92109",32.78272,-117.25221,3
+286,Planned Parenthood - Kearny Mesa Center,medcenters,"7526 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.83336,-117.15719,3
+287,HarborView Senior Assisted Living,hospice,"2360 Albatross St', 'San Diego, CA 92101",32.73004,-117.16603,3
+288,"Kenneth L Anderson, DO",sportsmed,"1945 Garnet Ave', 'San Diego, CA 92109",32.8010025024414,-117.234039306641,3
+289,Target Clinic Care by Kaiser Permanente,walkinclinics,"1288 Camino Del Rio N', 'San Diego, CA 92108",32.767561,-117.150905,3
+290,Linebarger Eric MD,physicians,"3075 Health Center Dr', 'San Diego, CA 92123",32.79858,-117.15461,3
+291,San Diego Perinatal Center,obgyn,"7910 Frost St', 'Ste 140', 'San Diego, CA 92123",32.8007621765137,-117.154205322266,3
+292,Sharp Rees-Stealy Mira Mesa,medcenters,"8933 Activity Rd', 'San Diego, CA 92126",32.89606,-117.13352,3
+293,Gorton Nicole MD,physicians,"501 Washington St', 'Ste 600', 'San Diego, CA 92103",32.74933,-117.15991,3
+294,Kaiser Permanente San Diego Medical Center,emergencyrooms,"9455 Clairemont Mesa Blvd', 'San Diego, CA 92123",32.8307940638553,-117.125158051559,3
+295,Scripps Clinic Mission Valley - Building 7425,medcenters,"7425 Mission Valley Rd', 'San Diego, CA 92108",32.7790212175233,-117.159072160721,3
+296,North Park Family Health Center,medcenters,"3544 30th St', 'San Diego, CA 92104",32.74285,-117.13035,3
+297,Kaiser Permanente Clairemont Medical Offices,medcenters,"7060 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.8335,-117.16468,3
+298,Mission Valley Rehabilitation Center,chiropractors,"7801 Mission Center Ct', 'Ste 320', 'San Diego, CA 92108",32.772922,-117.156187,3
+299,Planned Parenthood - First Avenue Family Planning,medcenters,"2017 First Ave', '#301', 'San Diego, CA 92101",32.7246630211684,-117.164156637109,3
+300,UC San Diego Altman Clinical & Translational Research Institute,medcenters,"9452 Medical Center Dr', 'La Jolla, CA 92037",32.8789962902976,-117.226575533353,3
+301,South Bay Rehabilitation Center,hospitals,"2400 E 4th St', 'National City, CA 91950",32.6856269836426,-117.082221984863,3
+302,Schaetzel Center,hospitals,"9890 Genesee Ave', 'Scripps Memorial Hospital La Jolla', 'La Jolla, CA 92037",32.8856221,-117.2233138,3
+303,Scripps Whittier Diabetes Program,hospitals,"9894 Genesee Ave', 'La Jolla, CA 92037",32.8843154907227,-117.224456787109,3
+304,Care With Dignity Healthcare,hospitals,"8060 Frost St', 'San Diego, CA 92123",32.8007507324219,-117.151725769043,3
+305,Family Health Center,medcenters,"140 Elm St', 'San Diego, CA 92101",32.7240644,-117.1632651,3
+306,Commerce Title Company,hospitals,"1011 Camino Del Rio S', 'Ste 200', 'San Diego, CA 92108",32.7637786865234,-117.154319763184,3
+307,Total Wellness Professionals of California,medcenters,"3949 Kansas St', 'San Diego, CA 92104",32.7494049072266,-117.13102722168,3
+308,Scripps Clinic Sorrento Valley,psychologists,"Scripps Clinic Division of Mental Health, 5405 Morehouse Dr', 'Ste 100', 'San Diego, CA 92121",32.8933,-117.20094,3
+309,Kaiser Permanente Medical Care Program,hospitals,"7365 Mission Gorge Rd', 'San Diego, CA 92120",32.803823,-117.083646,3
+310,Estudysite,medcenters,"6367 Alvarado Ct', 'Ste 300', 'San Diego, CA 92120",32.7763831,-117.0612119,3
+311,New Life Cancer Centers,medcenters,"4370 La Jolla Village Dr', 'Ste 980', 'San Diego, CA 92122",32.87407,-117.21107,3
+312,Coastal Neurological Medical Group,medcenters,"9850 Genesee Ave', 'Ste 860', 'La Jolla, CA 92037",32.8832652,-117.2262942,3
+313,Valerie Altavas Md,medcenters,"655 Euclid Ave', 'National City, CA 91950",32.6836073,-117.0825569,3
+314,Paradise Hills Family Clinic,medcenters,"2400 E 8th St', 'National City, CA 91950",32.6825,-117.08194,3
+315,Big Horn Dermatology and Mohs Surgery Center,medcenters,"10820 North Torrey Pines Rd', 'La Jolla, CA 92037",32.900066,-117.24337,3
+316,Stem X Group,medcenters,"9834 Genesee Ave', 'Ste 221', 'La Jolla, CA 92037",32.883999,-117.225803,3
+317,Parkview at Paradise Village,assistedliving,"735 Arcadia Ave', 'National City, CA 91950",32.6846973897004,-117.077558152378,3
+318,Surgical Associates of La Jolla,medcenters,"9850 Genesee Ave', 'Ste 660', 'La Jolla, CA 92037",32.8829078674316,-117.226341247559,3
+319,Visiting Angels,homehealthcare,"7227 Broadway', 'Ste 205', 'Lemon Grove, CA 91945",32.74208,-117.04207,3
+320,Goldbaum Michael MD,hospitals,"9415 Campus Point Dr', 'La Jolla, CA 92093",32.8799951,-117.2234499,3
+321,William R Freeman MD UCSD Healthcare,hospitals,"9415 Campus Point Dr', 'La Jolla, CA 92037",32.8799951,-117.2234499,3
+322,Scripps Clinic Urgent Care Torrey Pines,urgent_care,"10710 N Torrey Pines Rd', 'La Jolla, CA 92037",32.89879,-117.24292,3
+323,Gateway Medical Group,physicians,"610 Euclid Ave', 'Ste 302', 'National City, CA 91950",32.684,-117.08321,3
+324,Inspirations Home Care,medicaltransportation,"1540 Heartland Way', 'Corona, CA 92881",33.835564,-117.541039,3
+325,Emergency Dept At Paradise Vly Hospital-24 Hours,hospitals,"2400 E 4th St', 'National City, CA 91950",32.6856269836426,-117.082221984863,3
+326,San Antonio Medical Clinic,weightlosscenters,"36C N Euclid Ave', 'National City, CA 91950",32.6907234,-117.0852814,3
+327,Excel In-Home Care Services,assistedliving,"105 N Rose St', 'Ste 207', 'Escondido, CA 92027",33.13087,-117.05794,3
+328,Heaven Heights Senior Care,homehealthcare,"77530 Enfield Ln', 'Ste I202', 'Palm Desert, CA 92211",33.7615652,-116.3118072,3

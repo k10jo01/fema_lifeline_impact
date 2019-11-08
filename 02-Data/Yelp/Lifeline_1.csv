@@ -1,0 +1,58 @@
+,business,category,address,lat,long,lifeline
+0,Hall of Justice,courthouses,"330 W Broadway', 'San Diego, CA 92101",32.716255,-117.166046,1
+1,US Post Office,postoffices,"3288 Adams Ave', 'San Diego, CA 92116",32.76366,-117.12321,1
+2,US Post Office,postoffices,"8650 Genesee Ave', 'Ste 214', 'San Diego, CA 92122",32.868689,-117.215112,1
+3,US Post Office,postoffices,"11251 Rancho Carmel Dr', 'San Diego, CA 92199",32.983006,-117.081886,1
+4,US Post Office,postoffices,"Macy's Home Furniture"", '1640 Camino Del Rio N, Ste 202', 'San Diego, CA 92108",32.769165,-117.148858,1
+5,US Post Office,postoffices,"3223 Greyling Dr', 'San Diego, CA 92123",32.80138,-117.13989,1
+6,Superior Court of California,courthouses,"1100 Union St', 'San Diego, CA 92101",32.7169740104382,-117.165605016053,1
+7,US Post Office,postoffices,"3911 Cleveland Ave', 'San Diego, CA 92103",32.74942,-117.15063,1
+8,US Post Office,postoffices,"51 Horton Plz', 'San Diego, CA 92101",32.7154011764322,-117.162423,1
+9,US Post Office,postoffices,"3298 Governor Dr', 'San Diego, CA 92122",32.85119,-117.214457,1
+10,US Post Office,postoffices,"2701 Midway Dr', 'San Diego, CA 92110",32.746827213312,-117.203805554724,1
+11,US Post Office,postoffices,"4640 Cass St', 'San Diego, CA 92109",32.799062,-117.252812,1
+12,San Diego Police Department,policedepartments,"1401 Broadway', 'San Diego, CA 92101",32.7152699,-117.15118,1
+13,US Post Office,postoffices,"2150 Comstock St', 'San Diego, CA 92111",32.7822933382351,-117.170996634883,1
+14,US Post Office,postoffices,"4833 Santa Monica Ave', 'San Diego, CA 92107",32.74572,-117.24764,1
+15,"San Diego Fire-Rescue Department, Fire Station 4",firedepartments,"404 8th Ave', 'San Diego, CA 92101",32.70957,-117.15766,1
+16,San Diego Superior Court - Traffic Division,courthouses,"8950 Clairemont Mesa Blvd', 'San Diego, CA 92123",32.83225,-117.13558,1
+17,US Post Office,postoffices,"4740 Mission Gorge Pl', 'San Diego, CA 92120",32.7820570659715,-117.091017025251,1
+18,US Post Office,postoffices,"5052 Clairemont Dr', 'San Diego, CA 92117",32.83371,-117.20234,1
+19,US Post Office,postoffices,"6030 Santo Rd Ste I', 'San Diego, CA 92124",32.8400621,-117.0976826,1
+20,US Post Office,postoffices,"815 E St', 'San Diego, CA 92101",32.714157,-117.156967,1
+21,Mission Valley Fire Department -Station 45,firedepartments,"9449 Friars Rd', 'San Diego, CA 92108",32.7864160972582,-117.124273461382,1
+22,US Post Office,postoffices,"5505 Stevens Way', 'San Diego, CA 92114",32.7091949433088,-117.076043710113,1
+23,US Post Office,postoffices,"6401 El Cajon Blvd', 'San Diego, CA 92115",32.7649868,-117.0605167,1
+24,San Diego Fire-Rescue Department,firedepartments,"1010 2nd Ave', 'Ste 400', 'San Diego, CA 92101",32.7162551879883,-117.163192749023,1
+25,SDFD Fire Station 15,firedepartments,"4711 Voltaire St Ocean Beach', 'San Diego, CA 92107",32.7487799,-117.24177,1
+26,US Post Office,postoffices,"2600 Camino Del Rio N', 'San Diego, CA 92108",32.7721634,-117.1400452,1
+27,US Post Office,postoffices,"4193 University Ave', 'San Diego, CA 92105",32.74932,-117.10475,1
+28,US Post Office,postoffices,"3426 College Ave', 'San Diego, CA 92115",32.7419237847414,-117.056153997937,1
+29,VFW Kearny Mesa Post 3788,postoffices,"7785 Othello Ave', 'San Diego, CA 92111",32.8166084289551,-117.155578613281,1
+30,"Superior Court of California, County of San Diego, Small Claims",courthouses,"1100 Union St', 'San Diego, CA 92101",32.7169096812883,-117.165834009309,1
+31,John F Duffy Administration Center,policedepartments,"9621 Rideghaven Ct', 'John F Duffy Administrative Ctr', 'San Diego, CA 92123",32.818932,-117.121402,1
+32,US Post Office,postoffices,"5047 Shoreham Pl', 'San Diego, CA 92122",32.8520833705701,-117.185146817376,1
+33,San Diego Central Jail - Downtown,jailsandprisons,"1173 Front St', 'San Diego, CA 92101",32.7174353599548,-117.164686694741,1
+34,US Post Office,postoffices,"2777 Logan Ave', 'San Diego, CA 92113",32.696667,-117.134186,1
+35,Central Courthouse,courthouses,"220 W Broadway', 'San Diego, CA 92101",32.71699,-117.16517,1
+36,US Post Office,postoffices,"2931 Canon St', 'San Diego, CA 92106",32.72093,-117.2314,1
+37,San Diego Police Department,policedepartments,"5215 Gaines St', 'Western Division', 'San Diego, CA 92110",32.7640833129286,-117.194561882792,1
+38,San Diego Police Northern Division,policedepartments,"4275 Eastgate Mall', 'San Diego, CA 92037",32.8772527724504,-117.215105518699,1
+39,San Diego Police Dept - Community Relations Office,policedepartments,"3750 Sports Arena Blvd', 'Ste 3', 'San Diego, CA 92110",32.7545320739209,-117.216122301179,1
+40,United States District Court Jury Assembly Room,courthouses,"333 W Broadway', 'San Diego, CA 92101",32.7151822073623,-117.166205173488,1
+41,SDPD Homeless Outreach Team,policedepartments,"San Diego Police Department', '1401 Broadway', 'San Diego, CA 92101",32.7151710687397,-117.150980515851,1
+42,Jacob Weinberger United States Courthouse,courthouses,"325 W F St', 'San Diego, CA 92101",32.71305,-117.16604,1
+43,US Post Office,postoffices,"45482 Elrod St', 'Ste 3', 'San Diego, CA 92145",32.88976976658,-117.132583669451,1
+44,Unified Port of San Diego Harbor Police,policedepartments,"3380 N Harbor Dr', 'San Diego, CA 92101",32.7290875,-117.193389,1
+45,Volunteers of America,policedepartments,"1111 Island Ave', 'San Diego, CA 92101",32.710397914052,-117.154416516423,1
+46,US Post Office,postoffices,"3245 Greyling Dr', 'San Diego, CA 92123",32.80171,-117.13969,1
+47,US Post Office,postoffices,"1320 Ynez Pl', 'Coronado, CA 92118",32.6834717,-117.1776199,1
+48,US Post Office,postoffices,"124 Murray Ave Bldg 124', 'San Diego, CA 92135",,,1
+49,William Taft Post Office,postoffices,"5052 Clairemont Dr', 'San Diego, CA 92117",32.8338169645191,-117.202061600983,1
+50,San Diego Police Department,policedepartments,"5099 Newport Ave', 'OB Pier Parking Lot', 'San Diego, CA 92107",32.7478034,-117.2526244,1
+51,San Diego Community College Parking Services,educationservices,"1536 Frazee Rd', 'San Diego, CA 92108",32.774003,-117.159922,1
+52,College Grove Center,postoffices,"3426 College Ave', 'San Diego, CA 92115",32.7431435,-117.0521659,1
+53,San Diego County Sheriff's Department,policedepartments,"9621 Ridgehaven Ct', 'San Diego, CA 92123",32.8208662749503,-117.122871858289,1
+54,Coronado Police Department,policedepartments,"700 Orange Ave', 'Coronado, CA 92118",32.6902168,-117.1774835,1
+55,SD Superior Court,courthouses,"2851 Meadowlark Dr', 'San Diego, CA 92123",32.7954141,-117.1540729,1
+56,FBI San Diego,policedepartments,"10385 Vista Sorrento Pkwy', 'San Diego, CA 92121",32.896221599876,-117.215314992066,1

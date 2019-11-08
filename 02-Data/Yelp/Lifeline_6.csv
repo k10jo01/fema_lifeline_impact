@@ -1,0 +1,220 @@
+,business,category,address,lat,long,lifeline
+0,City Captain Transportation,taxis,"3200 Adams Ave', 'Ste 105', 'San Diego, CA 92116",32.7636919,-117.1247661,6
+1,Aall In Limo & Party Bus,limos,"655 W Broadway', 'Ste 1300', 'San Diego, CA 92101",32.715375,-117.168598,6
+2,Gold Coast Town Car Services,limos,"San Diego, CA 92168",32.7685508728027,-117.148399353027,6
+3,Top Dog Limo Bus,limos,"1103 Emerald St', 'San Diego, CA 92109",32.79943,-117.2503,6
+4,Limo Kings Limousine Service,limos,"4365 Mission Bay Dr', 'San Diego, CA 92116",32.8016063,-117.158483,6
+5,Bolt Transportation,limos,"4641 Lisann St', 'San Diego, CA 92117",32.82961,-117.22482,6
+6,Masterpiece Limousine,limos,"1426 Morena Blvd', 'San Diego, CA 92110",32.77318,-117.2044,6
+7,Finest City Transportation,towncarservice,"San Diego, CA 92126",32.92059,-117.13987,6
+8,Royalty Limousine,limos,"10876 Ivy Hill Dr', 'San Diego, CA 92131",32.9381657,-117.0955352,6
+9,Torrey Pines Town Car,towncarservice,"4653 Carmel Mountain Rd', 'Ste 308-240', 'San Diego, CA 92130",32.9206161499023,-117.213485717773,6
+10,Stay Classy Airport Black Car Service,airport_shuttles,"8375 Calle Morelos', 'San Diego, CA 92126",32.92309,-117.14317,6
+11,WallyPark,airport_shuttles,"3150 Kettner Blvd', 'San Diego, CA 92101",32.736284,-117.176679,6
+12,San Diego Limo Transfer,limos,"10601 Tierrasanta Blvd', 'Ste 234', 'San Diego, CA 92124",32.8229192644358,-117.100856155157,6
+13,The San Diego - Coronado Bridge,landmarks,"San Diego, CA 92101",32.690803,-117.152207,6
+14,AK Cab,taxis,"San Diego, CA 92120",32.7945022583008,-117.07275390625,6
+15,WallyPark Airport Parking - Garage,parking,"3298 Kettner Blvd', 'San Diego, CA 92101",32.736358917567,-117.176213391505,6
+16,San Diego Charter,limos,"1426 Morena Blvd', 'San Diego, CA 92110",32.773079,-117.204449,6
+17,Taxi Rob,taxis,"San Diego, CA 92116",32.7616195678711,-117.125991821289,6
+18,San Diego Seal Tour,tours,"500 Kettner Blvd', 'San Diego, CA 92101",32.7085907757282,-117.169497907162,6
+19,Five Star Transportation Services,buses,"714 10th Ave', 'San Diego, CA 92102",32.71282,-117.15602,6
+20,Lovely Nights Limousine Service,limos,"1455 Frazee Rd', 'Ste 500', 'San Diego, CA 92108",32.7741805,-117.1586352,6
+21,Cali Party Bus,limos,"2244 National Ave', 'San Diego, CA 92113",32.69692,-117.13903,6
+22,Southwest Airlines,airlines,"3665 N Harbor Dr', 'San Diego, CA 92101",32.7296349,-117.1959381,6
+23,Epic Limo and Party Bus,limos,"3392 E St', 'San Diego, CA 92102",32.7146482,-117.1212921,6
+24,California Coast Limo,limos,"San Diego, CA 92104",32.7456146222639,-117.142368990043,6
+25,SD Luxury Limos,limos,"600 W Broadway', 'Ste 700', 'San Diego, CA 92101",32.7167702,-117.1687164,6
+26,Andys Cab,taxis,"San Diego, CA 94945",32.7580231817725,-117.2172397693,6
+27,On Time Shuttle Ride,airport_shuttles,"1621 Hotel Cir S', 'San Diego, CA 92108",32.7578659057617,-117.178497314453,6
+28,The DD Van Service,limos,"San Diego, CA 92110",32.72801,-117.231209,6
+29,Rolls Livery,limos,"3776 37th St', 'San Diego, CA 92105",32.7474599,-117.11348,6
+30,San Diego Van Service,airport_shuttles,"San Diego, CA 92109",32.7952194213867,-117.237655639648,6
+31,Coastal Cab company,taxis,"1800 Columbia St', 'San Diego, CA 92101",32.7246663248617,-117.167786206841,6
+32,Santa Fe Train Depot,publictransport,"1050 Kettner Blvd', 'San Diego, CA 92101",32.71651,-117.1695,6
+33,A Big Van San Diego Shuttle,airport_shuttles,"San Diego, CA 92103",32.7473487854004,-117.166870117188,6
+34,Coronado Ferry,ferries,"990 N Harbor Dr', 'San Diego, CA 92101",32.7151808,-117.173458188772,6
+35,Xperience Transportation,eventplanning,"7364 Mission Gorge Rd', 'San Diego, CA 92120",32.8065706,-117.0803645,6
+36,Luxx Limo,limos,"3644 Midway Dr', 'San Diego, CA 92110",32.7528582,-117.2159045,6
+37,Men In Black Transportation,airport_shuttles,"5644 Kearny Mesa Rd', 'Ste T', 'San Diego, CA 92111",32.8371799,-117.13906,6
+38,Flex Transportation,airport_shuttles,"11835 Carmel Mtn Rd', 'Ste 1304-102', 'San Diego, CA 92128",32.9517989057565,-117.102028763419,6
+39,SuperShuttle,airport_shuttles,"San Diego, CA 92108",32.7737007141113,-117.144020080566,6
+40,Park-2-Park Shuttle,publictransport,"30TH St', 'San Diego, CA",32.730514,-117.129741,6
+41,San Diego Black Car,airport_shuttles,"1220 Rosecrans St', 'San Diego, CA 92106",32.723091,-117.230936,6
+42,JohnnyCar Sedan Service,taxis,"2321 Morena Blvd', 'San Diego, CA 92110",32.78647,-117.20596,6
+43,Tesloop,towncarservice,"San Diego, CA 92121",32.9028176,-117.1946528,6
+44,Uber Greenlight Hub,taxis,"7310 Miramar Rd', 'Ste 103', 'San Diego, CA 92126",32.8828699,-117.15579,6
+45,Budget Transportation,airport_shuttles,"6525 Beadnell Way', 'San Diego, CA 92117",32.8207839,-117.1720306,6
+46,Talia First Class Limousines and Wine Tours,limos,"2401 Pacific Hwy', 'San Diego, CA 92101",32.7294191,-117.1733942,6
+47,Rhyde,airport_shuttles,"525 11th Ave', 'San Diego, CA 92101",32.710897,-117.154195,6
+48,Half Moon Limos Car Service | San Diego LAX,towncarservice,"San Diego, CA 92128",33.0013938,-117.0735241,6
+49,ExecuCar,limos,"San Diego, CA 92108",32.78292,-117.11055,6
+50,Kyxy 96.5 FM Radio,radiostations,"8033 Linda Vista Rd', 'San Diego, CA 92111",32.8073997497559,-117.153999328613,6
+51,T-Mobile,mobilephones,"1900 Main St', 'Ste 189', 'San Diego, CA 92113",32.699123,-117.146,6
+52,T-Mobile,mobilephones,"3807 Fairmont Ave', 'Ste 100', 'San Diego, CA 92105",32.7480927,-117.100712,6
+53,T-Mobile,mobilephones,"7420 Clairemont Mesa Blvd', 'Ste 117', 'San Diego, CA 92111",32.8335723,-117.158444523811,6
+54,T-Mobile,mobilephones,"336 Euclid Ave', 'Ste 501', 'San Diego, CA 92114",32.7084736691789,-117.086592804893,6
+55,NBC 7 Channel 39,televisionstations,"9680 Granite Ridge Dr', 'San Diego, CA 92123",32.715559,-117.162223,6
+56,Columbia Pacific Telesystems,telecommunications,"9672 Via Excelencia', 'Ste 204', 'San Diego, CA 92126",32.8988556,-117.1178407,6
+57,Pacific San Diego Magazine,printmedia,"2165 San Diego Ave', 'Ste 202', 'San Diego, CA 92110",32.7469825744629,-117.190719604492,6
+58,101KGB San Diego's Classic Rock,radiostations,"9660 Granite Ridge Dr', 'Ste 100', 'San Diego, CA 92123",32.8068161010742,-117.120941162109,6
+59,Channel 933 Khts-Fm Radio,radiostations,"9660 Granite Ridge Dr', 'San Diego, CA 92123",32.80677,-117.12093,6
+60,KGTV ABC 10 News,televisionstations,"4600 Air Way', 'San Diego, CA 92102",32.72005,-117.09576,6
+61,Earthbound Radio,radiostations,"San Diego, CA 92101",32.7211,-117.16431,6
+62,Teldata Enterprise Networks,security,"11487 Woodside Ave', 'Santee, CA 92071",32.85064,-116.9494,6
+63,Magic 92.5,radiostations,"6160 Cornerstone Ct E', 'Ste 150', 'San Diego, CA 92121",32.896477,-117.187405,6
+64,100.7 KFM-BFM,radiostations,"7677 Engineer Rd', 'San Diego, CA 92111",32.8266792297363,-117.156860351562,6
+65,HillQuest Urban Guide,printmedia,"3742 7th Ave', 'Ste B', 'San Diego, CA 92103",32.74577,-117.1587,6
+66,KOGO-AM 600 News Talk,radiostations,"5050 Murphy Canyon Rd', 'San Diego, CA 92123",32.83026,-117.12065,6
+67,Natural Networks,datarecovery,"10225 Barnes Canyon Rd', 'Ste A105', 'San Diego, CA 92121",32.8991508483887,-117.196662902832,6
+68,Sunny 98.1,radiostations,"1615 Murray Canyon Rd', 'Ste 710', 'San Diego, CA 92108",32.7748031616211,-117.157821655273,6
+69,KFMB 760 AM Talk Radio,radiostations,"7677 Engineer Rd', 'San Diego, CA 92111",32.8266792297363,-117.156860351562,6
+70,DawnSignPress,printmedia,"6130 Nancy Ridge Dr', 'San Diego, CA 92121",32.8892,-117.18671,6
+71,T-Mobile,mobilephones,"3755 Murphy Canyon Rd', 'Ste A', 'San Diego, CA 92123",32.810881,-117.115859,6
+72,Spectrum Internet & Cable Packages,isps,"San Diego, CA 92104",32.7502517700195,-117.136962890625,6
+73,Star 94.1,radiostations,"9660 Granite Ridge Dr', 'Ste 100', 'San Diego, CA 92123",32.80677,-117.12093,6
+74,CBS NEWS 8 - KFMB Stations,televisionstations,"7677 Engineer Rd', 'San Diego, CA 92111",32.8266487121582,-117.156860351563,6
+75,Espresso San Diego's Coffeehouse & Cafe Newspaper,coffee,"740 13th St', 'San Diego, CA 92101",32.713047,-117.1529541,6
+76,Eironclad Technology Solutions,web_design,"3590 Mt Acadia Blvd', 'San Diego, CA 92111",32.8070529,-117.1828908,6
+77,Phone Systems Plus,telecommunications,"12528 Kirkham Ct', 'Ste 8', 'Poway, CA 92064",32.9436393,-117.0508834,6
+78,San Diego Reader,printmedia,"2323 Broadway', 'Ste 200', 'San Diego, CA 92102",32.71556718686,-117.142957147006,6
+79,Enhanced Voice & Data Networks,telecommunications,"4627 Mission Gorge Pl', 'Ste A', 'San Diego, CA 92120",32.7823583,-117.0936122,6
+80,AIS Data Centers,isps,"9305 Lightwave Ave', 'San Diego, CA 92123",32.8280675,-117.1299064,6
+81,Mission Bay Media,web_design,"4490 Fanuel St', 'Ste 205', 'San Diego, CA 92109",32.7982712,-117.2464371,6
+82,V-Me,televisionstations,"5200 Campanile Dr', 'San Diego, CA 92115",32.7717604,-117.0720449,6
+83,voiceofsandiego.org,nonprofit,"2508 Historic Decatur Rd', 'San Diego, CA 92106",32.73704,-117.21452,6
+84,Gold Star IT Solutions,itservices,"9615 Gold Coast Dr', 'F8', 'San Diego, CA 92126",32.90464417,-117.1193165,6
+85,Wave.Band,telecommunications,"6920 Miramar Rd', 'Ste 306', 'San Diego, CA 92121",32.8793,-117.16631,6
+86,Z90.3,radiostations,"6160 Cornerstone Ct E', 'Ste 150', 'San Diego, CA 92121",32.896477,-117.187405,6
+87,Geek Squad,telecommunications,"5151 Mission Ctr Rd', 'San Diego, CA 92108",32.7706771,-117.1499598,6
+88,I2B Networks,isps,"8830 Complex Dr', 'San Diego, CA 92123",32.8300827741623,-117.137874662876,6
+89,T-Mobile,mobilephones,"4309 La Jolla Village Dr', 'Ste 2340', 'Lajolla, CA 92122",32.870821,-117.212409,6
+90,Inventiva Design,marketing,"6362 Amberly St', 'San Diego, CA 92120",32.8036613,-117.0565872,6
+91,Jam'n 957,radiostations,"9660 Granite Ridge Dr', 'Ste 100', 'San Diego, CA 92123",32.8067703,-117.1209335,6
+92,Cox Communications,televisionserviceproviders,"5159 Federal Blvd', 'San Diego, CA 92105",32.7214246549104,-117.084586494847,6
+93,Kson 97 3 Fm Today's Best Country,radiostations,"1615 Murray Canyon Rd', 'Ste 710', 'San Diego, CA 92108",32.7748031616211,-117.157821655273,6
+94,Phoneall,telecommunications,"800 The Mark Ln', 'SAN DIEGO, CA 92101",32.710961,-117.156932,6
+95,Cox San Diego,televisionserviceproviders,"5159 Federal Blvd', 'San Diego, CA 92105",32.720459,-117.08258,6
+96,CWY Marketing and Consulting,printmedia,"731 9th Ave', 'San Diego, CA 92101",32.713028,-117.156204,6
+97,Verizon Authorized Retailer - GoWireless,mobilephones,"4545 LaJolla Village Dr', 'Ste 9010', 'San Diego, CA 92122",32.8734842,-117.2098198,6
+98,Cox High Speed Internet,televisionstations,"San Diego, CA 92101",32.7211,-117.16431,6
+99,Cox Business,isps,"5159 Federal Blvd', 'San Diego, CA 92105",32.7207085393549,-117.082569306082,6
+100,San Diego Newsstands,mags,"4545 La Jolla Village Dr', 'San Diego, CA 92122",32.8734818,-117.2098312,6
+101,Keepgo,isps,"5910 Pacific Center Blvd', 'Ste 320', 'San Diego, CA 92121",32.9052342,-117.1907246,6
+102,T-Mobile,cellphoneaccessories,"8801-8879 Villa La Jolla Dr', 'La Jolla, CA 92037",32.869201,-117.232692,6
+103,T-Mobile,mobilephones,"2720 E Plaza Blvd', 'Ste P', 'National City, CA 91950",32.680259,-117.077732706016,6
+104,KSDT Radio,radiostations,"9500 Gilman Dr', 'University of California San Diego', 'San Diego, CA 92093",32.877228,-117.240235,6
+105,West Coast WiFi,isps,"San Diego, CA 92110",32.7638816833496,-117.200706481934,6
+106,Kson Country 92 1 Fm,radiostations,"San Diego, CA 92101",32.7211,-117.16431,6
+107,Cbeyond,isps,"6256 Greenwich Drive', 'Suite 400', 'San Diego, CA 92122",32.85271,-117.18314,6
+108,XX Sports Radio,radiostations,"6160 Cornerstone Ct E', 'Ste 100', 'San Diego, CA 92121",32.8964767456055,-117.187408447266,6
+109,Union-Tribune Publishing,printmedia,"600 B St', 'Ste 1201', 'San Diego, CA 92101",32.7182,-117.15882,6
+110,DISH,televisionserviceproviders,"San Diego, CA 92101",32.71763,-117.16213,6
+111,Tiki Magazine,printmedia,"5663 Balboa Ave', 'Ste 398', 'San Diego, CA 92111",32.8194299,-117.17978,6
+112,Enlace,printmedia,"350 Camino De La Reina', 'San Diego, CA 92108",32.76424,-117.16553,6
+113,ITV San Diego's Educational Channel,televisionstations,"6401 Linda Vista Rd', 'San Diego, CA 92111",32.7694091796875,-117.179611206055,6
+114,Kyxy 96 5 Fm Radio,radiostations,"San Diego, CA 92101",32.7211,-117.16431,6
+115,Univision,televisionstations,"5770 Ruffin Rd', 'San Diego, CA 92123",32.83877,-117.1275169,6
+116,Verizon Authorized Retailer - GoWireless,mobilephones,"2995 Clairemont Dr', 'San Diego, CA 92117",32.79402,-117.19427,6
+117,Verizon,electronics,"8795 Villa La Jolla Dr', 'Ste 102', 'La Jolla, CA 92037",32.8681046040993,-117.232558392521,6
+118,Xhas,televisionstations,"5770 Ruffin Rd', 'San Diego, CA 92123",32.83876,-117.12779,6
+119,A Way with Words: National Public Radio,arts,"San Diego, CA",32.71568,-117.16171,6
+120,Channel 96.1,radiostations,"San Diego, CA 92101",32.7229537963867,-117.169792175293,6
+121,Elephant Eater Comics,printmedia,"San Diego, CA 92101",32.7211,-117.16431,6
+122,FMT Solutions,televisionserviceproviders,"9630 Black Mountain Rd', 'Ste C', 'San Diego, CA 92126",32.8979994,-117.1242068,6
+123,More Fm 98 9,radiostations,"1027 10th Ave', 'Ste C', 'San Diego, CA 92101",32.716167,-117.155319,6
+124,Easy 98.1FM,radiostations,"San Diego, CA",,,6
+125,The Rowdy Report Studio,radiostations,"5561 Las Alturas Ter', 'San Diego, CA 92114",32.70237,-117.0772,6
+126,944,printmedia,"611 W G St', 'Ste 122', 'San Diego, CA 92101",32.7122535705566,-117.168563842773,6
+127,Expo Outfitters,marketing,"8533 Production Ave', 'San Diego, CA 92121",32.8809927,-117.1651993,6
+128,U.S. 95.7 FM,radiostations,"9660 Granite Ridge Dr', 'Ste 100', 'San Diego, CA 92123",32.8068161010742,-117.120941162109,6
+129,91X Resurrection Weekend,radiostations,"6160 Cornerstone Ct E', 'San Diego, CA 92121",32.896477,-117.187405,6
+130,San Diego Union-Tribune,advertising,"350 Camino De La Reina', 'San Diego, CA 92108",32.7658615112305,-117.16414642334,6
+131,W S Radio,radiostations,"6150 Lusk Blvd', 'San Diego, CA 92121",32.89917,-117.19666,6
+132,The Daily Transcript,printmedia,"2652 4th Ave', 'Fl 2', 'San Diego, CA 92103",32.733156,-117.161508,6
+133,Telepacific Communications,isps,"6134 Nancy Ridge Dr', 'San Diego, CA 92121",32.8896026611328,-117.186698913574,6
+134,Convergence Communications,isps,"101 W Broadway', 'Ste 510', 'San Diego, CA 92101",32.715075,-117.16425,6
+135,Best Cable & Satellite TV,televisionserviceproviders,"San Diego, CA 92108",32.78289,-117.11059,6
+136,North Park News,printmedia,"1250 6th Ave', 'San Diego, CA 92101",32.71854,-117.15957,6
+137,MVS Radio,radiostations,"9660 Granite Ridge Dr', 'Ste 200', 'San Diego, CA 92123",32.8068161010742,-117.120941162109,6
+138,Loudspeaker SD,radiostations,"9660 Granite Ridge Dr', 'Ste Dr 200', 'San Diego, CA 92101",32.8068161010742,-117.120941162109,6
+139,Gay & Lesbian Times,printmedia,"1730 Monroe Ave', 'Ste A', 'San Diego, CA 92116",32.7593,-117.14665,6
+140,Telcomtec,telecommunications,"120 N Pacific St', 'Ste J2', 'San Marcos, CA 92069",33.148584,-117.195459,6
+141,Vision Magazine,printmedia,"1281 University Ave', 'Ste G', 'San Diego, CA 92103",32.7480199,-117.15168,6
+142,Star 100 7 Fm,radiostations,"7677 Engineer Rd', 'San Diego, CA 92111",32.8266792297363,-117.156860351562,6
+143,San Diego Pix,printmedia,"1010 University Ave', 'San Diego, CA 92103",32.7493399,-117.15432,6
+144,Armed Forces Dispatch Newspaper,printmedia,"10981 San Diego Mission Rd', 'Ste 112', 'San Diego, CA 92108",32.7846044,-117.1019004,6
+145,Mission Times Courier,printmedia,"6549 Mission Gorge Rd', 'San Diego, CA 92120",32.79155,-117.09697,6
+146,Wealth TV,televisionstations,"4757 Morena Blvd', 'San Diego, CA 92117",32.825047,-117.229164,6
+147,Nguoi Viet Today,printmedia,"4660 El Cajon Blvd', 'Ste 105', 'San Diego, CA 92115",32.7564010620117,-117.093658447266,6
+148,LGBT Weekly,printmedia,"1850 Fifth Ave', 'Ste 25', 'San Diego, CA 92101",32.72486,-117.16053,6
+149,Boost Mobile Premier Store,mobilephones,"5945 Balboa Ave', 'San Diego, CA 92111",32.81969,-117.17738,6
+150,The Espresso,printmedia,"San Diego, CA 92112",32.71454,-117.15735,6
+151,The Rage Monthly,printmedia,"San Diego, CA 92103",32.715738,-117.1610838,6
+152,Simply Wired Low Voltage,homenetworkinstall,"Oceanside, CA 92057",33.2247828525685,-117.295642092629,6
+153,San Diego Voice & Viewpoint Newspaper,printmedia,"3619 College Ave', 'San Diego, CA 92115",32.746154,-117.059244,6
+154,Coveredge TV News Service,televisionstations,"315 Market St', 'San Diego, CA 92101",32.71121,-117.16165,6
+155,Kcbq 1170 Am,radiostations,"9255 Towne Centre Dr', 'Ste 535', 'San Diego, CA 92121",32.87578,-117.20701,6
+156,Local Media Of America,radiostations,"6160 Cornerstone Ct E', 'San Diego, CA 92121",32.896477,-117.187405,6
+157,Level 3 Communications,isps,"8929 Aero Dr', 'San Diego, CA 92123",32.808967590332,-117.135902404785,6
+158,SignOn San Diego Daily Deal,printmedia,"350 Camino De La Reina', 'San Diego, CA 92108",32.76424,-117.16553,6
+159,Hughes,isps,"9605 Scranton Rd', 'San Diego, CA 92121",32.89699,-117.20093,6
+160,Kifm Smooth Jazz 98 1 Fm,radiostations,"San Diego, CA 92101",32.7211,-117.16431,6
+161,Xtra Sport 1360 AM,radiostations,"9660 Granite Ridge Dr', 'Ste 100', 'San Diego, CA 92123",32.8068161010742,-117.120941162109,6
+162,San Diego Social Magazine,printmedia,"625 Broadway', 'Ste 1100', 'San Diego, CA 92101",32.715464,-117.158888,6
+163,SignOn San Diego,printmedia,"350 Camino De La Reina', 'San Diego, CA 92108",32.764063,-117.1649566,6
+164,Vitrorobertson,printmedia,"625 Broadway', 'San Diego, CA 92101",32.7340394565636,-117.217402937086,6
+165,Revolt Magazine,printmedia,"San Diego, CA 92169",32.79904,-117.25244,6
+166,Ur Wire Guy,telecommunications,"32900 Riverside Dr', 'Lake Elsinore, CA 92530",33.66625101978,-117.382956485986,6
+167,I Sold It,isps,"7061 Clairemont Mesa Blvd', 'Ste 209', 'San Diego, CA 92111",32.8325151,-117.1645497,6
+168,KSDW 88.9FM,radiostations,"San Diego, CA",33.5024795532227,-117.166931152344,6
+169,Military Press,printmedia,"9715 Carroll Centre Rd', 'Ste 104', 'San Diego, CA 92126",32.89853,-117.12183,6
+170,Sagewood Group,isps,"San Diego, CA 92111",32.823984,-117.157001,6
+171,Herring Broadcasting System,televisionstations,"4757 Morena Blvd', 'San Diego, CA 92117",32.8250699,-117.22916,6
+172,Vjsatellites,televisionserviceproviders,"9449 Friars Rd', 'San Diego, CA 92108",32.7864674,-117.1205702,6
+173,Precise Media PR,printmedia,"San Diego, CA",32.71568,-117.16171,6
+174,Art Rocks 247,radiostations,"345 6th Ave', 'San Diego, CA 92101",32.70892,-117.1589,6
+175,San Diego Fresh Design,printmedia,"San Diego, CA 92131",32.9193115234375,-117.068977355957,6
+176,The Chinese News,printmedia,"4463 University Ave', 'San Diego, CA 92105",32.74935,-117.09834,6
+177,San Diego Off Roader Magazine,printmedia,"San Diego, CA 92101",32.7211,-117.16431,6
+178,Miramar Sign Company,copyshops,"10102 Miramar Rd', 'San Diego, CA 92126",32.893423140049,-117.116900458932,6
+179,Affluent Living Publications,printmedia,"1081 Camino Del Rio S', 'San Diego, CA 92108",32.7641181945801,-117.152923583984,6
+180,UCSD Guardian,printmedia,"9500 Gilman Dr', 'La Jolla, CA 92039",32.8772549,-117.2373495,6
+181,PacificIP,telecommunications,"6920 Miramar Rd', 'Ste 218', 'San Diego, CA 92121",32.8793,-117.16631,6
+182,Custom Banner Printing and Stickers,printmedia,"9715 Carroll Center Rd', 'Ste 102', 'San Diego, CA 92126",32.89853,-117.12183,6
+183,San Diego Bride & Groom,printmedia,"438 Camino Del Rio S', 'San Diego, CA 92108",32.7616692,-117.1606979,6
+184,Spectrum,isps,"1110 Orange Ave', 'Coronado, CA 92118",32.684713,-117.17998,6
+185,Dot Com Host,isps,"3969 4th Ave', 'San Diego, CA 92103",32.74948,-117.16127,6
+186,San Diego Business Journal,printmedia,"4909 Murphy Canyon Rd', 'San Diego, CA 92123",32.8288307189941,-117.119232177734,6
+187,Verizon Authorized Retailer - GoWireless,mobilephones,"953 Orange Ave', 'Coronado, CA 92118",32.6862846217236,-117.179287890913,6
+188,Cox Digital Telephone,televisionstations,"San Diego, CA 92101",32.7229537963867,-117.169792175293,6
+189,Xo Communications,telecommunications,"5771 Copley Dr', 'San Diego, CA 92111",32.840875,-117.168968,6
+190,Bars Society,printmedia,"113 W G St', 'Studio 742', 'San Diego, CA 92101",32.7124023,-117.1640396,6
+191,Regional Internet,isps,"3525 Del Mar Heights Rd', 'Ste 980', 'San Diego, CA 92130",32.9535413,-117.2304232,6
+192,Wireless Depot,isps,"4601 University Ave', 'Ste 92105', 'San Diego, CA 92105",32.7465273853528,-117.094566364592,6
+193,TruComm SBS,telecommunications,"1387 N Cuyamaca St', 'El Cajon, CA 92020",32.8144731,-116.9791327,6
+194,Klqv K-Love 102 9 Fm,radiostations,"600 W Broadway', 'San Diego, CA 92101",32.7167699,-117.16872,6
+195,San Diego Jewish Journal,printmedia,"5665 Oberlin Dr', 'Ste 204', 'San Diego, CA 92121",32.89173,-117.19619,6
+196,Sea Monster Marine,marketing,"2525 Shelter Island Dr', 'Ste A', 'San Diego, CA 92106",32.72001,-117.227,6
+197,Southern California Telephone Company,isps,"27515 Enterprise Cir W', 'Temecula, CA 92590",33.5141413,-117.1645121,6
+198,Update,printmedia,"2801 4th Ave', 'San Diego, CA 92103",32.7346992492676,-117.160926818848,6
+199,Local Computer Pros,itservices,"Encinitas, CA 92023",33.0529,-117.27301,6
+200,Telephone Jacks,telecommunications,"Oceanside, CA 92056",33.192168,-117.3028803,6
+201,Kogo-Am 600 Radio,radiostations,"9660 Granite Ridge Dr', 'San Diego, CA 92123",32.80677,-117.12093,6
+202,Lindberg Feild News,printmedia,"Terminal 1', 'Midway District, CA 92101",32.730673,-117.197454,6
+203,Xpedient Communications,securitysystems,"5490 Complex St', 'San Diego, CA 92123",32.8338578,-117.134574,6
+204,Affordable Telephone Systems,telecommunications,"333 South Juniper St', 'Ste 110', 'Escondido, CA 92025",33.120433,-117.077279,6
+205,Dish Authorized Retailer,televisionserviceproviders,"1315 E Valley Pkwy', 'Vallarta Supermarkets', 'Escondido, CA 92027",33.1304629,-117.0641511,6
+206,TeQ I.Q.,isps,"7317 El Cajon Blvd', 'La Mesa, CA 91942",32.7684647,-117.0398671,6
+207,Pixel Imaging Media,printmedia,"1261 Liberty Way', 'Vista, CA 92081",33.137677,-117.232082,6
+208,Ballpark Printing,copyshops,"1520 Main St', 'Ste C', 'Ramona, CA 92065",33.036795,-116.87674,6
+209,Protel Communications,telecommunications,"13851 Danielson St', 'Poway, CA 92064",32.938591003418,-117.030746459961,6
+210,BCS - Business Complete Solutions,officeequipment,"13750 Danielson St', 'Poway, CA 92064",32.93988,-117.03297,6
+211,Socal Satellite,televisionserviceproviders,"246 N Emerald Dr', 'Ste 309', 'Vista, CA 92083",33.1912200573405,-117.28100001812,6
+212,AT&T Internet,isps,"Eureka, CA 95534",40.77165,-124.1429,6
+213,Newsline San Diego,printmedia,"333 Highland Ave', 'Ste A', 'National City, CA 91950",32.68191,-117.09989,6
+214,LC Communications,televisionserviceproviders,"1120 S Rancho Santa Fe Rd', 'San Marcos, CA 92078",33.12595,-117.21486,6
+215,Rightway Gate,isps,"3220 Executive Ridge Dr', 'Carlsbad, CA 92008",33.1357119098204,-117.222019844937,6
+216,Telecomcepts,telecommunications,"3285 Trade Center Dr', 'Riverside, CA 92507",33.98323,-117.3462049,6
+217,iTech2 Network Cabling Technology,telecommunications,"5319 University Dr', 'Ste 184', 'Irvine, CA 92612",33.6584149,-117.8031659,6
+218,Tel-Path Communications,telecommunications,"34350 Blossoms Dr', 'Lake Elsinore, CA 92532",33.6674441220055,-117.237347509262,6

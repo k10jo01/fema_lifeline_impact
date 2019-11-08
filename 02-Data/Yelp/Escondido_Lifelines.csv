@@ -1,0 +1,377 @@
+,business,category,address,lat,long,lifeline
+0,San Diego County Assessor/Recorder/County Clerk,courthouses,"141 E Carmel St', 'San Marcos, CA 92078",33.13595,-117.16171,1
+1,US Post Office,postoffices,"403 N Escondido Blvd', 'Escondido, CA 92025",33.1232118889498,-117.087393489967,1
+2,Cal Postal,shipping_centers,"1026 W El Norte Pkwy', 'Escondido, CA 92026",33.14843,-117.107379,1
+3,Escondido Police & Fire Headquarters,policedepartments,"1163 N Ctr City Pkwy', 'Escondido, CA 92026",33.135675,-117.093808,1
+4,US Post Office,postoffices,"1157 W Mission Ave', 'Escondido, CA 92025",33.1244067554186,-117.102692127228,1
+5,US Post Office,postoffices,"11251 Rancho Carmel Dr', 'San Diego, CA 92199",32.983006,-117.081886,1
+6,US Post Office,postoffices,"1770 E Valley Pkwy', 'Escondido, CA 92027",33.1356543,-117.0561422,1
+7,US Post Office,postoffices,"420 N Twin Oaks Valley Rd', 'San Marcos, CA 92069",33.1445863,-117.1626851,1
+8,US Post Office,postoffices,"28588 Cole Grade Rd', 'Valley Center, CA 92082",33.2322998,-117.0247192,1
+9,United States Postal Service-USPS,postoffices,"1319 E Valley Pkwy', 'Escondido, CA 92027",33.13129,-117.06325,1
+10,San Marco Post Office,postoffices,"420 N Twin Oaks Valley Rd', 'San Marcos, CA 92069",33.1446266,-117.1626797,1
+11,San Marcos Station,policedepartments,"182 Santar Pl', 'San Marcos, CA 92069",33.1419707629492,-117.14666253282,1
+0,Mi Rancho Market,grocery,"911 S Escondido Blvd', 'Escondido, CA 92025",33.112626,-117.078651,2
+1,Trader Joe's,grocery,"1885 S Centre City Pkwy', 'Escondido, CA 92025",33.099986,-117.074898,2
+2,Major Market,grocery,"1855 S Center City Pkwy', 'Escondido, CA 92025",33.101011,-117.075476,2
+3,Jimbo's...Naturally!,delis,"1633 S Centre City Pkwy', 'Escondido, CA 92025",33.1040294947754,-117.077572904527,2
+4,Vallarta Supermarkets,grocery,"1315 East Valley Pwy', 'Escondido, CA 92027",33.130729675293,-117.064178466797,2
+5,Conchitas Bakery Restaurant and Market,grocery,"649 W Mission Ave', 'Ste 10', 'Escondido, CA 92025",33.1270295265611,-117.094125908257,2
+6,Meadows Deli Market,grocery,"27980 Oak Ranch Rd', 'Escondido, CA 92026",33.2164157874673,-117.109224961196,2
+7,Latino Meat Market,meats,"525 W Grand Ave', 'Escondido, CA 92025",33.1184,-117.08722,2
+8,Northgate Market,grocery,"606 N Escondido Blvd', 'Escondido, CA 92025",33.1270217895508,-117.086982727051,2
+9,Sprouts Farmers Market,grocery,"510 W 13th St', 'Escondido, CA 92025",33.1080453373506,-117.080589,2
+10,Oriental Food Market,grocery,"205 W Mission Ave', 'Ste T', 'Escondido, CA 92025",33.12918,-117.08747,2
+11,Aldi,grocery,"1352 B W Valley Pkwy', 'Escondido, CA 92029",33.1126999,-117.10368,2
+12,ALDI,grocery,"1330 E Valley Pkwy', 'Ste M', 'Escondido, CA 92027",33.1317017,-117.0646803,2
+13,Waterpia,waterstores,"322 W El Norte Pkwy', 'Escondido, CA 92026",33.1431618,-117.0948029,2
+14,WinCo Foods,grocery,"555 Grand Ave', 'San Marcos, CA 92078",33.135305,-117.176576,2
+15,Stater Bros. Markets,grocery,"635 N Broadway', 'Escondido, CA 92025",33.127737,-117.085953,2
+16,"Barons Market, Rancho Bernardo",grocery,"11828 Rancho Bernardo Rd', 'Ste 108', 'San Diego, CA 92128",33.0237045288086,-117.075614929199,2
+17,San Diego Humane Society - Escondido Campus,animalshelters,"3500 Burnet Dr', 'Escondido, CA 92027",33.1601209,-117.0320442,2
+18,Albertsons,grocery,"1509 E Valley Pkwy', 'Escondido, CA 92027",33.13184,-117.059073,2
+19,Grocery Outlet Bargain Market,discountstore,"1516 E Valley Pkwy', 'Escondido, CA 92027",33.1338108,-117.0614142,2
+20,Albertsons,grocery,"1570 W Valley Pkwy', 'Escondido, CA 92029",33.1088383273482,-117.105641279666,2
+21,Vons,grocery,"351 W Felicita Ave', 'Escondido, CA 92025",33.10306,-117.07325,2
+22,5 Star Market,grocery,"553 W 9th Ave', 'Escondido, CA 92025",33.11093,-117.0827,2
+23,Ralphs,grocery,"306 S Twin Oaks Valley Rd', 'San Marcos, CA 92078",33.1312264,-117.1649146,2
+24,Walmart Neighborhood Market,grocery,"1266 E Valley Pkwy', 'Escondido, CA 92027",33.1320481,-117.066438,2
+25,Vons,grocery,"2345 E Valley Pkwy', 'Escondido, CA 92027",33.139173,-117.044469,2
+26,Food 4 Less,grocery,"644 N Broadway', 'Escondido, CA 92025",33.1285758125052,-117.083144187927,2
+27,Vons,grocery,"1000 W El Norte Pkwy', 'Escondido, CA 92026",33.148573751339,-117.106468677521,2
+28,Walmart,grocery,"1330 East Grand Ave', 'Escondido, CA 92027",33.12972,-117.06273,2
+29,Ralphs,grocery,"2417 E Valley Pkwy', 'Escondido, CA 92027",33.14061,-117.042908,2
+30,Lopez Market No 2,grocery,"200 W El Norte Pkwy', 'Ste 5', 'Escondido, CA 92026",33.1394143,-117.0914351,2
+31,Smart & Final Extra!,grocery,"395 N Escondido Blvd', 'Escondido, CA 92025",33.122221,-117.087557,2
+32,Vons,grocery,"330 W El Norte Pkwy', 'Escondido, CA 92026",33.1435073191561,-117.094130516052,2
+33,Al's Short Stop,grocery,"908 Del Dios Hwy', 'Escondido, CA 92029",33.10859,-117.09932,2
+34,Walmart,deptstores,"732 Center Dr', 'San Marcos, CA 92069",33.13537,-117.12261,2
+35,Viva Market,grocery,"1632 E Valley Pkwy', 'Escondido, CA 92027",33.135013,-117.059063,2
+36,Patron Meat Market & Deli,grocery,"204 W San Marcos Blvd', 'Ste 101', 'San Marcos, CA 92069",33.14114,-117.16572,2
+37,Shell Food Mart,grocery,"780 W El Norte Pkwy', 'Escondido, CA 92026",33.14706,-117.10311,2
+38,Stater Bros. Markets,grocery,"1330 E Mission Rd', 'San Marcos, CA 92069",33.1361057,-117.130126,2
+39,Qwik Korner Deli Grocery,grocery,"655 E Lincoln Ave', 'Escondido, CA 92026",33.135383605957,-117.07933807373,2
+40,El Super,grocery,"151 W Lincoln Ave', 'Escondido, CA 92026",33.132846,-117.08853,2
+41,Korner Market,grocery,"482 E Pennsylvania Ave', 'Escondido, CA 92025",33.12655,-117.07743,2
+42,Water Source,waterstores,"1318 East Mission Rd', 'San Marcos, CA 92069",33.13709333,-117.130185,2
+43,Albertsons,grocery,"151 Woodland Pkwy', 'San Marcos, CA 92069",33.1402,-117.13887,2
+44,Twin Oaks Market & Deli,grocery,"2148 N Twin Oaks Valley Rd', 'San Marcos, CA 92069",33.1826361,-117.1560743,2
+45,Valley Market,grocery,"1356 W Valley Pkwy', 'Escondido, CA 92029",33.1115493774414,-117.104103088379,2
+46,El Tigre Market,grocery,"608 N Escondido Blvd', 'Escondido, CA 92025",33.12684,-117.08678,2
+47,Cedar's Market,grocery,"701 S Escondido Blvd', 'Escondido, CA 92025",33.1145133972168,-117.080429077148,2
+48,El Mexicano Market and Liquor,grocery,"602 S Escondido Blvd', 'Escondido, CA 92025",33.11569,-117.08058,2
+49,La Favorita Market,meats,"245 W El Norte Pkwy', 'Escondido, CA 92026",33.1391483930533,-117.09282,2
+50,Valley Center Foods,grocery,"27537 Valley Center Rd', 'Valley Center, CA 92082",33.21056,-117.03299,2
+51,ResQue Ranch,animalshelters,"15108 Highland Valley Rd', 'Escondido, CA 92025",33.06734,-117.01279,2
+52,The Market,grocery,"8845 Lawrence Welk Dr', 'Escondido, CA 92026",33.232195,-117.142929,2
+53,Circle K Food Services,grocery,"1161 E Valley Pkwy', 'Escondido, CA 92025",33.12995,-117.06713,2
+54,Escondido Highlands Recreation Center,communitycenters,"1700 Woodland Heights Gln', 'Escondido, CA 92026",33.1636036,-117.1376638,2
+55,Price Mission Liquor,beer_and_wine,"240 W Mission Ave', 'Ste D', 'Escondido, CA 92025",33.12971,-117.08869,2
+56,Lilac Foods,grocery,"28960 Lilac Rd', 'Valley Center, CA 92082",33.2366505,-117.0527691,2
+57,North County Food Bank,foodbanks,"680 Rancheros Dr', 'San Marcos, CA 92069",33.141197,-117.144744,2
+58,American's Liquor & Food,grocery,"2209 E Valley Pkwy', 'Escondido, CA 92027",33.139322,-117.0475983,2
+59,Forgotten Paws Animal Rescue,animalshelters,"San Marcos, CA 92079",33.14457,-117.1626,2
+60,Water Mill Express,waterstores,"1323 E Valley Pkwy', 'Ste A', 'Escondido, CA 92027",33.1315274366175,-117.063966504521,2
+61,Garden Pick Market,intlgrocery,"1131 E Washington Ave', 'Ste B', 'Escondido, CA 92025",33.1317139868042,-117.068288102746,2
+62,San Marcos Market,grocery,"228 W Mission Rd', 'San Marcos, CA 92069",33.1437149047852,-117.16577911377,2
+63,Escondido Discount Mall,grocery,"2010 E Valley Pkwy', 'Escondido, CA 92027",33.13847,-117.05176,2
+64,San Marcos Market,grocery,"261 Autumn Dr', 'San Marcos, CA 92069",33.1432734309656,-117.167715306847,2
+65,Rick's Grocery,grocery,"1509 S Escondido Blvd', 'Escondido, CA 92025",33.1074562072754,-117.075469970703,2
+66,Valley Center Community Hall,communitycenters,"28246 Lilac Rd', 'Valley Center, CA 92082",33.22172,-117.03903,2
+67,Dogz in Need,animalshelters,"Valley Center, CA 92082",33.2309913635254,-117.03052520752,2
+68,Mission West Market,grocery,"478 W Mission Rd', 'San Marcos, CA 92069",33.1448911,-117.1711616,2
+69,Harvest Farms Market,grocery,"28960 Lilac Rd', 'Ste E', 'Valley Center, CA 92082",33.23599,-117.05333,2
+70,Oaks North Community Center,communitycenters,"12578 Oaks North Dr', 'San Diego, CA 92128",33.0336570739746,-117.058074951172,2
+0,Animal Urgent Care,vet,"2430-A S Escondido Blvd', 'Escondido, CA 92025",33.0910088,-117.0716568,3
+1,Palomar Medical Center,hospitals,"2185 Citracado Pkwy', 'Escondido, CA 92029",33.12208,-117.120394,3
+2,Silverado Escondido Memory Care Community,retirement_homes,"1500 Borden Rd', 'Escondido, CA 92026",33.1427383422852,-117.103302001953,3
+3,Palomar Vista Healthcare Center,medcenters,"201 N Fig St', 'Escondido, CA 92025",33.126056,-117.073884,3
+4,Kaiser Permanente Escondido Medical Offices,medcenters,"732 N Broadway', 'Escondido, CA 92025",33.13038,-117.08406,3
+5,Cypress Court,retirement_homes,"1255 N Broadway', 'Escondido, CA 92026",33.1389799,-117.08994,3
+6,Felicita Vida Senior Living,retirement_homes,"930 Monticello Dr', 'Escondido, CA 92029",33.090656,-117.086024,3
+7,Graybill Medical Group - Escondido,medcenters,"225 E 2nd Ave', 'Escondido, CA 92025",33.12127,-117.07845,3
+8,Redwood Terrace,retirement_homes,"710 W 13th Ave', 'Escondido, CA 92025",33.106381,-117.08324,3
+9,Pacifica Senior Living Escondido,assistedliving,"1351 E Washington Ave', 'Escondido, CA 92027",33.1344483213523,-117.065975368023,3
+10,Planned Parenthood - Escondido,medcenters,"347 W Mission Ave', 'Escondido, CA 92025",33.128253,-117.090487,3
+11,Kaiser Permanente San Marcos Outpatient Medical Center,medcenters,"400 Craven Rd', 'San Marcos, CA 92078",33.12829,-117.170102,3
+12,CSUSM School of Nursing Student Healthcare Project,medcenters,"1249 E Ohio Ave', 'Foundry Clinic', 'Escondido, CA 92027",33.1282350423836,-117.06506870741,3
+13,Palomar Health Downtown Campus,hospitals,"555 E Valley Pkwy', 'Escondido, CA 92025",33.125177,-117.075217,3
+14,Scripps Coastal Medical Center Escondido,medcenters,"488 E Valley Pkwy', 'Ste 411', 'Escondido, CA 92025",33.12561,-117.07738,3
+15,Parkway Endoscopy Center,medcenters,"488 E Valley Pkwy', 'Ste 110', 'Escondido, CA 92025",33.1257365623705,-117.076932191849,3
+16,Concentra Urgent Care,urgent_care,"740 Nordahl Rd', 'Ste 131', 'San Marcos, CA 92069",33.134989,-117.119345,3
+17,Neighborhood Healthcare - Escondido,medcenters,"460 N Elm St', 'Escondido, CA 92025",33.12867,-117.07263,3
+18,Rady Children's Hospital,urgent_care,"625 W Citracado Pkwy', 'Escondido, CA 92025",33.0907249,-117.079133,3
+19,San Diego Vascular Center,medcenters,"625 W Citracado Pkwy', 'Ste 203', 'Escondido, CA 92025",33.0909199,-117.07908,3
+20,BrightStar Care Rancho Bernardo / San Marcos,homehealthcare,"504 West Mission Ave', 'Ste 206', 'Escondido, CA 92025",33.1294371,-117.0927174,3
+21,PlushCare Urgent Care,urgent_care,"San Diego, CA 92109",32.79522,-117.23766,3
+22,Oakmont of Escondido Hills,retirement_homes,"3012 Bear Valley Pkwy S', 'Escondido, CA 92025",33.083425,-117.055542,3
+23,Neighborhood Healthcare - Grand Avenue,medcenters,"1001 E Grand Ave', 'Escondido, CA 92025",33.1262058,-117.0683033,3
+24,F Omar B Tordilla MD MPH,familydr,"225 E Second Ave', 'Graybill Medical Group', 'Escondido, CA 92025",33.12127,-117.07845,3
+25,Children's Primary Care Medical Group,pediatricians,"625 West Citracado Pkwy', 'Ste 200', 'Escondido, CA 92025",33.090923,-117.079117,3
+26,MinuteClinic,walkinclinics,"318 West El Norte Pkwy', 'Escondido, CA 92026",33.142257,33.142257,3
+27,Escondido Va Clinic & Cr Health Services,medcenters,"815 E Pennsylvania Ave', 'Escondido, CA 92025",33.1272499,-117.07166,3
+28,Life Care Center of Escondido,medcenters,"1980 Felicita Rd', 'Escondido, CA 92025",33.09744,-117.0819,3
+29,U.S. HealthWorks Medical Group,urgent_care,"860 W Valley Pkwy', 'Ste 150', 'Escondido, CA 92025",33.11875,-117.095734,3
+30,Advanced Metabolic Care Plus Research,medcenters,"625 W Citracado Pkwy', 'Ste 108', 'Escondido, CA 92025",33.0909199,-117.07908,3
+31,Palomar Urology - Genesis Healthcare,urologists,"1955 Citracado Pkwy', 'Ste 302', 'Escondido, CA 92029",33.113152,-117.120873,3
+32,Graybill Medical Group - Urgent Care Escondido,urgent_care,"225 E 2nd Ave', 'Ste 103', 'Escondido, CA 92025",33.12127,-117.07845,3
+33,Meadowbrook Village,memorycare,"100 Holland Glen', 'Escondido, CA 92026",33.1567,-117.09328,3
+34,Valle Vista Convalescent Hospital,rehabilitation_center,"1025 West 2nd Ave', 'Escondido, CA 92025",33.111833,-117.0931525,3
+35,Borrego Health - Centro Medico Escondido,internalmed,"1121 E Washington Ave', 'Escondido, CA 92025",33.1315837,-117.0691038,3
+36,PCSD,psychiatrists,"221 Crest St', 'Ste 102', 'Escondido, CA 92025",33.130413189686,-117.088229656219,3
+37,Villa Monticello,assistedliving,"25695 N Ctr City Pkwy', 'Escondido, CA 92026",33.17897,-117.112323,3
+38,Kaiser Permanente Rancho Bernardo Medical Offices,medcenters,"17140 Bernardo Center Dr', 'San Diego, CA 92128",33.0249,-117.07618,3
+39,North County Health Services San Marcos,medcenters,"150 Valpreda Rd', 'San Marcos, CA 92069",33.14023,-117.15703,3
+40,cCARE - San Marcos,medcenters,"838 Nordahl Rd', 'Ste 300', 'San Marcos, CA 92069",33.1354685925335,-117.118559044126,3
+41,Centro Medico Del Carmen,medcenters,"301 E Washington Ave', 'Ste B', 'Escondido, CA 92025",33.12737,-117.08145,3
+42,Temecula Medical Group,familydr,"44054 Margarita Rd', 'Unit 1', 'Temecula, CA 92592",33.4834118932486,-117.102514430881,3
+43,Palomar Health at San Marcos,hospitals,"120 Craven Rd', 'San Marcos, CA 92009",33.1278116,-117.1662508,3
+44,Arch Health Partners,medcenters,"1955 Citracado Pkwy', 'Ste 200', 'Escondido, CA 92029",33.1131542,-117.1208327,3
+45,Olivenhain Guest Home,hospice,"350 Cole Ranch Rd', 'Encinitas, CA 92024",33.04259,-117.23487,3
+46,AMCR Institute,medcenters,"625 W Citracado Pkwy', 'Ste 112', 'Escondido, CA 92025",33.0909199,-117.07908,3
+47,Bazilians Health - Acupuncture & Chinese Medicine,acupuncture,"12540 Oaks N Dr', 'Ste G', 'San Diego, CA 92128",33.03359,-117.05911,3
+48,"Anne's Place Board & Care, Assisted Living & Hospice",assistedliving,"2690 Mary Lane Pl', 'Escondido, CA 92025",33.0892399,-117.0423,3
+49,Chiang Larry C F MD,internalmed,"215 S Hickory St', 'Escondido, CA 92025",33.12312,-117.07598,3
+50,Learning Services-Brain Injury Rehabiliitation,assistedliving,"2335 Bear Valley Pkwy', 'Escondido, CA 92027",33.1365928649902,-117.042015075684,3
+51,Care Excellence Team,assistedliving,"Oceanside, CA 92049",33.19533,-117.37817,3
+52,Elder Answers,assistedliving,"3268 Governor Dr', 'Ste 213', 'San Diego, CA 92122",32.852375,-117.2151793,3
+53,Garden Abode,assistedliving,"17067 Coyote Bush Dr', 'San Diego, CA 92127",33.0255813598633,-117.129196166992,3
+54,Palomar Pomerado Laboratory Services,hospitals,"735 E Ohio Ave', 'Ste 101', 'Escondido, CA 92025",33.125919342041,-117.072219848633,3
+55,Palomar Continuing Care Center,hospitals,"555 E Valley Pkwy', 'Escondido, CA 92025",33.125353,-117.07336,3
+56,Las Palmas Medical Group,medcenters,"750 E Grand Ave', 'Ste B', 'Escondido, CA 92025",33.1255531311035,-117.071884155273,3
+57,Graybill Medical Group - Valley Center Office,medcenters,"28743 Valley Center Rd', 'Ste C', 'Valley Center, CA 92082",33.230707,-117.033565,3
+58,Children's Hospital & Health Center,hospitals,"215 S Hickory St', 'Ste 212', 'Escondido, CA 92025",33.12312,-117.07598,3
+59,Excel In-Home Care Services,assistedliving,"105 N Rose St', 'Ste 207', 'Escondido, CA 92027",33.13087,-117.05794,3
+60,Palomar Medical Center,hospitals,"1817 Avenida Del Diablo', 'Escondido, CA 92029",33.1029983,-117.1043066,3
+61,citrus gardens residential care,assistedliving,"704 Via Ladera', 'Escondido, CA 92029",33.07951,-117.08848,3
+62,Children's Hospital Urgent Care Escondido,hospitals,"161 N Date St', 'Escondido, CA 92025",33.12645,-117.07052,3
+63,Neighborhood Healthcare - Valley Parkway,medcenters,"728 E Valley Pkwy', 'Escondido, CA 92025",33.12788,-117.07344,3
+64,Palomar Pomerado Health,hospitals,"17190 Bernardo Center Dr', 'San Diego, CA 92128",33.0247498,-117.0774078,3
+65,Kaiser permanante,urgent_care,"400 Craven Rd', 'San Marcos, CA 92078",33.12878,-117.17012,3
+66,Inspirations Home Care,medicaltransportation,"1540 Heartland Way', 'Corona, CA 92881",33.835564,-117.541039,3
+67,Constant Companions Home Care,homehealthcare,"San Diego, CA 92103",32.749789,-117.1676501,3
+68,Heaven Heights Senior Care,homehealthcare,"77530 Enfield Ln', 'Ste I202', 'Palm Desert, CA 92211",33.7615652,-116.3118072,3
+0,Costco,servicestations,"725 Center Dr', 'San Marcos, CA 92069",33.1353321397879,-117.125222682953,4
+1,Vons Fuel Station,servicestations,"469 W Felicita Ave', 'Escondido, CA 92025",33.1032,-117.07489,4
+2,Shell,servicestations,"615 W El Norte Pkwy', 'Escondido, CA 92026",33.1453398922288,-117.101747989654,4
+3,El Norte Car Wash,carwash,"615 W El Norte Pkwy', 'Escondido, CA 92026",33.1453219260119,-117.101726531982,4
+4,Wash & Mart,carwash,"750 N Escondido Blvd', 'Escondido, CA 92025",33.12879,-117.08862,4
+5,Son's Auto Service,servicestations,"445 W 5th Ave', 'Escondido, CA 92025",33.1153564453125,-117.083610534668,4
+6,Shell,servicestations,"105 E Via Rancho Pkwy', 'Escondido, CA 92025",33.0682,-117.06705,4
+7,7-Eleven,convenience,"1702 S Escondido', 'Escondido, CA 92025",33.1045621,-117.0726277,4
+8,Unocal 76,servicestations,"750 N Escondido Blvd', 'Escondido, CA 92025",33.129193,-117.088798,4
+9,Ronco Gas,servicestations,"1158 E Washington Ave', 'Escondido, CA 92025",33.13306,-117.06865,4
+10,Sun Valley Fuel,servicestations,"550 N Escondido Blvd', 'Escondido, CA 92025",33.12534,-117.08754,4
+11,United Oil - Apro 3,servicestations,"102 W Mission', 'Escondido, CA 92025",33.1305,-117.08589,4
+12,Valero,servicestations,"1400 Auto Pkwy', 'Escondido, CA 92029",33.11418,-117.10431,4
+13,OAAI,servicestations,"501 W 9th Ave', 'Escondido, CA 92025",33.1113091,-117.0820007,4
+14,Kwik Stop Gasoline & Food Mart,servicestations,"1140 E Mission Ave', 'Escondido, CA 92025",33.1361656188965,-117.070976257324,4
+15,ARCO,servicestations,"761 N Broadway', 'Escondido, CA 92025",33.1299998954815,-117.08550453186,4
+16,Shell Food Mart,grocery,"780 W El Norte Pkwy', 'Escondido, CA 92026",33.14706,-117.10311,4
+17,Chevron,servicestations,"215 E Via Rancho Pkwy', 'Escondido, CA 92025",33.0680309398213,-117.066483981907,4
+18,7-Eleven,convenience,"1030 N Broadway', 'Escondido, CA 92026",33.1342405609615,-117.086490243673,4
+19,Shell,servicestations,"2110 W Mission Ave', 'Escondido, CA 92029",33.1308433280567,-117.12267190218,4
+20,ARCO,servicestations,"1550 E Grand Ave', 'Escondido, CA 92027",33.1304312634265,-117.059128746112,4
+21,OAAI Gas Station & Market,servicestations,"2004 E Valley Pkwy', 'Escondido, CA 92027",33.1380199424665,-117.051871392803,4
+22,7-Eleven,servicestations,"522 W 9th Ave', 'Escondido, CA 92025",33.1117591051931,-117.082599699497,4
+23,Qwik Korner Gas Station & Market,servicestations,"2015 E Valley Pkwy', 'Escondido, CA 92027",33.13733,-117.0512,4
+24,7-Eleven,convenience,"578 E Mission Rd', 'San Marcos, CA 92069",33.1454882481118,-117.149657607078,4
+25,Shell,servicestations,"3480 Del Lago Blvd', 'Escondido, CA 92029",33.07022,-117.07056,4
+26,ARCO,servicestations,"2015 E Valley Pkwy', 'Escondido, CA 92027",33.1374475966319,-117.051334194839,4
+27,Smart Fuel,servicestations,"2825 Auto Park Way', 'Escondido, CA 92029",33.1308617,-117.1220068,4
+28,Telesystems,telecommunications,"5886 Agee St', 'San Diego, CA 92122",32.84872,-117.20195,4
+29,Express Fuel,servicestations,"1296 W Valley Pkwy', 'Escondido, CA 92029",33.1143247260691,-117.10170507431,4
+30,7-Eleven,servicestations,"1177 N Escondido Blvd', 'Escondido, CA 92026",33.135655567946,-117.092554718256,4
+31,ampm,servicestations,"100 La Terraza Blvd', 'Escondido, CA 92025",33.116919,-117.0958389,4
+32,Pala Vista Gas Station,servicestations,"29200 Valley Center Rd', 'Valley Center, CA 92082",33.23153,-117.02453,4
+33,ARCO Station,servicestations,"538 N Nordahl Rd', 'Escondido, CA 92029",33.13188,-117.12166,4
+34,Golden State Gasoline,servicestations,"225 W Washington Ave', 'Escondido, CA 92025",33.1259299,-117.08621,4
+35,S & R Chevron,servicestations,"1575 E Valley Pkwy', 'Escondido, CA 92027",33.13346,-117.05959,4
+36,United Oil,servicestations,"Valley Center, CA",33.2086276727053,-117.0341967,4
+37,Varso Gas,servicestations,"2306 S Escondido', 'Escondido, CA 92025",33.0938720703125,-117.071388244629,4
+38,Valero,servicestations,"2825 Auto Pkwy', 'Escondido, CA 92029",33.1308593,-117.1220084,4
+39,Shell,servicestations,"679 W San Marcos Blvd', 'San Marcos, CA 92078",33.1368,-117.17841,4
+40,Budget Trade & Gas,servicestations,"510 W 5th Ave', 'Escondido, CA 92025",33.11541,-117.0849,4
+41,Chevron,servicestations,"16998 W Bernardo Dr', 'San Diego, CA 92127",33.02344,-117.082679,4
+42,C Stop,servicestations,"434 W 5th Ave', 'Escondido, CA 92025",33.11589,-117.08392,4
+43,Valley Center Oil Corp,servicestations,"28010 Valley Center Rd', 'Valley Center, CA 92082",33.21881,-117.03404,4
+44,Mobil,servicestations,"1602 E Valley Pkwy', 'Escondido, CA 92027",33.1342933433776,-117.059346958995,4
+45,7-Eleven,servicestations,"696 W San Marcos Blvd', 'San Marcos, CA 92078",33.1375714061298,-117.178907096386,4
+46,Esco Fuels,servicestations,"501 W 9th Ave', 'Escondido, CA 92025",33.11131,-117.082,4
+47,Bonita Point Auto Care 76,servicestations,"1495 E H St', 'Chula Vista, CA 91910",32.644868,-116.9997515,4
+48,Rincon Del Diablo Municipal Water District,utilities,"1920 N Iris Ln', 'Escondido, CA 92026",33.1524961,-117.0952958,4
+49,United Oil 76,servicestations,"303 S Escondido Blvd', 'Escondido, CA 92025",33.1180953979492,-117.082977294922,4
+50,Apro 3,utilities,"120 W Mission Ave', 'Escondido, CA 92025",33.130525,-117.085895,4
+51,Chevron,servicestations,"130 Knoll Rd', 'San Marcos, CA 92069",33.1389616540768,-117.174843549728,4
+52,Escondido Auto Repair & Smog,servicestations,"151 N Rose St', 'Ste A101', 'Escondido, CA 92027",33.13078,-117.05891,4
+53,Campus 76 Gas,servicestations,"102 E Carmel St', 'San Marcos, CA 92078",33.13608,-117.1633,4
+54,Shell,servicestations,"2375 E Valley Pkwy', 'Central Escondido, CA 92027",33.1404991,-117.0443268,4
+55,Mobil,servicestations,"11898 Rancho Bernardo Rd', 'San Diego, CA 92128",33.02326,-117.07484,4
+56,Apro 17,servicestations,"27406 Valley Center Rd', 'United Oil', 'Valley Center, CA 92082",33.2083,-117.03414,4
+57,Shell At Rincon,servicestations,"777 Harrahs Rincon', 'Valley Center, CA 92082",33.2188185237581,-117.034600214347,4
+58,Union 76 Gas Station,servicestations,"17011 W Bernardo Dr', 'San Diego, CA 92127",33.0242227,-117.0815735,4
+59,Draves Pipeline,contractors,"Bonsall, CA 92003",33.2903239410277,-117.225860955969,4
+60,Quick Trip,carwash,"596 N Mollison Ave', 'Ste 102', 'El Cajon, CA 92021",32.80249,-116.95146,4
+61,Vallecitos Water District,utilities,"201 Vallecitos De Oro', 'San Marcos, CA 92069",33.1436782752599,-117.179744616533,4
+62,Chevron,servicestations,"27406 Valley Center Rd', 'Valley Center, CA 92082",33.2083,-117.03414,4
+63,Solar Energy Solutions,solarinstallation,"801 A St', 'Ste 803', 'San Diego, CA 92101",32.71862,-117.15715,4
+64,My Goods Market,convenience,"17011 W Bernardo Dr', 'San Diego, CA 92127",33.02417,-117.0817,4
+65,Green Volt Energy,solarinstallation,"1420-D E Saint Andrew Pl', 'Santa Ana, CA 92705",33.722705,-117.851521,4
+66,MDR Utility Locating Specialists,utilities,"16506 Ave 288', 'Exeter, CA 93221",36.313209,-119.204553,4
+0,Barnes & Noble Booksellers,printmedia,"810 W Valley Pkwy', 'Escondido, CA 92025",33.118433,-117.094371,5
+1,T-Mobile,mobilephones,"1274 Auto Pkwy', 'Ste A', 'Escondido, CA 92029",33.1129393301034,-117.098821699619,5
+2,T-Mobile,mobilephones,"1865 S Centre City Pkwy', 'Escondido, CA 92025",33.1006329826658,-117.075223091015,5
+3,Verizon Authorized Retailer - GoWireless,mobilephones,"1270 Auto Pkwy', 'Ste A', 'Escondido, CA 92029",33.1121119,-117.0995661,5
+4,San Diego Broadband,isps,"330 Rancheros Dr', 'Ste112', 'San Marcos, CA 92069",33.139373,-117.156738,5
+5,T-Mobile,mobilephones,"272 E Via Rancho Pkwy', 'Ste 177', 'Escondido, CA 92025",33.0708248532275,-117.065673,5
+6,Cox Store,televisionserviceproviders,"1264-A Auto Park Way', 'Escondido, CA 92029",33.111315,-117.099103,5
+7,T-Mobile,mobilephones,"751 Center Dr', 'San Marcos, CA 92069",33.1358073223286,-117.121926405943,5
+8,Lightwave Wireless,isps,"27525 Valley Center Rd', 'Valley Center, CA 92082",33.2101591,-117.0333027,5
+9,Smart Phone Repair,telecommunications,"31821 Temecula Pkwy', 'Ste C3', 'Temecula, CA 92592",33.4786163,-117.1011098,5
+10,Verizon,mobilephones,"711 Center Dr', 'Suites 101 & 102', 'San Marcos, CA 92069",33.1337039,-117.1240092,5
+11,Western Broadband,isps,"330 Rancheros Dr', 'San Marcos, CA 92069",33.2183701,-117.0341967,5
+12,Telcomtec,telecommunications,"120 N Pacific St', 'Ste J2', 'San Marcos, CA 92069",33.148584,-117.195459,5
+13,T-Mobile,mobilephones,"1201 E Valley Pkwy', 'Ste C', 'Escondidio, CA 92027",33.130273927727,-117.066557407379,5
+14,Affordable Telephone Systems,telecommunications,"333 South Juniper St', 'Ste 110', 'Escondido, CA 92025",33.120433,-117.077279,5
+15,ZTelco,isps,"9105 Chesapeake Dr', 'San Diego, CA 92123",32.83919,-117.1325,5
+16,T-Mobile,cellphoneaccessories,"595 Grand Ave', 'Ste 100', 'San Marcos, CA 92078",33.1363399,-117.17656,5
+17,Telesystems,telecommunications,"5886 Agee St', 'San Diego, CA 92122",32.84872,-117.20195,5
+18,Simply Wired Low Voltage,homenetworkinstall,"Oceanside, CA 92057",33.2247828525685,-117.295642092629,5
+19,Pacheco Communications - Authorized DISH Retailer,televisionserviceproviders,"1315 E Valley Pkwy', 'Vallarta Supermarkets', 'Escondido, CA 92027",33.1304629,-117.0641511,5
+20,Shaun's Telecom,telecommunications,"San Diego, CA 92123",32.8073692321777,-117.134925842285,5
+21,WiLine Networks,isps,"5264-5266 Eastgate Mall', 'San Diego, CA 92121",32.88252,-117.19488,5
+22,Sign Post Studio,printmedia,"1509 E Valley Pkwy', 'Ste B', 'Escondido, CA 92027",33.1319,-117.05975,5
+23,Ur Wire Guy,telecommunications,"32900 Riverside Dr', 'Lake Elsinore, CA 92530",33.66625101978,-117.382956485986,5
+24,Valley Center Wireless,isps,"28904 Valley Center Rd', 'Valley Center, CA 92082",33.23142,-117.03081,5
+25,Cox Communications,televisionserviceproviders,"Escondido, CA 92025",33.0902290344238,-117.016952514648,5
+26,Don Potts Enterprises,isps,"635 N Twin Oaks Valley Rd', 'San Marcos, CA 92069",33.14937,-117.16129,5
+27,Southern California Telephone Company,isps,"27515 Enterprise Cir W', 'Temecula, CA 92590",33.5141413,-117.1645121,5
+28,Skyriver,isps,"7310 Miramar Rd', 'Ste 600', 'San Diego, CA 92126",32.8827332,-117.1560047,5
+29,Columbia Pacific Telesystems,telecommunications,"9672 Via Excelencia', 'Ste 204', 'San Diego, CA 92126",32.8988556,-117.1178407,5
+30,Teldata Enterprise Networks,security,"11487 Woodside Ave', 'Santee, CA 92071",32.85064,-116.9494,5
+31,Catalyst eMarketing,marketing,"1874 Matin Cir', 'Ste 206', 'San Marcos, CA 92069",33.13799,-117.11759,5
+32,Telephone Jacks,telecommunications,"Oceanside, CA 92056",33.192168,-117.3028803,5
+33,Tony the Phone Guy,telecommunications,"8204 Center Dr', 'La Mesa, CA 91941",32.7721855,-117.01937133,5
+34,MetroPCS,mobilephones,"220 W El Norte Pkwy', 'Escondido, CA 92026",33.1393299415214,-117.091952997187,5
+35,Phone Systems Plus,telecommunications,"12528 Kirkham Ct', 'Ste 8', 'Poway, CA 92064",32.9436393,-117.0508834,5
+36,Phoneall,telecommunications,"800 The Mark Ln', 'SAN DIEGO, CA 92101",32.710961,-117.156932,5
+37,Gold Star IT Solutions,itservices,"9615 Gold Coast Dr', 'F8', 'San Diego, CA 92126",32.90464417,-117.1193165,5
+38,Valley Roadrunner,printmedia,"29115 Valley Center Rd', 'Ste L', 'Valley Center, CA 92082",33.23071,-117.02558,5
+39,MetroPCS,mobilephones,"609 N Broadway', 'Ste C', 'Escondido, CA 92025",33.1266676,-117.0856367,5
+40,Wave.Band,telecommunications,"6920 Miramar Rd', 'Ste 306', 'San Diego, CA 92121",32.8793,-117.16631,5
+41,AIS Data Centers,isps,"9305 Lightwave Ave', 'San Diego, CA 92123",32.8280675,-117.1299064,5
+42,Tech Assist,isps,"1835 S Centre City Pkwy', 'Ste 414', 'Escondido, CA 92025",33.1013,-117.07495,5
+43,DISH,televisionserviceproviders,"Carlsbad, CA 92008",33.1466369628906,-117.318412780762,5
+44,Pixel Imaging Media,printmedia,"1261 Liberty Way', 'Vista, CA 92081",33.137677,-117.232082,5
+45,Orion Broadband Cable,televisionserviceproviders,"Rancho Santa Fe, CA 92067",33.01848,-117.20271,5
+46,New Age Screening And Graphics,web_design,"970 Rancheros Dr', 'Ste F', 'San Marcos, CA 92069",33.1380997,-117.1372223,5
+47,c2cvoip,telecommunications,"197 Woodland Pkwy', 'Ste 104 \xa0570', 'San Marcos, CA 92069",33.14109,-117.13898,5
+48,Tahoe Tel Com,telecommunications,"625 Edgewater Dr', 'San Marcos, CA 92078",33.1357536315918,-117.142570495605,5
+49,Cbeyond,isps,"6256 Greenwich Drive', 'Suite 400', 'San Diego, CA 92122",32.85271,-117.18314,5
+50,Socal Satellite,televisionserviceproviders,"246 N Emerald Dr', 'Ste 309', 'Vista, CA 92083",33.1912200573405,-117.28100001812,5
+51,FMT Solutions,televisionserviceproviders,"9630 Black Mountain Rd', 'Ste C', 'San Diego, CA 92126",32.8979994,-117.1242068,5
+52,Protel Communications,telecommunications,"13851 Danielson St', 'Poway, CA 92064",32.938591003418,-117.030746459961,5
+53,BCS - Business Complete Solutions,officeequipment,"13750 Danielson St', 'Poway, CA 92064",32.93988,-117.03297,5
+54,Same Day Jacks & More,securitysystems,"3366 Vance St', 'Riverside, CA 92504",33.92428,-117.42234,5
+55,LC Communications,televisionserviceproviders,"1120 S Rancho Santa Fe Rd', 'San Marcos, CA 92078",33.12595,-117.21486,5
+56,Best Cable & Satellite TV,televisionserviceproviders,"San Diego, CA 92108",32.78289,-117.11059,5
+57,Rightway Gate,isps,"3220 Executive Ridge Dr', 'Carlsbad, CA 92008",33.1357119098204,-117.222019844937,5
+58,Local Computer Pros,itservices,"Encinitas, CA 92023",33.0529,-117.27301,5
+59,Regional Internet,isps,"3525 Del Mar Heights Rd', 'Ste 980', 'San Diego, CA 92130",32.9535413,-117.2304232,5
+60,TeQ I.Q.,isps,"7317 El Cajon Blvd', 'La Mesa, CA 91942",32.7684647,-117.0398671,5
+61,Phone Platform,telecommunications,"Murrieta, CA 92563",33.55413,-117.15706,5
+62,ONE INTERNET AMERICA,isps,"350 S Milliken Ave', 'Ste E', 'Ontario, CA 91761",34.060043,-117.559722,5
+63,iTech2 Network Cabling Technology,telecommunications,"5319 University Dr', 'Ste 184', 'Irvine, CA 92612",33.6584149,-117.8031659,5
+64,Telecomcepts,telecommunications,"3285 Trade Center Dr', 'Riverside, CA 92507",33.98323,-117.3462049,5
+65,Tel-Path Communications,telecommunications,"34350 Blossoms Dr', 'Lake Elsinore, CA 92532",33.6674441220055,-117.237347509262,5
+0,Extreme Limousine,limos,"124 S Market Pl', 'Ste 300', 'Escondido, CA 92029",33.118392,-117.112846,6
+1,A & H Trailer Transport,transport,"Escondido, CA 92026",33.14491,-117.10715,6
+2,Royalty Limousine,limos,"10876 Ivy Hill Dr', 'San Diego, CA 92131",32.9381657,-117.0955352,6
+3,City Captain Transportation,taxis,"3200 Adams Ave', 'Ste 105', 'San Diego, CA 92116",32.7636919,-117.1247661,6
+4,ASAP Transportation,towncarservice,"3336 Camino Marzagan', 'Escondido, CA 92029",33.07255,-117.07309,6
+5,Finest City Transportation,towncarservice,"San Diego, CA 92126",32.92059,-117.13987,6
+6,Stay Classy Airport Black Car Service,airport_shuttles,"8375 Calle Morelos', 'San Diego, CA 92126",32.92309,-117.14317,6
+7,Torrey Pines Town Car,towncarservice,"4653 Carmel Mountain Rd', 'Ste 308-240', 'San Diego, CA 92130",32.9206161499023,-117.213485717773,6
+8,Aall In Limo & Party Bus,limos,"655 W Broadway', 'Ste 1300', 'San Diego, CA 92101",32.715375,-117.168598,6
+9,Silver Fox Limousine,limos,"27475 Ynez Rd', 'Ste 197', 'Temecula, CA 92591",33.5058427,-117.149836,6
+10,Vineyard Limousine and Party Bus,limos,"33175 Linda Rosea Rd', 'Temecula, CA 92592",33.497162,-117.070414,6
+11,Gold Coast Town Car Services,limos,"San Diego, CA 92168",32.7685508728027,-117.148399353027,6
+12,A Vineyard Tour of Temecula with Aall In Limo & Party Bus,limos,"28581 Old Town Front St', 'Temecula, CA 92590",33.4939347,-117.150095,6
+13,Bolt Transportation,limos,"4641 Lisann St', 'San Diego, CA 92117",32.82961,-117.22482,6
+14,All Access Limousine and Temecula Wine Tours,limos,"Temecula, CA 92592",33.5024490356445,-117.132553100586,6
+15,Half Moon Limos Car Service | San Diego LAX,towncarservice,"San Diego, CA 92128",33.0013938,-117.0735241,6
+16,Sterling Rose Transportation,limos,"625 Superior St', 'Ste D', 'Escondido, CA 92029",33.123914,-117.110806,6
+17,Graceland Express Limousine Service,limos,"San Marcos, CA 92069",33.138256,-117.075743,6
+18,Flex Transportation,airport_shuttles,"11835 Carmel Mtn Rd', 'Ste 1304-102', 'San Diego, CA 92128",32.9517989057565,-117.102028763419,6
+19,Temecula Black Car,limos,"40455 Via Cordova', 'Temecula, CA 92592",33.54587,-116.99749,6
+20,Aall In Limo & Party Bus,limos,"28071 Diaz Rd', 'Ste A3', 'Temecula, CA 92590",33.501665,-117.158376,6
+21,Black Onyx Limo,partybusrentals,"1360 N Magnolia Ave', 'El Cajon, CA 92020",32.81516,-116.96328,6
+22,Vineyard Coast Transportation,limos,"Temecula, CA 92592",33.5065231323242,-117.013198852539,6
+23,Lovely Nights Limousine Service,limos,"1455 Frazee Rd', 'Ste 500', 'San Diego, CA 92108",32.7741805,-117.1586352,6
+24,Temecula Air Shuttle,airport_shuttles,"28910 Rancho California Rd', 'Ste 208', 'Temecula, CA 92590",33.500314,-117.152890339494,6
+25,San Diego Van Service,airport_shuttles,"San Diego, CA 92109",32.7952194213867,-117.237655639648,6
+26,Tesloop,towncarservice,"San Diego, CA 92121",32.9028176,-117.1946528,6
+27,California Coast Limo,limos,"San Diego, CA 92104",32.7456146222639,-117.142368990043,6
+28,On Time Shuttle Ride,airport_shuttles,"1621 Hotel Cir S', 'San Diego, CA 92108",32.7578659057617,-117.178497314453,6
+29,Cali Party Bus,limos,"2244 National Ave', 'San Diego, CA 92113",32.69692,-117.13903,6
+30,Men In Black Transportation,airport_shuttles,"5644 Kearny Mesa Rd', 'Ste T', 'San Diego, CA 92111",32.8371799,-117.13906,6
+31,Xperience Transportation,eventplanning,"7364 Mission Gorge Rd', 'San Diego, CA 92120",32.8065706,-117.0803645,6
+32,Uber Greenlight Hub,taxis,"7310 Miramar Rd', 'Ste 103', 'San Diego, CA 92126",32.8828699,-117.15579,6
+33,La Costa Limousine,limos,"2770 Loker Ave W', 'Carlsbad, CA 92010",33.133272,-117.255144,6
+34,SD Luxury Limos,limos,"600 W Broadway', 'Ste 700', 'San Diego, CA 92101",32.7167702,-117.1687164,6
+35,The DD Van Service,limos,"San Diego, CA 92110",32.72801,-117.231209,6
+36,NorthStar Limos,limos,"1190 Encinitas Blvd', 'Encinitas, CA 92024",33.0466194152832,-117.265426635742,6
+37,WESS Transportation,busrental,"560 N Quince St', 'Escondido, CA 92025",33.1240053,-117.0914986,6
+38,Aero Cab,taxis,"1330 Industrial Ave', 'Escondido, CA 92029",33.1199441,-117.1071833,6
+39,San Diego Hotlimos and Party Bus,limos,"140 W Bradley', 'El Cajon, CA 92020",32.8191632,-116.9641215,6
+40,San Diego Regency Transportation,limos,"3298 Governor Dr', 'Ste 22724', 'San Diego, CA 92192",33.0171265688215,-117.06147300625,6
+41,A Plus Limos,limos,"11425 Sorrento Valley Rd', 'San Diego, CA 92121",32.91035,-117.22918,6
+42,A Big Van San Diego Shuttle,airport_shuttles,"San Diego, CA 92103",32.7473487854004,-117.166870117188,6
+43,Infinity And Beyond Rides,towncarservice,"306N West El Norte Pkwy', 'Escondido, CA 92026",33.1406532,-117.0942035,6
+44,Budget Transportation,airport_shuttles,"6525 Beadnell Way', 'San Diego, CA 92117",32.8207839,-117.1720306,6
+45,Wright Trammel Transportation,airport_shuttles,"603 Main St', 'Ste 8', 'Ramona, CA 92065",33.0455332,-116.8624832,6
+46,Selam Transportation,limos,"9265 Dowdy Dr', 'Ste 210', 'San Diego, CA 92126",32.89042,-117.14628,6
+47,SuperShuttle,airport_shuttles,"San Diego, CA 92108",32.7737007141113,-117.144020080566,6
+48,All City Taxi Cab,taxis,"Escondido, CA 92025",33.08872,-117.03643,6
+49,A-1 Escondido Taxi Cab,taxis,"1330 S Escondido Blvd', 'Escondido, CA 92025",33.10919,-117.07579,6
+50,Socal Satellite,televisionserviceproviders,"246 N Emerald Dr', 'Ste 309', 'Vista, CA 92083",33.1912200573405,-117.28100001812,6
+51,FMT Solutions,televisionserviceproviders,"9630 Black Mountain Rd', 'Ste C', 'San Diego, CA 92126",32.8979994,-117.1242068,6
+52,Protel Communications,telecommunications,"13851 Danielson St', 'Poway, CA 92064",32.938591003418,-117.030746459961,6
+53,BCS - Business Complete Solutions,officeequipment,"13750 Danielson St', 'Poway, CA 92064",32.93988,-117.03297,6
+54,Same Day Jacks & More,securitysystems,"3366 Vance St', 'Riverside, CA 92504",33.92428,-117.42234,6
+55,LC Communications,televisionserviceproviders,"1120 S Rancho Santa Fe Rd', 'San Marcos, CA 92078",33.12595,-117.21486,6
+56,Best Cable & Satellite TV,televisionserviceproviders,"San Diego, CA 92108",32.78289,-117.11059,6
+57,Rightway Gate,isps,"3220 Executive Ridge Dr', 'Carlsbad, CA 92008",33.1357119098204,-117.222019844937,6
+58,Local Computer Pros,itservices,"Encinitas, CA 92023",33.0529,-117.27301,6
+59,Regional Internet,isps,"3525 Del Mar Heights Rd', 'Ste 980', 'San Diego, CA 92130",32.9535413,-117.2304232,6
+60,TeQ I.Q.,isps,"7317 El Cajon Blvd', 'La Mesa, CA 91942",32.7684647,-117.0398671,6
+61,Phone Platform,telecommunications,"Murrieta, CA 92563",33.55413,-117.15706,6
+62,ONE INTERNET AMERICA,isps,"350 S Milliken Ave', 'Ste E', 'Ontario, CA 91761",34.060043,-117.559722,6
+63,iTech2 Network Cabling Technology,telecommunications,"5319 University Dr', 'Ste 184', 'Irvine, CA 92612",33.6584149,-117.8031659,6
+64,Telecomcepts,telecommunications,"3285 Trade Center Dr', 'Riverside, CA 92507",33.98323,-117.3462049,6
+65,Tel-Path Communications,telecommunications,"34350 Blossoms Dr', 'Lake Elsinore, CA 92532",33.6674441220055,-117.237347509262,6
+0,Green-Go Recycling,recyclingcenter,"130 S Hale Ave', 'Escondido, CA 92029",33.1155750054913,-117.103411172947,7
+1,"California Metal Services, Inc",recyclingcenter,"1428 W Mission Rd', 'Escondido, CA 92029",33.12642,-117.11097,7
+2,Skyline Recycling,recyclingcenter,"538 N Quince St', 'Escondido, CA 92025",33.1236915588379,-117.090965270996,7
+3,Escondido Disposal,recyclingcenter,"1044 W Washington Ave', 'Escondido, CA 92025",33.123216,-117.098919,7
+4,JDog Junk Removal & Hauling Escondido,recyclingcenter,"500 La Terraza Blvd', 'Ste 150', 'Escondido, CA 92025",33.11262,-117.09586,7
+5,Envirogreen Recycling,recyclingcenter,"8440 Production Avve', 'San Diego, CA 92121",32.8799592,-117.1661338,7
+6,Manos Hauling and Recycling,junkremovalandhauling,"6974 Mission Gorge Rd', 'San Diego, CA 92120",32.8006075,-117.0914743,7
+7,Veterans Green Projects,recyclingcenter,"826 Rancheros', 'San Marcos, CA 92069",33.1394256628547,-117.139843884021,7
+8,Clean Earth Restorations,damagerestoration,"1282 Fayette St', 'El Cajon, CA 92020",32.8130556,-116.9785505,7
+9,Helping Hands Moving and Hauling,movers,"9847 Cedar St', 'Ste 16', 'Bellflower, CA 90706",33.87169,-118.12353,7
+10,The Bioclean Team,hazardouswastedisposal,"San Diego, CA 92101",32.71937,-117.16112,7
+11,Harmony Environmental Services,enviroabatement,"La Mesa, CA 91942",32.7787590026855,-117.030166625977,7
+12,Green Hat Electronics,recyclingcenter,"9373 Activity Rd', 'Ste C', 'San Diego, CA 92126",32.8964721,-117.1251425,7
+13,Alliance Environmental Group,demolitionservices,"8390 Juniper Creek Ln', 'San Diego, CA 92126",32.8976881,-117.1460987,7
+14,San Diego Medical Waste Services,hazardouswastedisposal,"7630 Miramar Rd', 'Ste 2200', 'San Diego, CA 92126",32.8869941282046,-117.152376161377,7
+15,Ingenium Group,recyclingcenter,"2255 Barham Dr', 'Ste A', 'Escondido, CA 92029",33.1318207,-117.1272202,7
+16,Daily Disposal Service,junkremovalandhauling,"12637 Vigilante Rd', 'Lakeside, CA 92040",32.90543,-116.9367864,7
+17,Our Planet Recycling,recyclingcenter,"432 Venture St', 'Escondido, CA 92029",33.12266,-117.11277,7
+18,Harvest Farms Market,grocery,"28960 Lilac Rd', 'Ste E', 'Valley Center, CA 92082",33.23599,-117.05333,7
+19,Efr Environmental Services,demolitionservices,"Alpine, CA 91903",32.84,-116.77,7
+20,Medical Environmental Technologies,hazardouswastedisposal,"1463 Fayette St', 'El Cajon, CA 92020",32.815273,-116.977845,7
+21,San Diego E-Waste,recyclingcenter,"9364 Jamacha Rd', 'Ste F', 'Spring Valley, CA 91977",32.71511,-116.99814,7
+22,Strategic Sanitation Services,junkremovalandhauling,"25801 Obrero Dr', 'Ste 11', 'Mission Viejo, CA 92691",33.619755,-117.6805697,7
+23,E-Cycle Environmental,junkremovalandhauling,"2966 E Victoria St', 'Ste 445', 'Compton, CA 90221",33.86372,-118.20882,7
+24,Phoenix Environmental,recyclingcenter,"1101 California Ave', 'Ste 204', 'Corona, CA 92881",33.862247,-117.544029,7

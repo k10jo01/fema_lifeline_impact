@@ -1,0 +1,136 @@
+,business,category,address,lat,long,lifeline
+0,US Post Office,postoffices,"11251 Rancho Carmel Dr', 'San Diego, CA 92199",32.983006,-117.081886,1
+1,US Post Office,postoffices,"1785 Highway 78', 'Julian, CA 92036",33.0764103990136,-116.598383649165,1
+2,San Diego Sheriff's Department Julian Substation,policedepartments,"2907 Washington St', 'Ste C', 'Julian, CA 92036",33.07697,-116.60344,1
+3,Cal Fire - Warner Springs,firedepartments,"31049 Hwy 79', 'Warner Springs, CA 92086",33.273196017851,-116.644263091964,1
+4,US Post Office,postoffices,"2127 Arnold Way', 'Alpine, CA 91901",32.8351218,-116.7685437,1
+5,US Post Office,postoffices,"13961 Campo Rd', 'Jamul, CA 91935",32.71401,-116.87142,1
+6,US Post Office,postoffices,"12515 Woodside Ave', 'Lakeside, CA 92040",32.8572836168347,-116.920723192274,1
+7,US Post Office,postoffices,"867 N 2Nd St', 'El Cajon, CA 92021",32.8067932128906,-116.935180664062,1
+8,Intermountain Fire and Rescue Department,firedepartments,"25858A Hwy 78', 'Ramona, CA 92065",33.073453,-116.768576,1
+9,US Post Office,postoffices,"1444 Main St', 'Ramona, CA 92065",33.0374413,-116.8754196,1
+10,US Post Office,postoffices,"31650 Highway 79', 'Warner Springs, CA 92086",33.283534,-116.634837,1
+11,US Post Office,postoffices,"2599 Country Club Rd', 'Borrego Springs, CA 92004",33.2542372494936,-116.378760561347,1
+12,Border Patrol Checkpoint,policedepartments,"Kumeyaay Hwy', 'Pine Valley, CA 91962",32.7496458989514,-116.482114677771,1
+13,Ramona Fire Station 82,firedepartments,"3410 Dye Rd', 'Ramona, CA 92065",33.0117580850331,-116.908379761972,1
+14,Palomar Mt Volunteer Fire Dept,firedepartments,"21610 Crestline Rd', 'Palomar Mountain, CA 92060",33.3125,-116.86291,1
+15,United States Postal Service-USPS,postoffices,"2599 Country Club Rd', 'Borrego Springs, CA 92004",33.25546,-116.37957,1
+16,Barona Tribal Office,policedepartments,"1095 Barona Rd', 'Lakeside, CA 92040",32.941838,-116.8552508,1
+17,San Diego County Sheriff's Dept Ramona,policedepartments,"1424 Montecito Rd', 'Ramona, CA 92065",33.0379094,-116.8769164,1
+0,Jack's Grocery,grocery,"2117 Main St', 'Julian, CA 92036",33.07803,-116.60206,2
+1,Ramona Family Naturals,grocery,"325 6th St', 'Ramona, CA 92065",33.044812,-116.862017,2
+2,Julian Market,grocery,"2202 Main', 'Julian, CA 92036",33.0789184570312,-116.602424621582,2
+3,Barons Market,grocery,"1347 Tavern Rd', 'Alpine, CA 91901",32.8248704610198,-116.775419686768,2
+4,Garcia's Puebla Mercado,grocery,"1365 E Main St', 'El Cajon, CA 92021",32.7977599,-116.93247,2
+5,Dons Market,grocery,"30250 Hwy 78', 'Santa Ysabel, CA 92070",33.1089871888172,-116.674825838267,2
+6,Center Market,grocery,"590 Palm Canyon Dr', 'Borrego Springs, CA 92004",33.2574462890625,-116.37996673584,2
+7,Sprouts Farmers Market,farmersmarket,"152 N 2nd St', 'El Cajon, CA 92021",32.7960253554744,-116.936566829681,2
+8,Harvest Ranch Market,grocery,"759 Jamacha Rd', 'El Cajon, CA 92019",32.7862045,-116.9277851,2
+9,Kaelin's Market,grocery,"1435 E Main St', 'El Cajon, CA 92021",32.8007279,-116.9294164,2
+10,Friends of Cats,animalshelters,"15587 Old Hwy 80', 'El Cajon, CA 92021",32.8558311462402,-116.83544921875,2
+11,Albertsons,grocery,"1459 Main St', 'Ramona, CA 92065",33.039424,-116.877126,2
+12,Descanso Trading Post,grocery,"8332 Hwy 79', 'Descanso, CA 91916",32.841091,-116.612797,2
+13,Pepe's Produce,grocery,"907 Main St', 'Ramona, CA 92065",33.043,-116.86753,2
+14,Grocery Outlet Bargain Market,grocery,"350 N 2nd St', 'El Cajon, CA 92021",32.7985765,-116.9364637,2
+15,Foodland Mercado,grocery,"1099 E Main St', 'El Cajon, CA 92021",32.794066,-116.945086,2
+16,Stater Bros. Markets,grocery,"1674 Main St', 'Ramona, CA 92065",33.0349818,-116.8791165,2
+17,Albertsons,grocery,"2955 Alpine Blvd', 'Alpine, CA 91901",32.83309,-116.75024,2
+18,Ralphs Grocery,grocery,"2652 Jamacha Rd', 'El Cajon, CA 92019",32.744936,-116.933374,2
+19,Lulu's International Market,grocery,"678 Jamacha Rd', 'El Cajon, CA 92019",32.7882773623386,-116.929717737183,2
+20,Walmart Supercenter,deptstores,"13487 Camino Canada', 'El Cajon, CA 92021",32.82336,-116.90169,2
+21,Desert Pantry Grocers,grocery,"587 Palm Canyon Dr', 'Ste 105', 'Borrego Springs, CA 92004",33.2563638970766,-116.380307238583,2
+22,Rainbow Market,grocery,"1335 La Cresta Blvd', 'El Cajon, CA 92021",32.811171,-116.864179,2
+23,Al Rafidain,mideastern,"1221 Broadway', 'El Cajon, CA 92021",32.807300567627,-116.939414978027,2
+24,Albertsons,grocery,"1608 Broadway St', 'El Cajon, CA 92021",32.8089117378491,-116.920520025184,2
+25,Garden Farms Market,grocery,"12580 Lakeshore Dr', 'Lakeside, CA 92040",32.86054,-116.92012,2
+26,Canyon Store,grocery,"301 Harbison Canyon Rd', 'El Cajon, CA 92019",32.8233,-116.8279,2
+27,Food Farm Market,partysupplies,"13307 Highway 8 Business', 'El Cajon, CA 92021",32.832862213254,-116.904960349202,2
+28,Crest Foods,grocery,"1103 La Cresta Blvd', 'El Cajon, CA 92021",32.8146,-116.86259,2
+29,Agua Caliente Springs General Store,grocery,"39545 Great Southern Overland Stage Rt', 'Julian, CA 92036",32.955119,-116.302705,2
+30,Legend Animal Rescue,petadoption,"17045 El Sol Rd', 'Ramona, CA 92065",33.0227363279116,-116.921262145042,2
+31,The Fund For Animals Wildlife Center,animalshelters,"18740 Highland Valley Rd', 'Ramona, CA 92065",33.0214195,-116.9244308,2
+32,Albertsons,grocery,"2899 Jamacha Rd', 'El Cajon, CA 92019",32.739611,-116.937938,2
+33,Shelter Pet Partners,animalshelters,"El Cajon, CA 92021",32.84033,-116.87683,2
+34,Greyhound Adoption Center,animalshelters,"4821 Dehesa Rd', 'El Cajon, CA 92019",32.7853,-116.84461,2
+35,Smart & Final Extra!,grocery,"13439 Camino Canada', 'El Cajon, CA 92021",32.82455,-116.90357,2
+36,Mountain Market,grocery,"28914 Old Hwy 80', 'Pine Valley, CA 91962",32.82103,-116.52746,2
+37,Daniel's Market,grocery,"1320 D St', 'Ramona, CA 92065",33.03785,-116.87324,2
+38,Albertsons,grocery,"9560 Winter Gardens Blvd', 'Lakeside, CA 92040",32.8515164,-116.9325754,2
+39,Palomar Mountain General Store,grocery,"33120 Canfield Rd', 'Palomar Mountain, CA 92060",33.3139610167495,-116.865262985229,2
+40,White Oak Wild Nights,animalshelters,"24402 Martin Way', 'Alpine, CA 91901",32.813961,-116.6227264,2
+41,Walmart Neighborhood Market,drugstores,"300 North Second St', 'El Cajon, CA 92021",32.797369,-116.9366793,2
+42,Perkins Market,grocery,"24680 Viejas Grade Rd', 'Descanso, CA 91916",32.85346667,-116.61578167,2
+43,Adopt a Friend Forever Rescue,animalshelters,"El Cajon, CA 92021",32.818774,-116.901323,2
+44,Jamul Liquor,grocery,"13881 Campo Rd', 'Ste C-9', 'Jamul, CA 91935",32.71734,-116.87765,2
+45,Lyons Valley Trading Post,grocery,"17608 Lyons Valley Rd', 'Jamul, CA 91935",32.7160486578941,-116.768232733011,2
+46,Raintree Market,grocery,"9300 Highway 79', 'Descanso, CA 91916",32.8542327135801,-116.595468297601,2
+47,Skyhunters-Bird Of Pray Rehab & Education Programs,animalshelters,"19550 Hidden Glen Rd', 'Alpine, CA 91901",32.77538,-116.72816,2
+48,Holly's Garden Rescue,petservices,"9912 Blossom Valley Rd', 'El Cajon, CA 92021",32.8624687194824,-116.857078552246,2
+49,Koalition of Rescuers & Animal Lovers,animalshelters,"El Cajon, CA 92019",32.7796974182129,-116.871841430664,2
+50,The Water Stop,waterstores,"9534 Winter Gardens Blvd', 'Ste D', 'Lakeside, CA 92040",32.850980743371,-116.932394653559,2
+51,Winter Gardens Market,grocery,"8057 Winter Gardens Blvd', 'El Cajon, CA 92021",32.8238367721042,-116.933231728434,2
+52,San Diego Food & Home Supplies,grocery,"1154 E Main St', 'El Cajon, CA 92021",32.7949793636799,-116.942769438028,2
+53,Lakeside Discount Market,grocery,"8909 Winter Gardens Blvd', 'Lakeside, CA 92040",32.8385679553067,-116.93301089108,2
+54,Country Creek Market,grocery,"15141 Olde Highway 80', 'El Cajon, CA 92021",32.8537940979004,-116.848892211914,2
+55,Circle K,grocery,"1666 Alpine Blvd', 'Alpine, CA 91901",32.83808,-116.77874,2
+56,Heart of Gold's Shelter,petadoption,"9400 Blossom Valley Rd', 'El Cajon, CA 92021",32.85096,-116.87172,2
+57,Purified Water Store,waterstores,"1772 E Main St', 'El Cajon, CA 92021",32.814643,-116.91805,2
+58,The Branding Iron,beer_and_wine,"13881 Campo Rd', 'Jamul, CA 91935",32.717678,-116.877899,2
+59,"Rancho Hillside Playground For Unattended, Bratty Children",childcare,"11386 Calle Albara', 'El Cajon, CA 92019",32.7517756408552,-116.929674874117,2
+60,Philippines On Broadway,grocery,"1174 Broadway', 'Ste 101', 'El Cajon, CA 92021",32.80791,-116.94117,2
+0,PlushCare Urgent Care,urgent_care,"San Diego, CA 92109",32.79522,-117.23766,3
+1,Borrego Health - Julian Medical Clinic,familydr,"2712 Washington St', 'Julian, CA 92036",33.078051,-116.60268,3
+2,Elder Answers,assistedliving,"3268 Governor Dr', 'Ste 213', 'San Diego, CA 92122",32.852375,-117.2151793,3
+3,Inspirations Home Care,medicaltransportation,"1540 Heartland Way', 'Corona, CA 92881",33.835564,-117.541039,3
+4,Heaven Heights Senior Care,homehealthcare,"77530 Enfield Ln', 'Ste I202', 'Palm Desert, CA 92211",33.7615652,-116.3118072,3
+0,Ramco Petroleum,servicestations,"1913 Main St', 'Julian, CA 92036",33.0767068,-116.600243,4
+1,Ramco Petroleum,servicestations,"30351 Highway 78', 'Santa Ysabel, CA 92070",33.109252,-116.672411,4
+2,Bonita Point Auto Care 76,servicestations,"1495 E H St', 'Chula Vista, CA 91910",32.644868,-116.9997515,4
+3,Majestic Pines Water District,utilities,"1405 Banner Rd', 'Julian, CA 92036",33.0804327875376,-116.589169129729,4
+4,Alta Ram Construction,excavationservices,"21220 Old Oak Rd', 'Alpine, CA 91901",32.7480981,-116.6927093,4
+5,Pro Flame Of Santa Ysabel,servicestations,"29890 Columbia', 'Julian, CA 92036",33.108556,-116.670326,4
+6,Solar Energy Solutions,solarinstallation,"801 A St', 'Ste 803', 'San Diego, CA 92101",32.71862,-117.15715,4
+7,MDR Utility Locating Specialists,utilities,"16506 Ave 288', 'Exeter, CA 93221",36.313209,-119.204553,4
+0,USA Communications,isps,"Julian, CA 92036",33.07826,-116.60197,5
+1,Ur Wire Guy,telecommunications,"32900 Riverside Dr', 'Lake Elsinore, CA 92530",33.66625101978,-117.382956485986,5
+2,Telephone Jacks,telecommunications,"Oceanside, CA 92056",33.192168,-117.3028803,5
+3,Pacheco Communications - Authorized DISH Retailer,televisionserviceproviders,"1315 E Valley Pkwy', 'Vallarta Supermarkets', 'Escondido, CA 92027",33.1304629,-117.0641511,5
+4,BCS - Business Complete Solutions,officeequipment,"13750 Danielson St', 'Poway, CA 92064",32.93988,-117.03297,5
+5,Cbeyond,isps,"6256 Greenwich Drive', 'Suite 400', 'San Diego, CA 92122",32.85271,-117.18314,5
+6,Socal Satellite,televisionserviceproviders,"246 N Emerald Dr', 'Ste 309', 'Vista, CA 92083",33.1912200573405,-117.28100001812,5
+7,Best Cable & Satellite TV,televisionserviceproviders,"San Diego, CA 92108",32.78289,-117.11059,5
+8,Same Day Jacks & More,securitysystems,"3366 Vance St', 'Riverside, CA 92504",33.92428,-117.42234,5
+9,LC Communications,televisionserviceproviders,"1120 S Rancho Santa Fe Rd', 'San Marcos, CA 92078",33.12595,-117.21486,5
+10,ONE INTERNET AMERICA,isps,"350 S Milliken Ave', 'Ste E', 'Ontario, CA 91761",34.060043,-117.559722,5
+11,Telecomcepts,telecommunications,"3285 Trade Center Dr', 'Riverside, CA 92507",33.98323,-117.3462049,5
+12,iTech2 Network Cabling Technology,telecommunications,"5319 University Dr', 'Ste 184', 'Irvine, CA 92612",33.6584149,-117.8031659,5
+0,Wright Trammel Transportation,airport_shuttles,"603 Main St', 'Ste 8', 'Ramona, CA 92065",33.0455332,-116.8624832,6
+1,Black Onyx Limo,partybusrentals,"1360 N Magnolia Ave', 'El Cajon, CA 92020",32.81516,-116.96328,6
+2,Temecula Black Car,limos,"40455 Via Cordova', 'Temecula, CA 92592",33.54587,-116.99749,6
+3,All Access Limousine and Temecula Wine Tours,limos,"Temecula, CA 92592",33.5024490356445,-117.132553100586,6
+4,Taxi Rob,taxis,"San Diego, CA 92116",32.7616195678711,-117.125991821289,6
+5,America's Finest Shuttles,airport_shuttles,"Poway, CA 92064",32.9305550435835,-117.024878271875,6
+6,The DD Van Service,limos,"San Diego, CA 92110",32.72801,-117.231209,6
+7,La Costa Limousine,limos,"2770 Loker Ave W', 'Carlsbad, CA 92010",33.133272,-117.255144,6
+8,American Corporate Sedan and Limousine,limos,"1220 Rosecrans St', 'Ste 452', 'San Diego, CA 92106",32.7230796,-117.2309139,6
+9,San Diego Airport Transportation,airport_shuttles,"14414 Poway Rd', 'Poway, CA 92064",32.9619,-117.02409,6
+10,San Diego Executive Transportation,limos,"San Diego, CA 92101",32.71763,-117.16213,6
+11,Soledad Transportation,limos,"13594 Cantare Trl', 'San Diego, CA 92130",32.9688635,-117.1744375,6
+12,Dewitt Companies Ltd,movers,"9089 Clairemont Mesa Blvd', 'Ste 301', 'San Diego, CA 92123",32.8310439,-117.1333623,6
+13,MRA LIMO,limos,"12639 El Camino Real', 'San Diego, CA 92130",32.9474525,-117.2370682,6
+14,Limelite Limousine,limos,"Wildomar, CA 92595",33.6183166503906,-117.260330200195,6
+15,Happy Shuttle,airport_shuttles,"7220 Rosemead Blvd', 'Ste 202-1', 'San Gabriel, CA 91775",34.1284262,-118.0727378,6
+16,Green Transportation,limos,"5353 Aztec Dr', 'La Mesa, CA 91942",32.777365,-117.0281025,6
+17,KTS Shuttle,airport_shuttles,"1237 Arcadia Ave', 'Vista, CA 92084",33.224609,-117.222786,6
+18,A2Z Transportation,limos,"La Jolla, CA 92109",32.82433,-117.24801,6
+19,U Ride,airport_shuttles,"El Monte, CA 91731",34.0779113769531,-118.050239562988,6
+20,American Limousine,limos,"5250 W Century Blvd', 'Los Angeles, CA 90045",33.945008,-118.371848,6
+21,Yellow Cab,taxis,"147 S Juanita St', 'Hemet, CA 92543",33.7461,-116.96868,6
+22,Five Emerald Limousine,limos,"San Diego, CA 92101",32.71763,-117.16213,6
+23,Five Emerald Limousine,limos,"Los Angeles, CA 90066",34.0016632080078,-118.43196105957,6
+24,Tranzit - Ride N Fly,airport_shuttles,"2372 Morse Ave', 'Ste 347', 'Irvine, CA 92614",33.6816406,-117.8489609,6
+0,Efr Environmental Services,demolitionservices,"Alpine, CA 91903",32.84,-116.77,7
+1,Daily Disposal Service,junkremovalandhauling,"12637 Vigilante Rd', 'Lakeside, CA 92040",32.90543,-116.9367864,7
+2,Harmony Environmental Services,enviroabatement,"La Mesa, CA 91942",32.7787590026855,-117.030166625977,7
+3,Alliance Environmental Group,demolitionservices,"8390 Juniper Creek Ln', 'San Diego, CA 92126",32.8976881,-117.1460987,7
+4,San Diego E-Waste,recyclingcenter,"9364 Jamacha Rd', 'Ste F', 'Spring Valley, CA 91977",32.71511,-116.99814,7

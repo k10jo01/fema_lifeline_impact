@@ -1,0 +1,249 @@
+,business,category,address,lat,long,lifeline
+0,Costco,servicestations,"4605 Morena Blvd', 'San Diego, CA 92117",32.8222499,-117.22527,4
+1,Hazard Center Auto Mart,servicestations,"7698 Friars Rd', 'San Diego, CA 92108",32.77273,-117.158,4
+2,Costco Gas,servicestations,"2345 Fenton Pkwy', 'San Diego, CA 92108",32.7803328,-117.1301116,4
+3,PB European & Imports,autorepair,"1885 Garnet Ave', 'San Diego, CA 92109",32.80065,-117.23561,4
+4,Hillcrest 76,servicestations,"3795 6th Ave', 'San Diego, CA 92103",32.7467155456543,-117.159202575684,4
+5,Loma Riviera 76,tires,"4049 W Point Loma Blvd', 'San Diego, CA 92110",32.7536690360331,-117.223028919121,4
+6,Clairemont Auto Care,servicestations,"4495 Clairemont Mesa Blvd', 'San Diego, CA 92117",32.834181,-117.195179,4
+7,Vons Gas Station,servicestations,"1702 Garnet', 'c/s Jewell St', 'San Diego, CA 92109",32.8005146053745,-117.239492317352,4
+8,Happy Car Wash,carwash,"3690 Murphy Canyon Rd', 'Ste 102', 'San Diego, CA 92123",32.8085,-117.11641,4
+9,San Diego Car Care - 52 & Convoy,servicestations,"7740 Copley Park Pl', 'San Diego, CA 92111",32.836282,-117.152829,4
+10,Costco Gas Station,servicestations,"650 Gateway Center Dr', 'San Diego, CA 92102",32.7126,-117.11606,4
+11,Telesystems,telecommunications,"5886 Agee St', 'San Diego, CA 92122",32.84872,-117.20195,4
+12,7-Eleven,convenience,"7801 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.8322517247972,-117.152725494061,4
+13,San Diego Car Care - Costa Verde,carwash,"8505 Costa Verde Blvd', 'San Diego, CA 92122",32.8668945741199,-117.21606961741,4
+14,Americana Car Wash & Detail Center,carwash,"9510 Scranton Rd', 'San Diego, CA 92121",32.893868,-117.202566,4
+15,7-Eleven,convenience,"3792 4th Ave', 'San Diego, CA 92103",32.7466410102317,-117.161867693066,4
+16,Dana Landing,boating,"2580 Ingraham St', 'San Diego, CA 92109",32.7668082742219,-117.234480216444,4
+17,Mission Valley Shell,servicestations,"5465 Mission Center Rd', 'San Diego, CA 92108",32.77385,-117.15353,4
+18,NEX,servicestations,"2912 Nimitz Blvd', 'Bldg 472', 'San Diego, CA 92106",32.7282183809261,-117.224237771538,4
+19,Good Point Gasoline,servicestations,"1076 Rosecrans St', 'San Diego, CA 92106",32.72141,-117.2322,4
+20,7-Eleven,convenience,"4080 Convoy St', 'San Diego, CA 92111",32.8167497,-117.1550964,4
+21,United Oil,servicestations,"3860 Governor Dr', 'San Diego, CA 92101",32.8549875150668,-117.205140735231,4
+22,Chevron,carwash,"8110 Balboa Ave', 'San Diego, CA 92111",32.8223399,-117.14835,4
+23,Washington Mobil,servicestations,"1809 W Washington St', 'San Diego, CA 92103",32.74278,-117.18124,4
+24,7-Eleven,convenience,"1602 University Ave', 'San Diego, CA 92103",32.7487265359521,-117.149294088604,4
+25,Hillcrest Shell,servicestations,"330 Washington St', 'San Diego, CA 92103",32.7502,-117.16194,4
+26,Park Chevron,servicestations,"4180 Park Blvd', 'San Diego, CA 92103",32.7542379466524,-117.146623698772,4
+27,Barry's Chevron,servicestations,"7070 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.83305,-117.16423,4
+28,Navy Exchange Murphy Canyon,servicestations,"3401 Santo Rd', 'San Diego, CA 92124",32.8079802,-117.1049451,4
+29,Chevron,servicestations,"2290 Camino Del Rio N', 'San Diego, CA 92108",32.7715372098022,-117.140763555191,4
+30,Chevron,servicestations,"6301 Del Cerro Blvd', 'San Diego, CA 92120",32.7831764221191,-117.061630249023,4
+31,Valero Gas Station,convenience,"4342 Ingraham St', 'San Diego, CA 92109",32.7974472045898,-117.240585327148,4
+32,MCX Gas Station,servicestations,"2662 Mathews Ave', 'San Diego, CA 92126",32.8903532272495,-117.123676616992,4
+33,Harbor Island West Marina,boating,"2040 Harbor Island Dr', 'San Diego, CA 92101",32.7251821415417,-117.210619998431,4
+34,Pacific Beach Gas,servicestations,"4404 Ingraham St', 'San Diego, CA 92109",32.7981300354004,-117.240707397461,4
+35,Shell Gas Station,servicestations,"3901 Governor Dr', 'San Diego, CA 92122",32.85428,-117.20405,4
+36,Valero Gas Station & Car Wash,servicestations,"5345 Kearny Villa Rd', 'San Diego, CA 92123",32.8303,-117.14051,4
+37,7-Eleven,convenience,"1826 Rosecrans St', 'San Diego, CA 92106",32.7303857,-117.2246648,4
+38,San Diego Gasoline,servicestations,"5194 Waring Rd', 'San Diego, CA 92120",32.79253,-117.08145,4
+39,Tierrasanta Town Center Gas,servicestations,"10585 Tierrasanta Blvd', 'San Diego, CA 92124",32.8228099,-117.10151,4
+40,Apro 26,servicestations,"3010 Market St', 'San Diego, CA 92102",32.71199,-117.12984,4
+41,Valero Gas Station,servicestations,"1083 Morena Blvd', 'San Diego, CA 92110",32.76825,-117.19935,4
+42,Chevron,servicestations,"7740 Copley Park Pi', 'San Diego, CA 92111",32.836589,-117.152901,4
+43,7-Eleven,convenience,"2101 Fern St', 'San Diego, CA 92104",32.7277993,-117.1292773,4
+44,Chevron Gas Station,servicestations,"8505 Costa Verde Blvd', 'San Diego, CA 92122",32.866712,-117.2162287,4
+45,7-Eleven,convenience,"5102 Waring Rd', 'San Diego, CA 92120",32.7912746260111,-117.082640603185,4
+46,Nex Autoport,autorepair,"1698 S 32nd St', 'San Diego, CA 92113",32.687855,-117.1255,4
+47,7-Eleven,convenience,"6571 El Cajon Blvd', 'San Diego, CA 92115",32.766823,-117.056759,4
+48,USA Gasoline,servicestations,"3255 University Ave', 'San Diego, CA 92104",32.74821,-117.12348,4
+49,United Oil 76,servicestations,"2305 Sunset Cliffs Blvd', 'San Diego, CA 92107",32.7511,-117.24178,4
+50,Pearson Fuels,servicestations,"4067 El Cajon Blvd', 'San Diego, CA 92105",32.755059376359,-117.107462435961,4
+51,7-Eleven,servicestations,"7807 Balboa Ave', 'San Diego, CA 92111",32.8212944280052,-117.154560685158,4
+52,Bob Stivers Shell,servicestations,"2290 Moore St', 'San Diego, CA 92110",32.748132,-117.192906,4
+53,Arco AM/PM,servicestations,"3580 Sports Arena Blvd', 'San Diego, CA 92110",32.754417453732,-117.212934837639,4
+54,7-Eleven,convenience,"6615 Linda Vista Rd', 'San Diego, CA 92111",32.7737573,-117.1750767,4
+55,Chevron Stations,servicestations,"8210 Camino Santa Fe', 'San Diego, CA 92121",32.87831,-117.1731,4
+56,ampm,servicestations,"2340 El Cajon Blvd', 'San Diego, CA 92104",32.755705,-117.139175,4
+57,MCX Auto Service Center,servicestations,"Noveleta St', 'San Diego, CA 92110",32.74061,-117.19254,4
+58,Mobil Mart,servicestations,"10496 Clairemont Mesa Blvd', 'San Diego, CA 92124",32.8297757403623,-117.103700477286,4
+59,United Oil,servicestations,"3927 El Cajon Blvd', 'San Diego, CA 92105",32.7548206277326,-117.109815739095,4
+60,7-Eleven,servicestations,"3385 Sand Rock Rd', 'San Diego, CA 92123",32.8046949,-117.1397907,4
+61,WestAir Gases & Equipment - San Diego,buildingsupplies,"2506 Market St', 'San Diego, CA 92102",32.71194,-117.13985,4
+62,Mobil Gas Station,servicestations,"2045 Pacific Hwy', 'San Diego, CA 92101",32.72518,-117.17144,4
+63,Circle K,servicestations,"4360 Genesee Ave', 'San Diego, CA 92117",32.82268,-117.18427,4
+64,California Super Gas,carwash,"1885 Garnet Ave', 'San Diego, CA 92109",32.8006553649902,-117.235610961914,4
+65,Ocean Beach Shell,servicestations,"4794 Voltaire St', 'San Diego, CA 92107",32.74997,-117.24277,4
+66,MCX Miramar Gas Station,servicestations,"Miramar Ct', 'San Diego, CA 92126",32.883801884603,-117.118869870901,4
+67,Shell Gas Station,servicestations,"1031-1099 A St', 'San Diego, CA 92101",32.718538,-117.155004528901,4
+68,Chevron,servicestations,"3690 Murphy Canyon Rd', 'San Diego, CA 92123",32.808613,-117.116504,4
+69,United Oil,servicestations,"3766 Clairemont Mesa Blvd', 'San Diego, CA 92117",32.8280220031738,-117.206504821777,4
+70,Mega Fuel,servicestations,"7153 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.83223,-117.16307,4
+71,76,servicestations,"3860 Kearny Mesa Rd', 'San Diego, CA 92111",32.813933,-117.15251,4
+72,Pearson Marine Fuels Inc,fueldocks,"2435 Shelter Island Dr', 'San Diego, CA 92106",32.719162,-117.2258828,4
+73,7-Eleven,convenience,"1670 Kettner Blvd', 'San Diego, CA 92101",32.7221375173547,-117.169376760748,4
+74,Chevron Stations,servicestations,"3602 El Cajon Blvd', 'San Diego, CA 92104",32.7556,-117.11548,4
+75,Chevron Stations,servicestations,"3359 University Ave', 'San Diego, CA 92104",32.7486000061035,-117.121528625488,4
+76,We Green Inc,hvac,"3645 Ruffin Rd', 'Ste 330', 'San Diego, CA 92123",32.81007,-117.11901,4
+77,Mission Bay 76,servicestations,"2804 Garnet Ave', 'San Diego, CA 92109",32.8064231872559,-117.218658447266,4
+78,ampm,servicestations,"1875 Grand Ave', 'San Diego, CA 92109",32.798634,-117.234947,4
+79,28th St NEX Fuel,servicestations,"Colton Ave', 'San Diego, CA 92113",32.691831730312,-117.132608444258,4
+80,Chevron,servicestations,"7737 Balboa Ave', 'San Diego, CA 92111",32.82136,-117.15646,4
+81,Mobil Gas Station and Car Wash,servicestations,"3233 La Jolla Village Dr', 'San Diego, CA 92037",32.8712971291952,-117.233378,4
+82,7-Eleven,convenience,"9609 Aero Dr', 'San Diego, CA 92123",32.8076428876213,-117.121869842531,4
+83,Shell,servicestations,"4201 West Pt Loma Blvd', 'San Diego, CA 92110",32.75242,-117.22681,4
+84,Valero Gas,servicestations,"4616 Texas St', 'San Diego, CA 92116",32.761299,-117.139116,4
+85,Shell,carwash,"7785 Clairmont Mesa', 'San Diego, CA 92111",32.83237,-117.15372,4
+86,Miramar West Shell,servicestations,"8920 Miramar Rd', 'San Diego, CA 92126",32.894078,-117.133051,4
+87,ampm,servicestations,"2940 Lytton St', 'San Diego, CA 92110",32.744165,-117.211791,4
+88,7-Eleven,convenience,"6401 Mission Gorge Rd', 'San Diego, CA 92120",32.790006711542,-117.097170377069,4
+89,Shell - San Diego,servicestations,"3711 Camino Del Rio W', 'San Diego, CA 92110",32.75421,-117.20444,4
+90,ampm,servicestations,"1817 Euclid Ave', 'San Diego, CA 92105",32.724651,-117.084541,4
+91,Shell,servicestations,"3425 Midway Dr', 'San Diego, CA 92110",32.7502799,-117.21278,4
+92,Bob Stivers Shell,servicestations,"1011 A St', 'San Diego, CA 92101",32.718937,-117.155333,4
+93,Valero,servicestations,"3377 Sandrock Rd', 'San Diego, CA 92123",32.8040422197674,-117.13960099943,4
+94,Chevron,servicestations,"3774 Main St', 'San Diego, CA 92113",32.6838359931218,-117.112621041557,4
+95,SDG&E,utilities,"336 Euclid Ave', 'Ste 502', 'San Diego, CA 92114",32.708074,-117.085099,4
+96,7-Eleven,convenience,"3603 College Ave', 'San Diego, CA 92115",32.7461673,-117.0587632,4
+97,ARCO Station,servicestations,"3860 Old Town Ave', 'San Diego, CA 92110",32.74855,-117.19329,4
+98,Shell,servicestations,"3535 India St', 'San Diego, CA 92103",32.7396965026855,-117.177757263184,4
+99,Petromerica,servicestations,"1548 F St', 'San Diego, CA 92101",32.713939666748,-117.14990234375,4
+100,Solar Energy Solutions,solarinstallation,"801 A St', 'Ste 803', 'San Diego, CA 92101",32.71862,-117.15715,4
+101,ampm,servicestations,"6616 Miramar Rd', 'San Diego, CA 92121",32.878051,-117.171958,4
+102,Golden State Gasoline,servicestations,"2404 El Cajon Blvd', 'San Diego, CA 92104",32.755687713623,-117.138534545898,4
+103,Arco,servicestations,"3296 El Cajon Blvd', 'San Diego, CA 92104",32.7555409894819,-117.122574178767,4
+104,Clairemont Shell,servicestations,"2606 Clairemont Dr', 'San Diego, CA 92117",32.79079,-117.2029,4
+105,United Oil,servicestations,"3010 Market St', 'San Diego, CA 92102",32.71199,-117.12984,4
+106,EAS Mercedes Benz Auto Repair Service,autorepair,"San Diego, CA 92154",32.7153292,-117.1572551,4
+107,Bob Stivers Shell,servicestations,"2521 Pacific Hwy', 'San Diego, CA 92101",32.729859,-117.173604,4
+108,ARCO,servicestations,"6098 University Ave', 'San Diego, CA 92115",32.75307,-117.06499,4
+109,Point Loma Gas and Market,servicestations,"4792 Point Loma Ave', 'San Diego, CA 92107",32.7364616394043,-117.254493713379,4
+110,Shell Foodmart & Carwash,servicestations,"6125 Balboa Ave', 'San Diego, CA 92111",32.81986,-117.17576,4
+111,Food 4 Less Fuel Center,servicestations,"5951 University Ave', 'San Diego, CA 92115",32.7504569301214,-117.069567495336,4
+112,Arco,servicestations,"5109 Imperial Ave', 'San Diego, CA 92114",32.7040248139693,-117.084587216377,4
+113,New Leaf Biofuel,servicestations,"2285 Newton Ave', 'San Diego, CA 92113",32.6953,-117.13983,4
+114,Ultra Gas,servicestations,"3276 El Cajon Blvd', 'San Diego, CA 92104",32.7555382305703,-117.123525794072,4
+115,Mobil Gas Stations,servicestations,"3861 Governor Dr', 'San Diego, CA 92122",32.8541984558105,-117.205009460449,4
+116,Valero Gas Station,servicestations,"5970 Santo Rd', 'San Diego, CA 92124",32.8396224975586,-117.098052978516,4
+117,Balboa Arco Station,servicestations,"7731 Balboa Ave', 'San Diego, CA 92111",32.8216351568699,-117.157138958573,4
+118,7-Eleven,convenience,"2803-05 Garnet Ave', 'San Diego, CA 92109",32.8058357,-117.2184494,4
+119,Chevron City Heights,servicestations,"4055 University Ave', 'San Diego, CA 92105",32.749231,-117.107797,4
+120,Chevron,servicestations,"9650 Miramar Rd', 'San Diego, CA 92126",32.8940720969562,-117.121094018913,4
+121,Chevron Stations,servicestations,"2959 Midway Dr', 'San Diego, CA 92110",32.749229,-117.205978,4
+122,Fast Fuel,servicestations,"4505 Clairemont Mesa Blvd', 'San Diego, CA 92117",32.8342503673694,-117.194353838707,4
+123,United Oil 76,servicestations,"3252 University Ave', 'San Diego, CA 92104",32.74874,-117.12366,4
+124,Nex Autoport - Sub Base,servicestations,"Kerrick Rd', 'San Diego, CA 92106",32.6839604489495,-117.237253872909,4
+125,Chevron Stations,servicestations,"1575 Garnet Ave', 'San Diego, CA 92109",32.7994537353516,-117.241073608398,4
+126,Arco Am Pm,servicestations,"6130 Balboa Ave', 'San Diego, CA 92117",32.8206737,-117.175669,4
+127,Shell Gas Station,servicestations,"3150 Adams Ave', 'San Diego, CA 92116",32.76358,-117.12625,4
+128,Shell Etd Foodmart,servicestations,"3890 Division St', 'San Diego, CA 92113",32.6828774616087,-117.110072256266,4
+129,United Oil,servicestations,"3918 Governor Dr', 'San Diego, CA 92122",32.85498,-117.20422,4
+130,USA Gasoline,servicestations,"6404 Mission Gorge Rd', 'San Diego, CA 92120",32.7899646716517,-117.09797125388,4
+131,76,servicestations,"1606 Market St', 'San Diego, CA 92101",32.7117472821253,-117.149133219421,4
+132,Apro 50,servicestations,"3927 El Cajon Blvd', 'San Diego, CA 92105",32.7548,-117.10991,4
+133,Arco,servicestations,"4498 Clairemont Mesa Blvd', 'San Diego, CA 92117",32.8348,-117.19523,4
+134,Chevron,servicestations,"7448 Jackson Dr', 'San Diego, CA 92119",32.803399,-117.04611,4
+135,Mobil,servicestations,"4282 Camino Del Rio N', 'San Diego, CA 92108",32.780262,-117.102379,4
+136,Chevron,servicestations,"6949 Linda Vista Rd', 'San Diego, CA 92111",32.7860489,-117.1700287,4
+137,Unocal 76,servicestations,"5726 Miramar Rd', 'San Diego, CA 92121",32.87748,-117.18593,4
+138,7-Eleven,convenience,"1702 Gateway Dr', 'San Diego, CA 92105",32.7232780456543,-117.108047485352,4
+139,Exxon,servicestations,"2305 Sunset Cliffs Blvd', 'San Diego, CA 92107",32.751136,-117.241715,4
+140,USA Gasoline,servicestations,"1551 Rosecrans St', 'San Diego, CA 92106",32.726796,-117.22692,4
+141,Sky Fuel,servicestations,"6011 Mission Gorge', 'San Diego, CA 92120",32.7833442687988,-117.097923278809,4
+142,Sports Arena Car Wash & Detailing,servicestations,"3580 Sports Arena Blvd', 'San Diego, CA 92110",32.7541796,-117.21331,4
+143,Arco,servicestations,"3770 Murphy Canyon Rd', 'San Diego, CA 92123",32.8103623004467,-117.117181759598,4
+144,Thrifty Gasoline,servicestations,"4202 Clairemont Mesa Blvd', 'San Diego, CA 92117",32.831428527832,-117.202056884766,4
+145,Laurel Pacific Gas,convenience,"2499 Pacific Hwy', 'San Diego, CA 92101",32.72943,-117.17336,4
+146,Shell Food Mart,servicestations,"2484 F St', 'San Diego, CA 92102",32.714092,-117.140417,4
+147,ARCO,servicestations,"8820 Clairemont Mesa Blvd', 'San Diego, CA 92123",32.83185,-117.13786,4
+148,Linda Vista Gas & Auto Repair,autorepair,"7611 Linda Vista Rd', 'San Diego, CA 92111",32.8011512756348,-117.157531738281,4
+149,Chevron,servicestations,"1666 1st Ave', 'San Diego, CA 92101",32.7227691946199,-117.164107264824,4
+150,Exxon Mobil,servicestations,"9790 Miramar Rd', 'San Diego, CA 92126",32.894131308373,-117.118753508306,4
+151,Valero Corner Store 3738,servicestations,"6953 Navajo Rd & Jackson Dr', 'San Diego, CA 92119",32.8039398,-117.0460815,4
+152,Morena Service Station Arco,servicestations,"2505 Morena Blvd', 'San Diego, CA 92110",32.78861,-117.20558,4
+153,Chevron,servicestations,"3502 National Ave', 'San Diego, CA 92113",32.6962338534018,-117.118592262268,4
+154,Homeland Petroleum,servicestations,"4704 Imperial Ave', 'San Diego, CA 92102",32.70444,-117.09324,4
+155,Morena Blvd Shell Gas,servicestations,"1330 Morena Blvd', 'San Diego, CA 92110",32.7720795,-117.2027283,4
+156,ampm,servicestations,"4333 Home Ave', 'San Diego, CA 92105",32.726664,-117.101755,4
+157,Chevron,servicestations,"1832 W Washington St', 'San Diego, CA 92103",32.7431411743164,-117.18196105957,4
+158,United Oil 76,servicestations,"6839 Imperial Ave', 'San Diego, CA 92114",32.711311340332,-117.050079345703,4
+159,Chevron,servicestations,"5790 Balboa Ave', 'San Diego, CA 92111",32.8205294615304,-117.178631834686,4
+160,76 Gas Station,servicestations,"4415 El Cajon Blvd', 'San Diego, CA 92115",32.754795,-117.099457,4
+161,SDG&E Refueling Station,servicestations,"5488 Overland Ave', 'San Diego, CA 92123",32.8335501998663,-117.130991443992,4
+162,Arco Gas Station,servicestations,"4330 Orange Ave', 'San Diego, CA 92105",32.7534,-117.10114,4
+163,SeaPower Incorporated,professional,"4918 N Harbor Dr', 'Ste 103', 'San Diego, CA 92106",32.7250481,-117.2236553,4
+164,Rosecrans 76,servicestations,"1076 Rosecrans St', 'San Diego, CA 92106",32.7214164733887,-117.232200622559,4
+165,ARCO,servicestations,"9393 Kearny Mesa Rd', 'San Diego, CA 92126",32.89322,-117.11802,4
+166,Chevron,servicestations,"5103 Waring Rd', 'San Diego, CA 92120",32.79069,-117.08219,4
+167,C& R Gas & Food Mart,servicestations,"5405 Clairemont Mesa Blvd', 'San Diego, CA 92117",32.8339927542976,-117.175320982933,4
+168,Circle K,convenience,"3154 El Cajon Blvd', 'San Diego, CA 92104",32.75574,-117.12609,4
+169,J and R Mini Mart,servicestations,"505 S 30th St', 'San Diego, CA 92113",32.70089,-117.12921,4
+170,Route 66,servicestations,"6936 Linda Vista Rd', 'San Diego, CA 92111",32.7863159179688,-117.170700073242,4
+171,Food Mart Gas station / Liquor,servicestations,"915 Camino Del Rio St', 'San Diego, CA 92116",32.76409,-117.15529,4
+172,Sunrise Market and Gas,servicestations,"4689 Market St', 'San Diego, CA 92102",32.71111,-117.09389,4
+173,Shell,servicestations,"2818 Boston Ave', 'San Diego, CA 92113",32.6942751250982,-117.133582389547,4
+174,NEX Autoport,servicestations,"3238 Guadacanal Rd', 'Bldg 484', 'Coronado, CA 92115",32.7016013208571,-117.182643413544,4
+175,High Seas Fuel Dock,fueldocks,"2540 Shelter Island Dr', 'San Diego, CA 92106",32.72051,-117.22664,4
+176,USA Gasoline,servicestations,"833 Turquoise St', 'San Diego, CA 92109",32.8086231,-117.2589561,4
+177,Summit Gasoline,servicestations,"3580 Sports Arena Blvd', 'San Diego, CA 92110",32.75418,-117.21329,4
+178,College Arco,servicestations,"5111 College Ave', 'San Diego, CA 92115",32.771,-117.06955,4
+179,Valero Gas Station,servicestations,"1025 Euclid Ave', 'San Diego, CA 92114",32.7166391390615,-117.084759409704,4
+180,Health Center Submarina,servicestations,"2777 Health Center Dr', 'San Diego, CA 92123",32.79304,-117.15652,4
+181,University City Service Center,servicestations,"3901 Governor Dr', 'San Diego, CA 92122",32.8534412033226,-117.203496547914,4
+182,Arco AM/PM,servicestations,"3045 Rosecrans St', 'San Diego, CA 92110",32.7442948147533,-117.212775349617,4
+183,Arco,servicestations,"6936 Linda Vista Rd', 'San Diego, CA 92111",32.7862823663125,-117.170718312264,4
+184,San Diego County Water Authority,utilities,"4677 Overland Ave', 'San Diego, CA 92123",32.82498,-117.13132,4
+185,Thrifty,servicestations,"2502 Imperial Ave', 'San Diego, CA 92102",32.7065505981445,-117.139831542969,4
+186,Shell,servicestations,"5970 Santo Rd', 'San Diego, CA 92124",32.8396939338363,-117.098042591402,4
+187,USA Gasoline 63405,servicestations,"2505 Morena Blvd', 'San Diego, CA 92110",32.788629023384,-117.205718171223,4
+188,Chevron,servicestations,"5040 El Cajon Blvd', 'San Diego, CA 92115",32.7571513,-117.0860799,4
+189,Royal Oil,servicestations,"6953 Navajo Rd', 'San Diego, CA 92119",32.80379,-117.04549,4
+190,Shell Foodmart & Carwash,servicestations,"7785 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.83237,-117.15372,4
+191,G & M Oil No 138,servicestations,"5103 Waring Rd', 'San Diego, CA 92120",32.7906568096054,-117.082124948502,4
+192,EBK Fuel,servicestations,"5345 Kearny Villa Rd', 'San Diego, CA 92123",32.8304012479819,-117.140597806842,4
+193,Western Pump,servicestations,"3235 F St', 'San Diego, CA 92102",32.713493347168,-117.124374389648,4
+194,Union 76 Gas,servicestations,"1704 Rosecrans St', 'San Diego, CA 92106",32.72894,-117.22592,4
+195,Shell,servicestations,"2777 Health Center Dr', 'San Diego, CA 92123",32.79304,-117.15652,4
+196,Chevron University City,servicestations,"3860 Governor Dr', 'San Diego, CA 92122",32.8549461364746,-117.205139160156,4
+197,Balboa 76,servicestations,"7647 Balboa Ave', 'San Diego, CA 92111",32.8213615,-117.1594162,4
+198,Joe Randazzo Chevron,servicestations,"1575 Garnet Ave', 'San Diego, CA 92109",32.7994537353516,-117.241073608398,4
+199,Wilcox Auto Service,servicestations,"9220 Dowdy Dr', 'San Diego, CA 92126",32.88939,-117.14704,4
+200,Extra Mile,servicestations,"3690 Murphy Canyon Rd', 'San Diego, CA 92123",32.8085971937147,-117.1165184356,4
+201,Chevron Extra Mile,servicestations,"8110 Mercury St', 'San Diego, CA 92111",32.8223240440276,-117.148516271031,4
+202,Auto Bistro,servicestations,"3580 Sports Arena Blvd', 'San Diego, CA 92110",32.754180000854,-117.213289998472,4
+203,Lake Murray Shell and Mart,servicestations,"5302 Lake Murray Blvd', 'La Mesa, CA 91942",32.7755432128906,-117.045379638672,4
+204,Mission Gorge Ultramar,servicestations,"6011 Mission Gorge Rd', 'San Diego, CA 92120",32.7833366394043,-117.097923278809,4
+205,Kearny Mesa Mobil,servicestations,"8380 Clairmont Mesa Blvd', 'San Diego, CA 92111",32.83323,-117.14394,4
+206,Shell,servicestations,"2204 Torrey Pines Rd', 'La Jolla, CA 92037",32.85083,-117.2538,4
+207,Apro 39,servicestations,"3766 Clairemont Mesa Blvd', 'San Diego, CA 92117",32.82804,-117.2065,4
+208,Arco Am/pm,servicestations,"4357 El Cajon Blvd', 'San Diego, CA 92105",32.7548996462047,-117.100698201853,4
+209,San Diego Gas & Electric Company,electricitysuppliers,"San Diego, CA 92101",32.7211,-117.16431,4
+210,Genesee Mobil,servicestations,"4505 Clairemont Mesa Blvd', 'San Diego, CA 92117",32.83418,-117.19435,4
+211,76,servicestations,"5790 Balboa Ave', 'San Diego, CA 92111",32.8205719,-117.1785889,4
+212,76 Station,servicestations,"3154 El Cajon Blvd', 'San Diego, CA 92104",32.7692425355543,-117.046827077866,4
+213,First & Cedar Shell,servicestations,"1666 1st Ave', 'San Diego, CA 92101",32.7227714921939,-117.164104999889,4
+214,SDGE Miramar,servicestations,"6875 Consolidated Dr', 'San Diego, CA 92121",32.8776207,-117.1674652,4
+215,S & S Crown Point Cheveron,servicestations,"3804 Ingraham St', 'San Diego, CA 92109",32.7889399,-117.23798,4
+216,G&M Food Mart Chevron Gas Station,servicestations,"1832 W Washington St', 'San Diego, CA 92103",32.74318,-117.18195,4
+217,Propel Fuels,servicestations,"3860 Kearny Mesa Blvd', 'San Diego, CA 92111",32.8277792,-117.2054222,4
+218,USA Gasoline,servicestations,"4202 Clairemont Mesa Blvd', 'San Diego, CA 92117",32.8315723168246,-117.202175224353,4
+219,Valero Gas Station,servicestations,"400 Orange Ave', 'Coronado, CA 92118",32.69448,-117.17533,4
+220,Shell,servicestations,"900 Orange Ave', 'Coronado, CA 92118",32.68727,-117.17955,4
+221,Arco AM/PM,servicestations,"9065 Campo Rd', 'Spring Valley, CA 91977",32.7307247607114,-117.048881003261,4
+222,Waring Road 76,servicestations,"5194 Waring Rd', 'San Diego, CA 92120",32.7925338745117,-117.081451416016,4
+223,La Jolla Village Mobil,servicestations,"3233 La Jolla Village Dr', 'La Jolla, CA 92037",32.8712971291952,-117.233362584141,4
+224,Quick Trip,carwash,"596 N Mollison Ave', 'Ste 102', 'El Cajon, CA 92021",32.80249,-116.95146,4
+225,Sysco Petroleum,servicestations,"2777 Health Center Dr', 'San Diego, CA 92123",32.79304,-117.15652,4
+226,Balboa Mobil,servicestations,"6066 Balboa Ave', 'San Diego, CA 92111",32.8206825256348,-117.176544189453,4
+227,Arco,servicestations,"6404 Mission Gorge Rd', 'San Diego, CA 92120",32.789995,-117.097706,4
+228,G & M 161,servicestations,"7070 Clairemont Mesa Blvd', 'San Diego, CA 92111",32.83305,-117.16423,4
+229,Governor Drive Exxon,servicestations,"3918 Governor Dr', 'San Diego, CA 92122",32.8550301,-117.2042389,4
+230,Chevron,servicestations,"6385 University Ave', 'San Diego, CA 92115",32.7543086644878,-117.058563535636,4
+231,Sempra Energy,utilities,"488 8th Ave', 'San Diego, CA 92101",32.7099896,-117.1574303,4
+232,Golden State Gasoline,servicestations,"7081 Broadway', 'Lemon Grove, CA 91945",32.742073,-117.046173,4
+233,National City Shell,servicestations,"1601 E 8th St', 'National City, CA 91950",32.68084,-117.09035,4
+234,ARCO,servicestations,"1139 S Harbison Ave', 'National City, CA 91950",32.68215,-117.07381,4
+235,Shell Gas Station,servicestations,"4794 Voltaire St', 'San Diego, CA 92107",32.7499212847162,-117.243022450494,4
+236,Urban Meters & Readers,utilities,"4241 Jutland Dr', 'Ste 103', 'San Diego, CA 92117",32.8243294,-117.2269592,4
+237,7-Eleven,convenience,"4342 Ingraham St', 'San Diego, CA 92109",32.797466734566,-117.240552306175,4
+238,California Finest Oil Dept Fill N Go,servicestations,"10821 Tierrasanta Blvd', 'San Diego, CA 92124",32.8213099,-117.09839,4
+239,Dion & Sons,utilities,"7111 Mission Gorge Rd', 'San Diego, CA 92120",32.8010499,-117.08972,4
+240,Shell Service Doug's,servicestations,"5151 70th St', 'La Mesa, CA 91941",32.7727088928223,-117.046409606934,4
+241,USA Gasoline,servicestations,"1551 Rosecrans St', 'San Diego, CA 92106",32.7267087898176,-117.227335385978,4
+242,Alta Ram Construction,excavationservices,"21220 Old Oak Rd', 'Alpine, CA 91901",32.7480981,-116.6927093,4
+243,Gasoline Depot,servicestations,"2401 E Division St', 'National City, CA 91950",32.6899395254607,-117.084924575904,4
+244,Draves Pipeline,contractors,"Bonsall, CA 92003",33.2903239410277,-117.225860955969,4
+245,USA Gasoline,servicestations,"1139 Harbison Ave', 'National City, CA 91950",32.6819214344187,-117.073952824028,4
+246,S & R Shell,servicestations,"2401 E Division St', 'National City, CA 91950",32.6899395254607,-117.084924575904,4
+247,MDR Utility Locating Specialists,utilities,"16506 Ave 288', 'Exeter, CA 93221",36.313209,-119.204553,4
