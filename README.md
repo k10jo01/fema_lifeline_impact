@@ -109,7 +109,10 @@ While this was easy to map, the image was not very clear and was not very intera
 
 Ultimately, we decided ArcGIS provided the best usability, interactiveness, and visuals. We could apply many layers to this map and update those layers simply and efficiently. We included layers of all businesses color-coded by Lifeline, the perimeters of historical wildfire disasters, and current high risk fire zones.
 
-[starting map](./03-Webapp-Images/Starting-Map.png)
+
+![alt text](https://raw.githubusercontent.com/k10jo01/fema_lifeline_impact/blob/master/03-Webapp-Images/Starting-Map.png)
+
+Additional visuals can be found at this link: https://public.tableau.com/profile/brenda.hali#!/vizhome/SanDigoCounty/Story1?publish=yes
 
 ---
 
