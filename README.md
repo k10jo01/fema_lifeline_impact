@@ -103,6 +103,7 @@ Once our data was collected and aligned with a FEMA lifeline, we mapped those lo
 While this was easy to map, the image was not very clear and was not very interactive. It was also not possible to map the Lifeline businesses and then add layers of fire perimeters or current fire risk zones.
 
 **BIOS**
+
 We could map the Lifeline data using a csv, however we could not clearly distinguish between Lifelines. 
 
 **ArcGIS**
@@ -145,7 +146,7 @@ We recommend to New Light Technologies and FEMA to invest in public and private 
 
 Additionally, if a partnership was established with platforms like Yelp or Google, they could add new features to better help FEMA in their response. Adding visible fields on their sites that note if the business is in an area affected by a disaster and whether or not that business is open as a result of the disaster could streamline our method even further.
 
-The ArcGIS map that was used to create our map was built through a free trial. For next steps, we recommend investing in this type of software to enhance this map and apply it to other areas affected by disasters. It has a software usage fee of $500 per year.
+Additional technology investments would help FEMA and their challenges in responding to and addressing disasters. These investments could include expansions on the tools that we tested here (ArcGIS) or invesment in new tools, such as Ptolemy. The ArcGIS tool that was used to create our map was built through a free trial. For next steps, we recommend investing in this type of software to enhance this map and apply it to other areas affected by disasters. It has a software usage fee of $500 per year. 
 
 The map is an example of what could be used for any area in the US that might be affected by a disaster. To make this process easier for FEMA and its contractors, we recommend investing in and acquiring new technologies that help to efficiently and effectively map out the information that we mapped out in this analysis. Additionally, partnering with a tech company like Google to provide businesses an opportunity to put their open status on Google after a disaster can benefit response teams to more quickly assess the status of a disaster. Currently, one of the well-known ways that FEMA assesses the damage is through the [Waffle House Index](https://www.fema.gov/blog/2011-07-07/news-day-what-do-waffle-houses-have-do-risk-management). Implementing a tech partnership to make it easier for all businesses to communicate their status can paint a better picture of the status after a disaster. 
 
