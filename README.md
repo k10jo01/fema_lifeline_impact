@@ -103,32 +103,29 @@ Once our data was collected and aligned with a FEMA lifeline, we mapped those lo
 While this was easy to map, the image was not very clear and was not very interactive. It was also not possible to map the Lifeline businesses and then add layers of fire perimeters or current fire risk zones.
 
 **BIOS**
-
+We could map the Lifeline data using a csv, however we could not clearly distinguish between Lifelines. 
 
 **ArcGIS**
 
 Ultimately, we decided ArcGIS provided the best usability, interactiveness, and visuals. We could apply many layers to this map and update those layers simply and efficiently. We included layers of all businesses color-coded by Lifeline, the perimeters of historical wildfire disasters, and current high risk fire zones.
 
+We started by mapping out the businesses, color coded according to what Lifeline they aligned with.
 ![alt text](./03-Webapp-Images/Lifelines-all-layers.png)
 
-We started by mapping out the businesses, color coded according to what Lifeline they aligned with.
-
-
-![alt text](./03-Webapp-Images/Lifelines-wildfires-overlap.png)
 
 This shows the Lifelines in relation to perimeters of previous disasterous fires.
+![alt text](./03-Webapp-Images/Lifelines-wildfires-overlap.png)
 
-
-![alt text](./03-Webapp-Images/Lifelines-wildfires-activefires.png)
 
 This shows the Lifelines in relation to current (November 2019) active fires. 
+![alt text](./03-Webapp-Images/Lifelines-wildfires-activefires.png)
 
-
-![alt text](./03-Webapp-Images/Wildfire-potential-Lifeline-businesses.png)
 
 This shows the Lifelines in relation to current (November 2019) high risk of fire zones.
+![alt text](./03-Webapp-Images/Wildfire-potential-Lifeline-businesses.png)
 
 
+For a video demonstration of the full functionality of the ArcGIS map https://www.youtube.com/watch?v=Sl9ZTXYvWII&feature=youtu.be
 Additional visuals can be found at this link: https://public.tableau.com/profile/brenda.hali#!/vizhome/SanDigoCounty/Story1?publish=yes
 
 ---
